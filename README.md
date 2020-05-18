@@ -9,8 +9,8 @@ Quickly plot multiple basemaps from inputted region of interests (ROIs) using [G
 ## **Features:**
    * Plot is designed to maximize space usage on A4 size media [8.27 x 11.69 in or 210 x 297 mm; gmt set PS_MEDIA A4].
    * Portrait and landscape mode is automatically set based on simple length/width ratio of Longitude/Latitude.
-   * Portrait mode produces 6.25 inches plot with 2.02 inches total margin (left and right margin).
-   * Landscape mode outputs 9.67 inches plot with similar margin size to the portrait mode.
+   * Portrait mode produces a maximum of 6.25 inches plot with 2.02 inches total margin (left and right margin).
+   * Landscape mode outputs a maximum of 9.67 inches plot with similar margin size to the portrait mode.
    * If script couldn't find grid file on your computer, it will give you option to download it from [topex.ucsc.edu](ftp://topex.ucsd.edu/pub/srtm15_plus) or continue plotting the basemap without DEM.
    * Main input file is **maps.txt** in which output filenames, ROIs, PoF switch (Plain [0] or Fancy [1] map frame switch), iPos (inset map position), sPos (map scale position) are set.
    * Coastline resolution, annotation and minor tick, and map scale are determined from total length of ROI Longitude/Latitude. Following table shows the assigned values:
@@ -26,15 +26,14 @@ Quickly plot multiple basemaps from inputted region of interests (ROIs) using [G
 
    * **Seismicity** data downloaded from [IRIS Wilber3](http://ds.iris.edu/wilber3/find_event) website with the following criteria
       1. Covering Longitude from 93&deg; to 143&deg; East, Latitude from -15&deg; South to 10&deg; North,
-      2. Events dated from 1971-01-01 to 2010-04-16
-      3. Magnitude >3.0 and depth range from 0-300 km [shallow to medium earthquakes only]. There are 167349 total events recorded.
-      4. Earthquake events grouped into two categories: *Shallow Events (0-50 km depth)* and *Intermediate Events (>50-300 km depth)
-
-* **Volcanoes** data are downloaded from Global Volcanism Program ([Global Volcanism Program, 2013. Volcanoes of the World, v. 4.7.6. Venzke, E (ed.). Smithsonian Institution]( https://doi.org/10.5479/si.GVP.VOTW4-2013). Downloaded 25 Feb 2019).
-
-* [**Global CMT**](https://www.globalcmt.org) data is available from 1976 to 2016 ( [Dziewonski et al., 1981](https://doi:10.1029/JB086iB04p02825); [Ekstrom et al., 2012](https://doi:10.1016/j.pepi.2012.04.002) ).
-
-* [**Scientific colour-maps.** Crameri, F. (2018)](http://doi.org/10.5281/zenodo.1243862)
+      2. Events dated from 1971-01-01 to 2020-04-16
+      3. Magnitude >3.0 with depth ranges from 0-300 km [shallow to medium earthquakes]. There are 167349 total events recorded.
+      4. Earthquake events grouped into two categories: *Shallow Events (0-50 km depth)* and *Intermediate Events (>50-300 km depth)*,
+5. The features are activated by switches (**s1=1** and **s2=1** representing shallow and intermediate events, respectively).
+* **Volcanoes** data are downloaded from Global Volcanism Program ([Global Volcanism Program, 2013. Volcanoes of the World, v. 4.7.6. Venzke, E (ed.). Smithsonian Institution]( https://doi.org/10.5479/si.GVP.VOTW4-2013). Downloaded 25 Feb 2019). Plotting the feature require switch activation (**v=1**).
+* [**Global CMT**](https://www.globalcmt.org) data is available from 1976 to 2016 ( [Dziewonski et al., 1981](https://doi:10.1029/JB086iB04p02825); [Ekstrom et al., 2012](https://doi:10.1016/j.pepi.2012.04.002) ) and it is activated using **g1=1** and **g2=1** switches.
+* Option to use [**Scientific colour-maps.** Crameri, F. (2018)](http://doi.org/10.5281/zenodo.1243862) palette (pls. Look under **cpt/scm6** folder). User need to implement it in the codes manually.
+* Plate boundaries by [Bird (2003)](https://doi.org/10.1029/2001GC000252) can be activated using **p=1** switch.
 
 ## **Files and Folders:**
 
@@ -150,7 +149,7 @@ Following are the results:
 
 <img src="./images/seismicity/Indo-gcmt.jpg" alt="Indonesia" style="zoom:70%;" />
 
-<div align="center"><b>Figure 10.</b> Basemap of Indonesia region plotted automatically in lanscape mode without DEM using plain map frames. GCMT data are plotted on the map.</div>
+<div align="center"><b>Figure 10.</b> Basemap of Indonesia region plotted automatically in lanscape mode without DEM using plain map frames. GCMT data, volcanoes and plate boundaries are plotted on the map.</div>
 
 <img src="./images/basic-maps-gray10/Indo.jpg" alt="Indonesia" style="zoom:70%;" />
 
@@ -158,13 +157,13 @@ Following are the results:
 
 ## **REFERENCES:**
 
-Bird, P. (2003). An updated digital model of plate boundaries. *Geochemistry, Geophysics, Geosystems*, *4*(3).
+Bird, P. (2003). An updated digital model of plate boundaries. *Geochemistry, Geophysics, Geosystems*, *4*(3), https://doi.org/10.1029/2001GC000252
 
-Crameri, F. (2019, January). Scientific Colour Maps: Reducing error across the Geodynamics community. In *Geophysical Research Abstracts* (Vol. 21).
+Crameri, F. (2018). Scientific colour-maps. Zenodo. http://doi.org/10.5281/zenodo.1243862
 
 Dziewonski, A. M.,  Chou, T.‐A., and  Woodhouse, J. H. ( 1981),  Determination of earthquake source parameters from waveform data for studies of global and regional seismicity, *J. Geophys. Res.*,  86( B4),  2825– 2852, doi:[10.1029/JB086iB04p02825](https://doi.org/10.1029/JB086iB04p02825).
 
 Ekström, G., Nettles, M., & Dziewoński, A. M. (2012). The global CMT project 2004–2010: Centroid-moment tensors for 13,017 earthquakes. *Physics of the Earth and Planetary Interiors*, *200*, 1-9. doi: [10.1016/j.pepi.2012.04.002](https://doi.org/10.1016/j.pepi.2012.04.002)
 
-Wessel, P.,  Smith, W. H. F.,  Scharroo, R.,  Luis, J. and  Wobbe, F. ( 2013),  Generic Mapping Tools: Improved Version Released, *Eos Trans. AGU*,  94( 45),  409.
+Wessel, P.,  Smith, W. H. F.,  Scharroo, R.,  Luis, J. and  Wobbe, F. ( 2013),  Generic Mapping Tools: Improved Version Released, *Eos Trans. AGU*,  94( 45),  409, https://doi.org/10.1002/2013EO450001
 
