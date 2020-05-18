@@ -37,14 +37,14 @@ Quickly plot multiple basemaps from inputted region of interests (ROIs) using [G
 
 ## **Files and Folders:**
 
-Currently there are two main scripts: **_basemap_plotter.sh_** and **_srtm15p_downloader.sh_** and **_README.md_** (This file) in the main folder. Four folders are there to put cpt files (**cpt** folder), grid files (**grd** folder), various input data (**data** folder), postscript results (**outputs**), and images of this document (**images** folder).
+Currently there are three main scripts: **_basemap_plotter.sh_**, **seismicity.sh** and **_srtm15p_downloader.sh_** in the main folder beside the **_README.md_** (This file). Seven folders are there to put cpt files (**cpt** folder), grid files (**grd** folder), various input data (**data** folder), global cmt data (**gcmt** folder), seismic event data (**seism** folder), postscript results (**outputs**), and images of this document (**images** folder). Grid files inside grd folder are  tracked and uploaded to GitHub LFS due to their sizes. 
 
 <div align="center"><img src="./images/ff.jpg" alt="files and folders" style="zoom:30%;" /></div>
 
 <div align="center"><b>Figure 1.</b> Files and folders structure</div>
 
 ## **Examples:**
-It is quite simple to create several basemaps. Let say we want to have four basemaps plotted: Bali and Lombok Island to the extent of Java Trench, Lombok Island, Banda Arc transitional zone, and Singapore. First, we need to edit **maps.txt** located in **data folder** and input six parameters: 1) file names, minimum longitudes, maximum longitudes, minimum latitudes, maximum latitudes, and logical switch for map frames. Following is the content input file listed four maps we are going to make:
+It is quite simple to create several basemaps. Let say we want to have eight basemaps plotted: **Bali and Lombok Island** to the extent of Java Trench, **Bali Island**, **Lombok Island**, **Banda Arc** transitional zone, **Singapore**, **Indonesia**, **Aceh Province**, and **North Sumatra Province**. First, we need to edit **maps.txt** located in **data folder** and input six parameters: 1) file names, minimum longitudes, maximum longitudes, minimum latitudes, maximum latitudes, logical switch for map frames, inset position and scale position. Following is the content input file listed eight maps we are going to make:
 
 ```
 Bali_and_Lombok.ps  112 120 -12 -4   0   TR  BR
@@ -57,9 +57,9 @@ Aceh.ps 94.88   98.32   1.28    6.21    0   BL  BR
 Sumut.ps   96.83   100.66  -1.00    4.33    0   TR  BL
 ```
 
-If you don't have SRTM15 plus grid file, **_srtm15p_downloader.sh_** will download and prepare the file in the grd directory. Please be patient **SRTM15+V2.1.nc** is a big file (~6Gb). After download process is completed, two new grid files will be created: **srtm15idn.grd** (DEM file covering Indonesia region) and **srtm15idni.grd** (for illumination).
+You should have two grid files when you clone this repository. But if you don't get/have SRTM15 plus grid file, **_srtm15p_downloader.sh_** will download and prepare the file in the grd directory. Please be patient **SRTM15+V2.1.nc** is a big file (~6Gb). After download process is completed, two new grid files will be created: **srtm15idn.grd** (DEM file covering Indonesia region) and **srtm15idni.grd** (for illumination).
 
-To run the script, simply type in the script name in the terminal windows:
+To run the script independently, simply type in the script name in the terminal windows (or otherwise script will automatically called from **basemap_plotter.sh**):
 
 ``` bash
 $ ./srtm15p_downloader.sh
@@ -81,7 +81,7 @@ and to create illumination file
 Done! Going back to main directory now
 ```
 
-Running the script below will produce maps we wants.
+Running the main script below will produce maps we wanted.
 
 ```bash
 $ ./basemap_plotter.sh
