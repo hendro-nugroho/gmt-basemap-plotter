@@ -40,13 +40,14 @@ Quickly plot multiple basemaps from inputted region of interests (ROIs) using [G
 
 Currently there are two main scripts: **_basemap_plotter.sh_** and **_srtm15p_downloader.sh_** and **_README.md_** (This file) in the main folder. Four folders are there to put cpt files (**cpt** folder), grid files (**grd** folder), various input data (**data** folder), postscript results (**outputs**), and images of this document (**images** folder).
 
-<div align="center"><img src="./images/ff.jpg" alt="files and folders" style="zoom:50%;" /></div>
+<div align="center"><img src="./images/ff.jpg" alt="files and folders" style="zoom:30%;" /></div>
 
 <div align="center"><b>Figure 1.</b> Files and folders structure</div>
 
 ## **Examples:**
 It is quite simple to create several basemaps. Let say we want to have four basemaps plotted: Bali and Lombok Island to the extent of Java Trench, Lombok Island, Banda Arc transitional zone, and Singapore. First, we need to edit **maps.txt** located in **data folder** and input six parameters: 1) file names, minimum longitudes, maximum longitudes, minimum latitudes, maximum latitudes, and logical switch for map frames. Following is the content input file listed four maps we are going to make:
 
+```
 Bali_and_Lombok.ps  112 120 -12 -4   0   TR  BR
 Bali.ps 114.4   115.8   -9.05    -7.95    0   BL  TR
 Lombok.ps  115.25 117 -9.2 -7.9   1   TL  BR
@@ -55,6 +56,7 @@ Singapore.ps 100    105 0   5   0   TR  BR
 Indo.ps 93  143 -15 10  0   TR  BR
 Aceh.ps 94.88   98.32   1.28    6.21    0   BL  BR
 Sumut.ps   96.83   100.66  -1.00    4.33    0   TR  BL
+```
 
 If you don't have SRTM15 plus grid file, **_srtm15p_downloader.sh_** will download and prepare the file in the grd directory. Please be patient **SRTM15+V2.1.nc** is a big file (~6Gb). After download process is completed, two new grid files will be created: **srtm15idn.grd** (DEM file covering Indonesia region) and **srtm15idni.grd** (for illumination).
 
@@ -108,19 +110,19 @@ $
 
 Following are the results:
 
-<img src="./images/Bali_and_Lombok.jpg" alt="Bali_and_Lombok" style="zoom:70%;" />
+<img src="./images/Bali_and_Lombok.jpg" alt="Bali_and_Lombok" style="zoom:50%;" />
 
 <div align="center"><b>Figure 2.</b> Basemap of Bali and Lombok Island with plain map frames.</div>
 
-<img src="./images/basic-maps-asym/Bali.jpg" alt="Bali" style="zoom:71%;" />
+<img src="./images/basic-maps-asym/Bali.jpg" alt="Bali" style="zoom:50%;" />
 
 <div align="center"><b>Figure 3.</b> Basemap of Bali Island in fancy map frames.</div>
 
-<img src="./images/basic-maps-asym/Lombok.jpg" alt="Lombok Island" style="zoom:45%;" />
+<img src="./images/basic-maps-asym/Lombok.jpg" alt="Lombok Island" style="zoom:32%;" />
 
 <div align="center"><b>Figure 4.</b> Basemap of Lombok Island plotted in landscape mode inside fancy frames.</div>
 
-<img src="./images/basic-maps-asym/Singapore.jpg" alt="Singapore" style="zoom:70%;" />
+<img src="./images/basic-maps-asym/Singapore.jpg" alt="Singapore" style="zoom:50%;" />
 
 <div align="center"><b>Figure 5.</b> Basemap of Singapore region plotted automatically in portrait mode using plain map frames.</div>
 
@@ -128,11 +130,11 @@ Following are the results:
 
 <div align="center"><b>Figure 6.</b> Basemap of Indonesia region plotted automatically in landscape mode using plain map frames.</div>
 
-<img src="./images/basic-maps-asym/Aceh.jpg" alt="Aceh Province" style="zoom:70%;" />
+<img src="./images/basic-maps-asym/Aceh.jpg" alt="Aceh Province" style="zoom:50%;" />
 
 <div align="center"><b>Figure 7.</b> Basemap of Aceh Province plotted automatically in portrait mode using plain map frames.</div>
 
-<img src="./images/basic-maps-asym/Sumut.jpg" alt="North Sumatra Province" style="zoom:70%;" />
+<img src="./images/basic-maps-asym/Sumut.jpg" alt="North Sumatra Province" style="zoom:50%;" />
 
 <div align="center"><b>Figure 8.</b> Basemap of North Sumatra Province (Propinsi Sumatera Utara) plotted automatically in portrait mode using plain map frames.</div>
 
