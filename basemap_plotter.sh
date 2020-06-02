@@ -1,8 +1,8 @@
 #!/usr/local/bin/bash
-
+# Please check BASH you use on your computer: $ which bash
 # -----------------------------------------------------------------------------
-# Basemap Plotter - Version 1.0 - Quickly Generate HQ basemaps covering
-# Indonesia Region [93/143/-15/10] using GMT 5.4.5
+# Basemap Plotter - Version 3.0 - Quickly Generate HQ basemaps covering
+# Indonesia Region [-R93/143/-15/10] using GMT 5.4.5
 #
 # Author: Hendro Nugroho -- 2020/04/15
 #
@@ -21,9 +21,10 @@ echo "+  Topography and bathymetry are based on SRTM15+V2.1                    +
 echo "+  If you do not have the grid file on your computer, option to download +"
 echo "+  the file is provided.                                                 +"
 echo "+                                                                        +"
-echo "+  Main input file is maps.txt,  which contains seven variables: output  +"
+echo "+  Main input file is maps.txt,  which contains eight variables: output  +"
 echo "+  postscript file name, minimum & maximum longitude, minimum & maximum  +"
-echo "+  latitude, switch of plain/fancy map frames, and inset position.       +"
+echo "+  latitude, switch of plain/fancy map frames, inset position and scale  +"
+echo "+  position.                                                             +"
 echo "+                                                                        +"
 echo "+  Script Features:                                                      +"
 echo "+                                                                        +"
@@ -43,7 +44,9 @@ echo "+   5. Seismicity (0-300 km & 1971-2020), GCMT (0-300 km & 1976-2020),   +
 echo "+      volcanoes, Bird's plate boundaries are available for plotting.    +"
 echo "+      Scientific Color Map version 6 is included as cpt options.        +"
 echo "+                                                                        +"
-echo "+   6. Produced postscript files are unclosed to enable additional la-   +"
+echo "+   6. Slab 2.0 (Hayes et al., 2018) is available for plotting.          +"
+echo "+                                                                        +"
+echo "+   7. Produced postscript files are unclosed to enable additional la-   +"
 echo "+      yer to be added using a different/personal script.                +"
 echo "+                                                                        +"
 echo "+------------------------------------------------------------------------+"
@@ -70,7 +73,7 @@ fi
 # Grid files; Topo15
 # If you want to plot a basemap without DEM, simply rename the files below
 #
-topo="grd/top15idnx.grd"
+topo="grd/top15idn.grd"
 topoi="grd/top15idni.grd"
 
 if [ ! -f "$topo" ] || [ ! -f "$topoi" ]; then
@@ -110,7 +113,7 @@ gmt set FONT_LABEL 10p
 # Check if the map boundaries are within the grid file
 #
 if (( $(echo "$min_lon < 93" | bc -l) )) || (( $(echo "$max_lon > 143" | bc -l) )) || (( $(echo "$min_lat < -15" | bc -l) )) || (( $(echo "$max_lat > 10" | bc -l) )); then
-    echo "Region is wider than maximum defined region [93/143/-15/10]."
+    echo "Region is wider than maximum defined region [93/143/-15/10]"
     echo "Please edit the $input file"
     cat $input
     exit
@@ -119,7 +122,14 @@ fi
 # Data files [data/*]
 #
 volc="data/world_volcanoes.gmt"
-plate="data/Bird2002_pb.xy"
+
+# PBIRD2003
+#plate="data/bird2003.xy"
+
+# NUVEL
+# http://jules.unavco.org/GMT/Eurasian_plate
+# and Australian_plate
+plate="data/nuvel.gmt"
 icity="data/cities-ins.gmt"
 mcity="data/idn-36-cities.gmt"
 
@@ -129,28 +139,34 @@ mcity="data/idn-36-cities.gmt"
 ####                shallow crustal events (s1), intermediate earthquakes (s2),
 ####                shallow events gcmt (g1), intermediate events gcmt (g2),
 ###                 start (yr1) - end (yr2) year of seismicity data
-####                (1971-2020 data are available)
+####                (1971-2020 data are available), slab2 model (slb), major
+####                cities (ct), inset
 ####
 ### 1=ON; 0=OFF; s1=shallow EQ (50km <=); s2=intermediate EQ (300km > eq > 50km)
 # ------------------------------------------------------------------------------
+################################################################################
+
 v=0
 p=0
 # Seismicity and GCMT
-s1=0; s2=0
+s1=1; s2=0; iris=0; usgs=1
 g1=0; g2=0
 
-# start - end yr of seismicity data to be plotted ==> available data 1971-2020
-# [1971 - 2020]
-yr1=2015
+# If s == 1; start - end yr of seismicity data to be plotted
+# available data: 1971-2020
+yr1=1970
 yr2=2020
 
-# Position of erthquake depth scale
-dPos="BC"
+# If s or g == 1; Position of erthquake depth scale
+dPos="BL"
+
+# slab2
+slb=0
 
 # Cities
-ct=1
+ct=0
 # Inset [On/Off]; default inset=1 [On]
-inset=1
+inset=0
 
 ### INSET CPTs
 #iLandC=olivedrab
@@ -160,6 +176,7 @@ iLandC=white
 #iLandC=lightgoldenrod1
 iSeaC=lightblue1
 
+################################################################################
 # ------------------------------------------------------------------------------
 #
 # Output directory
@@ -271,7 +288,7 @@ else
 fi
 
 # Frame annotations
-#
+# frame label
 #frl="-BWESN"
 frl="-BWeSn" # default
 #frl="-BwEsN"
@@ -281,8 +298,8 @@ frl="-BWeSn" # default
 
 # Color palette
 #
-#cpt1="cpt/asym.cpt" # default
-cpt1="cpt/gray10.cpt" #
+cpt1="cpt/asym.cpt" # default
+#cpt1="cpt/gray10.cpt" #
 
 # Abyss & mod. Arctic [topo default]
 # cpt1="cpt/asym.cpt"
@@ -312,8 +329,9 @@ close="-O"
 
 # Grid file
 #
-topo_rgn="grd/topo_rgn.grd"       # default [temporary grid]
-topo_rgni="grd/topo_rgni.grd"     # used if clipping is on
+#topo_rgn="grd/any-filename-not-in-the-dir.grd"      # uncomment if you don't want to plot DEM
+topo_rgn="grd/topo_rgn.grd"                         # default [temporary grid]
+topo_rgni="grd/topo_rgni.grd"                       # used if clipping is on
 
 # Second check if grid files exist
 #
@@ -414,7 +432,7 @@ var="-Glightgray -N1,0.25p,blue,-" # used if no grid file available
 #var="-N1,0.25p,blue,-"
 gmt psbasemap $rgn $prj $frx $fry $frl $ctr $add > $ps
 
-if (( $t == 1 )); then
+if (( $t == 1 )) && (( $slb == 0 )); then
     var=""
     gmt grdimage $topo_rgn $ditto $open -C$cpt1 -I+a45+nt1 $ctr >> $ps
     #
@@ -424,15 +442,20 @@ if (( $t == 1 )); then
     #gmt pscoast $ditto -B $ctr $open -Q >> $ps
 fi
 
-################### YOUR PLOT ON TOP OF BASEMAP ####################
-
-#source lombok.sh
-
-####################################################################
 #
 gmt pscoast $ditto $pen1 $cres $frx $fry $frl $scl $var $ctr $open >> $ps
 
-# DCW option fot TL boundary
+# if seis. or gcmt plot requested
+#
+if [ $s1 == 1 ] || [ $s2 == 1 ] || [ $g1 == 1 ] || [ $g2 == 1 ]; then
+    # run the seismicity script
+    source seismicity.sh
+fi
+
+################### YOUR PLOT ON TOP OF BASEMAP ####################
+# source lombok.sh
+####################################################################
+# DCW option for TL boundary
 #
 #gmt pscoast $ditto $pen1 $cres $frx $fry $frl $scl $var -ETL+pthinnest $ctr $open >> $ps
 
@@ -440,17 +463,16 @@ gmt pscoast $ditto $pen1 $cres $frx $fry $frl $scl $var $ctr $open >> $ps
 #
 #gmt pscoast $ditto $pen1 $cres $frx $fry $frl $scl $var -ETL+pthinnest $ctr $open >> $ps
 
-# TIMOR-LESTE BORDER (USE ONLY IF YOU ARE PLOTTING TIMOR ISLAND)
-#
-#if [ $t == 0 ]; then
-  #gmt psxy data/tles_idn_border.gmt $ditto $ctr $pen1 $open >> $ps
-#fi
+# if slab plot is requested
+if [ $slb == 1 ]; then
+    source slab2-plotter.sh
+fi
 
-# if seis. or gcmt plot requested
+# TIMOR-LESTE BORDER (USED ONLY IF TIMOR ISLAND is plotted)
 #
-if [ $s1 == 1 ] || [ $s2 == 1 ] || [ $g1 == 1 ] || [ $g2 == 1 ]; then
-    # run the seismicity script
-    source seismicity.sh
+if [ $t == 0 ]; then
+  gmt psxy data/tles_idn_border.gmt $ditto $ctr $pen1 $open >> $ps
+  #gmt psxy $HOME/Downloads/tl_adm.gmt $ditto $ctr $pen1 $open >> $ps
 fi
 
 # if volc. data exist, and v switch is on
@@ -501,7 +523,7 @@ if (( $(echo "$inset == 1" | bc -l) )); then
 fi
 
 # cleaning up
-rm -f gmt.conf gmt.history $topo_rgn tmp ibox #$eqcpt0 $eqcpt1 $eqcpt2
+rm -f gmt.conf gmt.history $topo_rgn tmp ibox #$eqcpt0 $eqcpt1 $eqcpt2 $sd_rgn
 
 done < "$input"
 
@@ -509,4 +531,13 @@ echo ""
 echo "Done!"
 echo ""
 
+### Reminder: PS file is NOT closed to allow you adding specific plots from your own script
+### If you want to close it (to avoid gmt psconvert complain), simply replace $open on the last line (# 553) with $close.
+###
+#
+# macOS
 open $ps
+
+#linux
+# gs $ps
+# gv $ps

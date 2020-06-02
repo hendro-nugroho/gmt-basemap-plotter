@@ -1,0 +1,63 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1971-12-11T03:29:59.000Z,1.761,127.32,115,5.6,mw,,,,,iscgem,iscgem777656,2020-03-26T18:40:41.366Z,"Halmahera, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-12-07T06:23:12.000Z,3.74,127.991,55.5,5.8,mw,,,,,iscgem,iscgem777551,2015-05-13T18:53:06.000Z,"Kepulauan Talaud, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-12-04T15:55:46.000Z,7.942,126.59,55,5.5,mw,,,,,iscgem,iscgem777470,2020-03-26T18:39:59.831Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-11-22T08:19:57.000Z,0.105,123.995,103.3,6,mw,,,,,iscgemsup,iscgemsup778732,2020-03-27T09:43:13.774Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-11-11T11:16:53.000Z,-2.682,136.511,15,5.8,mw,,,,,iscgem,iscgem778478,2020-03-26T18:42:38.178Z,"near the north coast of Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-11-08T22:43:02.000Z,5.737,126.433,170,5.6,mw,,,,,iscgem,iscgem778408,2015-05-13T18:53:06.000Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-11-05T23:57:29.000Z,-2.006,100.126,35,5.6,mw,,,,,iscgem,iscgem778331,2020-03-26T18:42:04.630Z,"Kepulauan Mentawai region, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-10-16T21:54:29.000Z,-3.467,127.154,60,5.6,mw,,,,,iscgem,iscgem779376,2020-03-26T18:46:07.423Z,"Seram, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-26T16:33:05.000Z,0.072,124.822,59.2,5.8,mw,,,,,iscgem,iscgem780632,2015-05-13T18:53:05.000Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-26T15:25:23.000Z,3.194,125.822,75,5.6,mw,,,,,iscgem,iscgem780629,2015-05-13T18:53:05.000Z,"Kepulauan Sangihe, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-16T06:22:40.000Z,-5.912,130.603,131,7,mw,,,,,iscgemsup,iscgemsup780358,2020-03-27T09:43:27.277Z,"Banda Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-09-08T22:09:00.000Z,-6.536,130.71,65,5.7,mw,,,,,iscgem,iscgem780117,2015-05-13T18:53:05.000Z,"Banda Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-29T03:35:16.000Z,6.308,127.377,54.7,5.6,mw,,,,,iscgem,iscgem781730,2015-05-13T18:53:05.000Z,"Philippine Islands region",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-11T04:53:20.000Z,1.172,126.154,45,5.5,mw,,,,,iscgem,iscgem781129,2015-05-13T18:53:05.000Z,"Molucca Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-08-02T09:01:11.000Z,1.612,126.489,35,5.6,mw,,,,,iscgem,iscgem780834,2015-05-13T18:53:05.000Z,"Molucca Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-30T03:58:02.000Z,1.739,127.146,30,5.6,mw,,,,,iscgem,iscgem782999,2020-03-26T19:01:32.590Z,"Halmahera, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-25T14:14:27.000Z,-6.021,129.901,177.6,5.6,mw,,,,,iscgem,iscgem782658,2015-05-13T18:53:05.000Z,"Banda Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-17T05:32:44.000Z,7.045,94.66,135,6.2,mw,,,,,iscgem,iscgem782377,2015-05-13T18:53:05.000Z,"Nicobar Islands, India region",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-14T23:00:07.000Z,2.592,129.189,40,5.6,mw,,,,,iscgem,iscgem782253,2015-05-13T18:53:05.000Z,"Halmahera, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-08T19:07:10.000Z,-7.071,129.653,105.5,6.2,mw,,,,,iscgem,iscgem782004,2015-05-13T18:53:05.000Z,"Kepulauan Babar, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-03T08:10:05.000Z,-8.39,111.361,60.9,5.6,mw,,,,,iscgem,iscgem781869,2020-03-26T18:54:20.372Z,"Java, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-07-01T01:16:18.000Z,-6.358,130.159,141.4,5.9,mw,,,,,iscgemsup,iscgemsup781800,2015-07-13T17:02:24.000Z,"Banda Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-06-26T19:27:14.000Z,-5.141,96.852,13.7,6.4,mw,,,,,iscgem,iscgem783841,2015-05-13T18:53:05.000Z,"southwest of Sumatra, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-06-05T09:20:52.000Z,6.031,126.068,35,5.7,mw,,,,,iscgem,iscgem783167,2020-03-26T19:02:16.360Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-19T11:06:31.000Z,2.302,129.074,30,5.5,mw,,,,,iscgem,iscgem784725,2015-05-13T18:53:05.000Z,"Halmahera, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-10T11:53:55.000Z,7.981,126.908,40.7,5.8,mw,,,,,iscgem,iscgem784296,2020-03-26T19:05:33.438Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-07T00:21:15.000Z,-2.751,119.69,26.8,6,mw,,,,,iscgem,iscgem784158,2020-04-17T21:24:48.347Z,"Sulawesi, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-05-04T02:04:32.000Z,-6.564,105.407,45,6.4,mw,,,,,iscgem,iscgem784056,2020-04-17T21:24:45.510Z,"Sunda Strait, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-20T16:13:22.000Z,4.714,126.517,75,5.7,mw,,,,,iscgem,iscgem785768,2015-05-13T18:53:05.000Z,"Kepulauan Talaud, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-08T07:45:59.000Z,-4.33,102.285,75,7,mw,,,,,iscgemsup,iscgemsup785445,2020-04-17T21:09:21.784Z,"southern Sumatra, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-07T04:59:39.000Z,2.514,129.106,31.3,6.6,mw,,,,,iscgem,iscgem785417,2020-04-17T21:25:07.543Z,"Halmahera, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-05T05:02:13.000Z,-0.237,124.735,35,5.7,mw,,,,,iscgem,iscgem785347,2015-05-13T18:53:05.000Z,"Molucca Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-04-02T04:16:08.000Z,9.022,125.597,15,5.5,mw,,,,,iscgem,iscgem785235,2020-03-26T19:10:23.809Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-31T10:23:57.000Z,8.9,125.657,15,5.7,mw,,,,,iscgem,iscgem786767,2020-03-26T19:15:05.371Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-31T09:14:01.000Z,8.981,125.646,15,5.7,mw,,,,,iscgem,iscgem786765,2020-03-26T19:14:53.223Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-28T17:56:58.000Z,-9.583,124.538,40,5.8,mw,,,,,iscgem,iscgem786716,2020-04-17T21:25:25.553Z,"Timor region",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-19T16:45:30.000Z,2.218,126.753,25,5.6,mw,,,,,iscgem,iscgem786476,2015-05-13T18:53:05.000Z,"Molucca Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-17T03:14:03.000Z,-3.24,139.84,55,5.7,mw,,,,,iscgem,iscgem786409,2020-03-26T19:13:13.642Z,"Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-03-16T20:35:21.000Z,8.417,127.216,58.5,6.1,mw,,,,,iscgem,iscgem786403,2015-05-13T18:53:05.000Z,"Philippine Islands region",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-25T22:14:19.000Z,3.274,95.86,30,5.7,mw,,,,,iscgem,iscgem787713,2020-03-26T19:17:59.029Z,"off the west coast of northern Sumatra",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-25T14:36:02.000Z,5.89,126.715,85,5.8,mw,,,,,iscgem,iscgem787701,2015-05-13T18:53:05.000Z,"Mindanao, Philippines",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-12T23:33:19.000Z,1.393,121.187,65,5.5,mw,,,,,iscgem,iscgem787343,2020-03-26T19:16:21.162Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-06T08:17:48.000Z,2.236,126.828,20,5.9,mw,,,,,iscgem,iscgem786928,2015-05-13T18:53:05.000Z,"Molucca Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-02-04T15:33:29.000Z,0.653,98.711,30,7,mw,,,,,iscgem,iscgem786889,2020-04-17T21:25:28.010Z,"Nias region, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-27T16:05:51.000Z,1.645,126.416,105,5.6,mw,,,,,iscgem,iscgem788618,2015-05-13T18:53:05.000Z,"Molucca Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-21T17:19:40.000Z,-7.893,122.684,241.1,5.6,mw,,,,,iscgem,iscgem788437,2020-03-26T19:22:03.133Z,"Flores Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-18T05:52:20.000Z,1.054,125.855,17.5,5.5,mw,,,,,iscgem,iscgem788348,2015-05-13T18:53:04.000Z,"Molucca Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-18T00:03:30.000Z,1.058,125.843,10,5.7,mw,,,,,iscgem,iscgem788340,2015-05-13T18:53:04.000Z,"Molucca Sea",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-14T18:07:23.000Z,-3.035,139.737,30,5.9,mw,,,,,iscgem,iscgem788259,2020-03-26T19:21:27.842Z,"Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-13T10:22:48.000Z,-3.092,139.575,30,5.9,mw,,,,,iscgem,iscgem788215,2020-03-26T19:21:16.408Z,"Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-12T14:57:12.000Z,-3.39,139.993,30,5.9,mw,,,,,iscgem,iscgem788180,2020-03-26T19:21:04.378Z,"Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-12T14:42:13.000Z,9.829,138.284,10,5.8,mw,,,,,iscgem,iscgem788179,2015-05-13T18:53:04.000Z,"State of Yap, Federated States of Micronesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-10T23:24:48.000Z,-3.298,139.834,30,5.7,mw,,,,,iscgem,iscgem788105,2020-03-26T19:20:53.493Z,"Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-10T22:14:39.000Z,-3.261,139.993,30,6,mw,,,,,iscgem,iscgem788103,2020-04-17T21:25:40.223Z,"Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-10T19:34:22.000Z,-3.106,139.594,30,5.9,mw,,,,,iscgem,iscgem788088,2020-03-26T19:20:30.151Z,"Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-10T19:13:38.000Z,-3.281,139.89,30,5.8,mw,,,,,iscgem,iscgem788086,2020-03-26T19:20:17.702Z,"Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-10T16:38:38.000Z,-3.5,140.095,30,6.2,mw,,,,,iscgem,iscgem788078,2020-03-26T19:20:03.313Z,"Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-10T16:07:48.000Z,-3.2,139.784,30,6,mw,,,,,iscgem,iscgem788076,2020-03-26T19:19:50.102Z,"Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-10T14:29:58.000Z,-3.337,139.757,30,6,mw,,,,,iscgem,iscgem788067,2020-03-26T19:19:37.167Z,"Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-10T10:45:07.000Z,-3.078,139.674,30,6.6,mw,,,,,iscgem,iscgem788053,2020-04-17T21:25:37.793Z,"Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-10T07:17:05.000Z,-3.184,139.722,30,7.7,mw,,,,,iscgem,iscgem788036,2020-04-17T21:25:35.468Z,"Papua, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1971-01-01T07:58:03.000Z,-4.19,141.183,35,6,mw,,,,,iscgem,iscgem787816,2020-04-17T21:25:30.383Z,"New Guinea, Papua New Guinea",earthquake,,,,,automatic,iscgem,iscgem

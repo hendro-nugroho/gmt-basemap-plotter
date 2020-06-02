@@ -1,0 +1,3 @@
+Halmahera
+Sulawesi
+Sumatera

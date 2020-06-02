@@ -1,0 +1,787 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2020-06-01T14:08:05.683Z,-6.3045,130.8732,87.45,4.7,mb,,80,1.719,0.56,us,us6000a3p8,2020-06-02T00:17:51.305Z,"188km NNW of Saumlaki, Indonesia",earthquake,7.9,7.1,0.12,21,reviewed,us,us
+2020-06-01T13:33:59.802Z,-6.2937,130.0719,130.41,4.3,mb,,95,2.073,0.75,us,us6000a3nw,2020-06-01T14:04:39.040Z,"229km NW of Saumlaki, Indonesia",earthquake,11.4,9.9,0.188,8,reviewed,us,us
+2020-06-01T01:06:44.039Z,-2.9715,129.9139,10,4.7,mb,,67,2.332,0.73,us,us6000a3e7,2020-06-01T10:42:49.347Z,"117km ENE of Amahai, Indonesia",earthquake,7.6,1.9,0.088,39,reviewed,us,us
+2020-05-30T14:15:18.217Z,8.1292,125.8281,10,4.6,mb,,107,1.081,0.77,us,us6000a2p2,2020-05-30T14:38:50.040Z,"6km SSW of Loreto, Philippines",earthquake,8.6,1.9,0.081,45,reviewed,us,us
+2020-05-30T13:06:24.679Z,4.0182,126.6166,31.09,5.5,mww,,45,3.202,1.38,us,us6000a2n5,2020-05-31T13:08:11.407Z,"199km SE of Sarangani, Philippines",earthquake,6.7,3.5,0.055,32,reviewed,us,us
+2020-05-30T02:06:01.671Z,-4.5834,139.4051,35,4.2,mb,,133,7.329,0.65,us,us6000a2ch,2020-05-30T03:02:19.040Z,"192km NNW of Tanahmerah, Indonesia",earthquake,8.8,2,0.152,12,reviewed,us,us
+2020-05-28T12:20:16.113Z,-4.1911,142.6925,59.85,5,mb,,49,5.131,0.89,us,us6000a0yl,2020-05-28T12:37:20.755Z,"17km WNW of Ambunti, Papua New Guinea",earthquake,8.9,7.2,0.094,36,reviewed,us,us
+2020-05-28T01:40:34.848Z,-5.9189,102.7932,21.05,4.7,mb,,115,1.556,0.62,us,us6000a0p6,2020-05-29T00:38:37.040Z,"145km SW of Kuripan, Indonesia",earthquake,8.3,4.6,0.087,40,reviewed,us,us
+2020-05-27T19:35:52.783Z,-6.2262,130.7015,138.56,4.8,mb,,91,1.842,1.03,us,us6000a0e8,2020-05-27T19:54:24.040Z,"202km NNW of Saumlaki, Indonesia",earthquake,8.8,8.4,0.062,82,reviewed,us,us
+2020-05-27T07:46:53.408Z,5.0255,125.3261,183.57,4.9,mb,,42,2.046,1.3,us,us60009zvw,2020-05-27T08:01:20.040Z,"44km SSW of Sarangani, Philippines",earthquake,5.4,7.2,0.091,38,reviewed,us,us
+2020-05-27T03:52:11.533Z,-8.2481,114.9449,10,4.3,mb,,72,0.815,0.69,us,us60009zsk,2020-05-28T01:40:54.892Z,"1km E of Lebahseri, Indonesia",earthquake,5.7,1.7,0.119,20,reviewed,us,us
+2020-05-26T10:13:49.862Z,4.8481,126.9934,87.76,4.3,mb,,118,2.617,0.51,us,us70009qj5,2020-05-26T10:31:37.040Z,"180km ESE of Sarangani, Philippines",earthquake,8.9,6.4,0.108,24,reviewed,us,us
+2020-05-25T10:08:10.027Z,4.8921,94.3113,33.92,4.4,mb,,168,2.647,0.7,us,us70009pzl,2020-05-25T10:24:06.040Z,"134km WSW of Banda Aceh, Indonesia",earthquake,9.8,7.7,0.155,12,reviewed,us,us
+2020-05-24T21:41:52.307Z,0.4517,98.229,35,4.2,mb,,142,1.069,0.82,us,us6000a3lj,2020-06-02T04:08:23.040Z,"153km SW of Padangsidempuan, Indonesia",earthquake,5.2,1.8,0.152,12,reviewed,us,us
+2020-05-24T16:46:27.629Z,-6.9071,129.7513,107.73,4,mb,,68,1.87,1.38,us,us6000a3lk,2020-06-01T19:58:37.040Z,"207km NW of Saumlaki, Indonesia",earthquake,10.2,11.1,0.212,6,reviewed,us,us
+2020-05-24T14:54:55.312Z,6.5791,126.6042,106.92,4.6,mb,,77,1.128,0.78,us,us70009phy,2020-06-01T16:36:22.040Z,"44km SE of Bobon, Philippines",earthquake,3,6.2,0.06,83,reviewed,us,us
+2020-05-24T07:11:43.223Z,-7.8579,107.9775,64.12,4.7,mb,,78,0.509,0.69,us,us70009pd2,2020-05-24T07:30:18.040Z,"13km SSW of Cipatujah Selatan, Indonesia",earthquake,8.1,6.2,0.075,54,reviewed,us,us
+2020-05-23T04:37:15.356Z,1.6086,126.7638,72.13,4.1,mb,,151,1.026,0.63,us,us6000a1up,2020-05-29T22:10:18.040Z,"113km NW of Kota Ternate, Indonesia",earthquake,9.3,9.1,0.166,10,reviewed,us,us
+2020-05-23T00:13:37.578Z,-7.1438,129.1189,120.87,5.3,mww,,16,2.316,1.38,us,us70009nva,2020-05-30T04:47:58.040Z,"258km WNW of Saumlaki, Indonesia",earthquake,4.1,3.7,0.057,30,reviewed,us,us
+2020-05-22T22:36:52.865Z,-2.4966,99.5207,10,5.1,mb,,174,3.188,0.76,us,us70009nuc,2020-05-22T22:54:43.040Z,"105km SSE of Muara Siberut, Indonesia",earthquake,8.7,1.5,0.062,83,reviewed,us,us
+2020-05-22T07:05:23.688Z,3.5675,126.8114,47.46,4.6,mb,,111,2.831,0.74,us,us70009n40,2020-05-22T07:24:00.040Z,"243km NNW of Tobelo, Indonesia",earthquake,6.7,7.9,0.128,18,reviewed,us,us
+2020-05-22T06:28:11.331Z,3.4106,126.8702,65.22,4.8,mb,,108,2.667,1.21,us,us70009n2u,2020-05-22T06:47:01.040Z,"225km NW of Tobelo, Indonesia",earthquake,8.7,7.9,0.096,33,reviewed,us,us
+2020-05-21T19:18:49.309Z,-2.9224,142.8337,10,5.1,mww,,24,2.165,1.14,us,us70009mpw,2020-05-29T17:06:52.040Z,"59km ENE of Aitape, Papua New Guinea",earthquake,6.9,1.7,0.073,18,reviewed,us,us
+2020-05-21T19:11:18.462Z,-0.7348,126.2021,41.2,4.1,mb,,107,1.896,0.52,us,us6000a1p1,2020-05-29T19:35:37.040Z,"150km NE of Dofa, Indonesia",earthquake,9.5,5.9,0.198,7,reviewed,us,us
+2020-05-20T20:50:13.216Z,-1.6864,120.2622,69.68,4.3,mb,,91,2.589,0.79,us,us6000a0zm,2020-05-29T15:57:14.040Z,"52km SW of Kasiguncu, Indonesia",earthquake,7.4,11,0.187,8,reviewed,us,us
+2020-05-20T20:46:47.932Z,-8.2348,118.3273,173.73,4.1,mb,,126,3.498,0.67,us,us6000a0zl,2020-05-29T15:21:11.040Z,"15km N of Pali, Indonesia",earthquake,8.2,9.1,0.26,4,reviewed,us,us
+2020-05-20T13:56:45.939Z,6.5128,125.5939,182.61,4.9,mb,,107,0.553,0.89,us,us70009lpq,2020-05-20T14:15:14.040Z,"3km ENE of Tubalan, Philippines",earthquake,7.8,6.4,0.076,54,reviewed,us,us
+2020-05-20T12:45:07.793Z,5.2691,126.106,92.76,5,mww,,82,1.864,0.76,us,us70009lmq,2020-05-20T13:45:06.768Z,"72km ESE of Sarangani, Philippines",earthquake,7.6,6.1,0.083,14,reviewed,us,us
+2020-05-20T00:38:43.755Z,5.5681,126.5474,116.96,4.5,mb,,115,1.775,0.71,us,us6000a0ym,2020-05-28T21:36:03.040Z,"96km SSE of Pondaguitan, Philippines",earthquake,10.3,7.6,0.124,19,reviewed,us,us
+2020-05-19T19:38:12.318Z,5.4829,124.9941,54.46,4.8,mb,,104,1.68,0.87,us,us70009l4a,2020-05-19T22:13:25.040Z,"38km SW of Burias, Philippines",earthquake,6.8,8,0.054,110,reviewed,us,us
+2020-05-19T16:04:34.158Z,-4.8598,129.5065,202.42,4.5,mb,,95,3.346,0.36,us,us6000a02g,2020-05-27T16:42:48.040Z,"171km SSE of Saparua, Indonesia",earthquake,10.6,6.4,0.15,13,reviewed,us,us
+2020-05-19T10:00:19.347Z,-7.8294,107.9752,65.85,4.9,mb,,49,0.486,0.78,us,us70009kn8,2020-05-19T10:46:30.040Z,"10km SSW of Cipatujah Selatan, Indonesia",earthquake,6.8,5,0.069,67,reviewed,us,us
+2020-05-19T01:06:40.374Z,-4.6611,103.5046,59.44,4.7,mb,,88,0.623,0.22,us,us6000a014,2020-05-28T02:13:24.040Z,"50km NW of Kuripan, Indonesia",earthquake,7,6.8,0.147,14,reviewed,us,us
+2020-05-19T00:28:12.403Z,-1.0995,126.9809,10,4.5,mb,,66,1.898,1.2,us,us6000a00z,2020-05-30T23:43:41.040Z,"81km WNW of Laiwui, Indonesia",earthquake,6.1,1.9,0.156,12,reviewed,us,us
+2020-05-18T19:20:00.004Z,0.1937,121.0113,158.47,4.4,mb,,77,0.939,1.16,us,us70009nil,2020-05-22T21:57:35.040Z,"73km WSW of Lemito, Indonesia",earthquake,6.3,7.2,0.107,25,reviewed,us,us
+2020-05-18T19:14:37.797Z,4.3119,128.0701,58.85,4.3,mb,,168,3.586,1.1,us,us70009nik,2020-05-22T21:52:06.040Z,"285km N of Tobelo, Indonesia",earthquake,9.3,6.1,0.133,16,reviewed,us,us
+2020-05-18T16:54:35.461Z,5.5057,126.8289,89.41,4.3,mb,,80,4.733,0.97,us,us70009nid,2020-05-25T18:19:37.040Z,"118km SE of Pondaguitan, Philippines",earthquake,11.8,9,0.122,22,reviewed,us,us
+2020-05-18T16:50:17.692Z,1.521,126.4919,42.93,4.8,mb,,53,1.148,0.41,us,us70009jv1,2020-05-25T17:18:34.040Z,"127km NW of Kota Ternate, Indonesia",earthquake,6.4,5.9,0.063,79,reviewed,us,us
+2020-05-18T04:01:18.186Z,4.6843,127.7316,85.37,4.5,mb,,90,3.193,0.7,us,us70009jd9,2020-05-25T22:50:17.040Z,"253km SE of Pondaguitan, Philippines",earthquake,9.2,6,0.089,37,reviewed,us,us
+2020-05-17T14:57:32.800Z,-3.4484,135.5525,34.67,4.4,mb,,114,3.34,0.45,us,us70009nee,2020-05-24T17:03:32.040Z,"11km SE of Nabire, Indonesia",earthquake,8.4,6.2,0.154,12,reviewed,us,us
+2020-05-17T14:48:06.558Z,-4.6076,137.2252,32.33,4.2,mb,,96,4.047,0.49,us,us70009iyl,2020-05-24T16:43:10.040Z,"123km SE of Enarotali, Indonesia",earthquake,6.4,7.1,0.2,7,reviewed,us,us
+2020-05-16T04:21:55.766Z,-6.3888,129.225,208.02,4.3,mb,,86,2.596,1.18,us,us70009na7,2020-05-22T22:23:55.040Z,"288km NW of Saumlaki, Indonesia",earthquake,9.8,10,0.217,6,reviewed,us,us
+2020-05-16T03:17:16.884Z,-8.2527,120.6219,190.45,4.9,mb,,81,1.643,0.83,us,us70009na0,2020-05-22T22:14:48.040Z,"6km NNE of Dampek, Indonesia",earthquake,9.7,9.5,0.187,9,reviewed,us,us
+2020-05-16T00:56:08.409Z,-2.1772,134.0899,18.33,4,mb,,127,1.981,0.76,us,us70009n9z,2020-05-23T05:08:41.040Z,"144km S of Manokwari, Indonesia",earthquake,7.3,7.4,0.196,7,reviewed,us,us
+2020-05-15T21:32:17.266Z,-6.5444,103.5313,35,4.5,mb,,119,2.243,1.07,us,us70009hcd,2020-05-29T04:30:24.040Z,"145km SSW of Biha, Indonesia",earthquake,9.2,1.9,0.09,36,reviewed,us,us
+2020-05-15T03:57:24.404Z,-2.8491,141.5834,10,4.2,mb,,161,0.938,0.45,us,us70009n5v,2020-05-22T21:47:21.040Z,"36km ESE of Vanimo, Papua New Guinea",earthquake,10.4,1.9,0.159,11,reviewed,us,us
+2020-05-15T02:38:26.185Z,1.4472,127.1081,135.89,4.8,mb,,106,0.719,1.01,us,us70009get,2020-05-15T02:56:09.040Z,"78km NNW of Kota Ternate, Indonesia",earthquake,8.9,4.9,0.098,32,reviewed,us,us
+2020-05-14T22:35:18.361Z,-3.5249,139.5436,67.75,4.1,mb,,104,7.308,0.49,us,us70009mjh,2020-05-22T02:47:43.040Z,"151km SW of Abepura, Indonesia",earthquake,9.1,8.1,0.157,11,reviewed,us,us
+2020-05-14T18:55:45.850Z,6.2343,126.4194,133.18,4.1,mb,,120,1.177,0.75,us,us70009mjd,2020-05-22T17:25:02.040Z,"30km ESE of Pondaguitan, Philippines",earthquake,10.9,8.4,0.166,10,reviewed,us,us
+2020-05-14T05:44:32.956Z,-3.0495,138.2827,73.52,4.3,mb,,163,6.027,0.72,us,us70009fvk,2020-05-17T22:07:43.148Z,"235km ENE of Enarotali, Indonesia",earthquake,12.5,6.3,0.106,25,reviewed,us,us
+2020-05-14T02:42:07.862Z,-3.0586,142.2016,35,4.4,mb,,127,1.59,0.66,us,us70009miv,2020-05-21T23:39:28.040Z,"18km WNW of Aitape, Papua New Guinea",earthquake,6.7,1.9,0.143,14,reviewed,us,us
+2020-05-13T23:43:22.484Z,2.3083,96.4703,35.88,4.1,mb,,200,1.488,0.25,us,us70009llt,2020-05-29T00:42:23.040Z,"21km SSE of Sinabang, Indonesia",earthquake,10.9,12.5,0.213,6,reviewed,us,us
+2020-05-13T16:45:13.230Z,2.0295,127.6843,190.12,4,mb,,151,1.289,1.02,us,us70009llf,2020-05-22T03:27:35.040Z,"49km NW of Tobelo, Indonesia",earthquake,10.2,7.6,0.133,15,reviewed,us,us
+2020-05-13T03:41:01.236Z,6.0364,127.1034,35,4.5,mb,,126,1.829,0.68,us,us70009ll0,2020-05-21T03:11:37.040Z,"108km ESE of Pondaguitan, Philippines",earthquake,10.3,2,0.157,12,reviewed,us,us
+2020-05-12T15:58:32.851Z,9.7586,125.6556,154.13,4.4,mb,,95,6.32,0.61,us,us70009kv6,2020-05-19T19:45:41.040Z,"7km SSE of Talisay, Philippines",earthquake,7.9,6.6,0.083,42,reviewed,us,us
+2020-05-12T14:29:57.877Z,9.8696,126.1358,55.93,4.4,mb,,137,14.357,0.65,us,us70009kv3,2020-05-19T18:35:10.040Z,"4km E of Pilar, Philippines",earthquake,14.1,7.8,0.127,20,reviewed,us,us
+2020-05-12T05:15:30.448Z,-6.7656,129.6452,168.86,4.6,mb,,85,2.037,1.45,us,us70009ekf,2020-05-12T13:03:41.473Z,"226km NW of Saumlaki, Indonesia",earthquake,9.2,9.6,0.087,40,reviewed,us,us
+2020-05-12T03:34:55.639Z,2.3295,126.8192,35,4.4,mb,,125,1.641,0.8,us,us70009kue,2020-05-20T02:37:40.040Z,"148km WNW of Tobelo, Indonesia",earthquake,9.6,1.9,0.13,17,reviewed,us,us
+2020-05-12T02:16:12.052Z,1.2182,126.906,82.98,4.3,mb,,83,0.639,0.64,us,us70009kud,2020-05-20T02:15:41.040Z,"70km NW of Kota Ternate, Indonesia",earthquake,9.5,7.3,0.096,31,reviewed,us,us
+2020-05-12T00:20:54.051Z,-8.2887,116.1761,10,4.4,mb,,75,2.01,0.98,us,us70009kuf,2020-05-22T04:56:54.040Z,"6km N of Tanahsong Daya, Indonesia",earthquake,3.6,1.9,0.134,16,reviewed,us,us
+2020-05-11T23:33:11.025Z,7.8076,126.7425,43.4,4.7,mb,,62,7.017,0.72,us,us70009jqm,2020-05-22T04:43:10.040Z,"24km ENE of Kinablangan, Philippines",earthquake,10.6,7.3,0.045,152,reviewed,us,us
+2020-05-11T20:11:08.122Z,7.8654,126.694,55.95,4.4,mb,,135,7.078,0.78,us,us70009jqi,2020-05-19T15:08:22.040Z,"24km NE of Kinablangan, Philippines",earthquake,11.7,7.5,0.084,41,reviewed,us,us
+2020-05-11T16:50:30.041Z,-6.5162,104.3559,44.31,4.4,mb,,188,2.555,0.58,us,us70009jqb,2020-05-18T20:09:23.040Z,"116km SSW of Kotaagung, Indonesia",earthquake,12,10.6,0.134,16,reviewed,us,us
+2020-05-11T16:21:25.911Z,1.6086,126.3845,39.89,4.7,mb,,56,1.286,0.74,us,us70009e62,2020-05-18T19:36:05.040Z,"134km E of Bitung, Indonesia",earthquake,7.5,6.7,0.068,65,reviewed,us,us
+2020-05-11T15:23:04.751Z,-8.576,118.3763,131.64,4.5,mb,,76,3.793,0.97,us,us70009jq8,2020-05-18T19:08:56.040Z,"9km ESE of Npongge, Indonesia",earthquake,7.6,7.6,0.113,23,reviewed,us,us
+2020-05-11T14:37:20.523Z,-6.8031,129.7951,112.43,4.2,mb,,96,1.896,1.21,us,us70009jq5,2020-05-18T17:01:24.040Z,"210km NW of Saumlaki, Indonesia",earthquake,7.4,5.9,0.215,7,reviewed,us,us
+2020-05-11T14:30:42.830Z,2.2436,95.0397,10,4.6,mb,,222,2.701,0.92,us,us70009jqg,2020-05-18T16:25:07.040Z,"151km W of Sinabang, Indonesia",earthquake,12,1.9,0.207,7,reviewed,us,us
+2020-05-11T13:42:37.797Z,8.1429,123.142,10,4.4,mb,,104,7.37,0.66,us,us70009jq4,2020-05-18T16:04:40.040Z,"11km SE of Timonan, Philippines",earthquake,11.1,1.9,0.162,11,reviewed,us,us
+2020-05-11T13:36:27.078Z,4.4885,127.7075,110.71,4.5,mb,,83,3.707,0.62,us,us70009e20,2020-05-18T15:31:16.040Z,"267km SE of Pondaguitan, Philippines",earthquake,9.4,6.4,0.07,60,reviewed,us,us
+2020-05-11T13:16:47.134Z,1.7185,126.363,26.7,4.3,mb,,132,1.375,0.47,us,us70009jq3,2020-05-18T14:20:31.040Z,"134km ENE of Bitung, Indonesia",earthquake,9.3,3.9,0.126,18,reviewed,us,us
+2020-05-11T03:29:24.491Z,-6.0689,130.0448,10,4.3,mb,,98,2.272,0.91,us,us70009dwp,2020-05-21T01:53:12.040Z,"251km NW of Saumlaki, Indonesia",earthquake,4.6,1.9,0.154,12,reviewed,us,us
+2020-05-11T01:06:18.734Z,-6.0613,129.9105,10,5.7,mww,,15,2.354,0.93,us,us70009dvh,2020-05-19T03:18:00.610Z,"260km NW of Saumlaki, Indonesia",earthquake,5.7,1.7,0.061,26,reviewed,us,us
+2020-05-10T22:09:56.512Z,-8.2846,115.7728,10,4,mb,,78,1.614,0.81,us,us70009gu5,2020-05-18T00:30:08.040Z,"16km ENE of Biaslantang Kaler, Indonesia",earthquake,7.2,1.9,0.231,5,reviewed,us,us
+2020-05-10T02:34:08.599Z,-7.4078,128.0982,172.94,4.6,mb,,57,3.223,0.86,us,us70009dkm,2020-05-10T02:52:41.040Z,"Kepulauan Barat Daya, Indonesia",earthquake,9.7,8.3,0.116,22,reviewed,us,us
+2020-05-10T01:22:24.801Z,-4.5706,137.6052,10,4.1,mb,,95,3.706,1.11,us,us70009gtf,2020-05-17T02:34:05.040Z,"156km ESE of Enarotali, Indonesia",earthquake,8.3,1.8,0.175,9,reviewed,us,us
+2020-05-10T00:57:26.852Z,1.8087,127.4596,136.84,4.6,mb,,42,1.034,0.57,us,us70009dk2,2020-05-26T22:12:14.040Z,"61km W of Tobelo, Indonesia",earthquake,6.5,4.3,0.079,47,reviewed,us,us
+2020-05-09T23:43:03.459Z,-1.2324,119.6699,10,4.2,mb,,77,2.579,0.77,us,us70009gmf,2020-05-24T05:21:36.040Z,"43km SSW of Palu, Indonesia",earthquake,5,1.6,0.176,9,reviewed,us,us
+2020-05-09T11:14:45.004Z,-9.6212,125.0702,43.06,4.5,mb,,71,0.802,0.83,us,us70009d96,2020-05-09T12:51:24.040Z,"49km E of Leof, Indonesia",earthquake,6.4,8.5,0.115,22,reviewed,us,us
+2020-05-09T10:39:05.561Z,5.4713,127.3965,167.3,4.2,mb,,159,2.405,0.39,us,us70009glq,2020-05-31T10:47:19.040Z,"167km SE of Pondaguitan, Philippines",earthquake,14.8,10.3,0.136,16,reviewed,us,us
+2020-05-09T05:49:13.748Z,-7.053,129.4979,156.93,5.1,mww,,41,2.01,0.63,us,us70009d3s,2020-05-25T09:35:11.915Z,"223km WNW of Saumlaki, Indonesia",earthquake,7.8,6,0.061,26,reviewed,us,us
+2020-05-08T06:49:55.143Z,1.3928,126.335,54.27,4.4,mb,,93,1.201,0.64,us,us70009g3r,2020-05-25T09:18:09.040Z,"128km E of Bitung, Indonesia",earthquake,4.1,9.4,0.107,25,reviewed,us,us
+2020-05-08T00:18:36.536Z,1.4153,126.963,128.09,4.1,mb,,136,0.756,0.52,us,us70009g3g,2020-05-15T01:54:59.040Z,"83km NNW of Kota Ternate, Indonesia",earthquake,4.8,7.8,0.139,14,reviewed,us,us
+2020-05-07T22:41:55.474Z,-1.565,136.3932,32.22,4.4,mb,,61,4.354,0.84,us,us70009c16,2020-05-07T23:04:39.040Z,"223km NNE of Nabire, Indonesia",earthquake,9.7,6,0.097,31,reviewed,us,us
+2020-05-07T18:39:46.702Z,5.636,124.9706,35,4.1,mb,,118,1.547,1.02,us,us70009g1x,2020-05-18T13:26:09.040Z,"24km S of Maasin, Philippines",earthquake,7.1,2,0.197,8,reviewed,us,us
+2020-05-07T08:03:08.159Z,-7.3488,128.8937,160.98,4.3,mb,,89,2.465,0.68,us,us70009bkx,2020-05-11T11:14:58.040Z,"275km WNW of Saumlaki, Indonesia",earthquake,11.7,8.1,0.103,27,reviewed,us,us
+2020-05-07T01:28:40.212Z,0.7472,124.6604,126.05,4.2,mb,,63,2.593,0.87,us,us70009g1a,2020-05-15T00:45:35.040Z,"28km SE of Tompasobaru, Indonesia",earthquake,9.1,9.9,0.115,21,reviewed,us,us
+2020-05-07T00:31:35.937Z,-2.3695,139.0053,35,4.1,mb,,129,6.771,0.87,us,us70009g15,2020-05-22T03:24:14.040Z,"177km W of Abepura, Indonesia",earthquake,14.4,2,0.14,14,reviewed,us,us
+2020-05-06T20:07:24.567Z,4.9122,94.8926,53.4,4,mb,,137,2.07,0.46,us,us70009feu,2020-05-13T22:11:43.040Z,"85km SSW of Banda Aceh, Indonesia",earthquake,11.2,10.2,0.3,4,reviewed,us,us
+2020-05-06T19:30:11.107Z,1.7971,127.3745,101.73,4.7,mb,,54,1.018,1.16,us,us70009bal,2020-05-13T21:42:13.040Z,"71km W of Tobelo, Indonesia",earthquake,8.1,5.6,0.065,71,reviewed,us,us
+2020-05-06T16:05:05.815Z,-3.5942,135.5446,32.83,4.3,mb,,70,3.358,0.91,us,us70009fev,2020-05-13T23:04:07.040Z,"26km SSE of Nabire, Indonesia",earthquake,6.9,6.3,0.118,20,reviewed,us,us
+2020-05-06T13:53:56.960Z,-6.7949,129.8613,107,6.8,mww,,17,1.85,0.61,us,us70009b14,2020-05-10T00:04:43.829Z,"205km NW of Saumlaki, Indonesia",earthquake,6.9,4.2,0.065,23,reviewed,us,us
+2020-05-06T04:46:54.422Z,0.7337,98.9523,69.34,4.4,mb,,112,1.488,0.48,us,us70009fef,2020-05-14T00:13:49.040Z,"78km SSW of Padangsidempuan, Indonesia",earthquake,9.3,3.9,0.162,11,reviewed,us,us
+2020-05-06T02:54:02.574Z,6.7332,127.1491,46.83,4.8,mb,,89,1.594,0.61,us,us70009av0,2020-05-22T01:44:22.040Z,"84km ESE of San Ignacio, Philippines",earthquake,7.4,7,0.072,60,reviewed,us,us
+2020-05-06T01:43:47.280Z,1.3944,126.4404,46.04,4.9,mb,,71,1.113,0.62,us,us70009atx,2020-05-22T00:42:19.040Z,"123km WNW of Kota Ternate, Indonesia",earthquake,6.4,6.6,0.056,101,reviewed,us,us
+2020-05-05T12:25:13.749Z,-2.0211,138.8976,22.98,4.5,mb,,65,6.702,0.59,us,us70009ae2,2020-06-02T06:12:52.040Z,"199km WNW of Abepura, Indonesia",earthquake,8.4,5.5,0.089,37,reviewed,us,us
+2020-05-05T02:56:25.252Z,4.9429,127.198,35,4.4,mb,,133,4.146,0.55,us,us70009ers,2020-05-12T22:36:10.040Z,"193km SE of Pondaguitan, Philippines",earthquake,13.6,2,0.127,18,reviewed,us,us
+2020-05-04T21:43:47.084Z,8.0906,123.2348,10,4.3,mb,,96,2.535,1.22,us,us70009em2,2020-05-13T03:38:47.040Z,"9km N of Balagon, Philippines",earthquake,7.8,1.9,0.143,14,reviewed,us,us
+2020-05-03T16:39:14.141Z,-7.0446,129.1847,169.35,4.5,mb,,32,2.294,0.7,us,us700099dq,2020-05-10T16:42:48.040Z,"255km WNW of Saumlaki, Indonesia",earthquake,7.7,6.8,0.093,34,reviewed,us,us
+2020-05-03T07:06:44.989Z,-6.2241,104.6959,46.99,5,mww,,57,2.535,0.88,us,us7000997z,2020-05-29T12:17:17.870Z,"81km S of Kotaagung, Indonesia",earthquake,6.1,4.6,0.098,10,reviewed,us,us
+2020-05-03T01:13:21.764Z,-0.4857,127.7973,10,4.5,mb,,77,1.321,0.77,us,us70009cf5,2020-05-29T00:38:04.040Z,"96km N of Laiwui, Indonesia",earthquake,4.4,1.9,0.191,8,reviewed,us,us
+2020-05-02T20:40:38.193Z,3.4289,95.1346,31.2,4.4,mb,,151,2.542,0.57,us,us70009bs6,2020-05-13T05:34:37.040Z,"135km SW of Meulaboh, Indonesia",earthquake,7.8,6.2,0.093,33,reviewed,us,us
+2020-05-02T10:50:36.070Z,5.7073,126.3917,100.49,4.2,mb,,113,1.576,0.78,us,us70009brd,2020-05-29T08:36:34.040Z,"76km SSE of Pondaguitan, Philippines",earthquake,9.4,7.9,0.094,33,reviewed,us,us
+2020-05-01T23:07:57.268Z,-6.265,130.2468,154.09,4.3,mb,,87,2,1.07,us,us70009b5c,2020-05-08T02:56:17.040Z,"220km NNW of Saumlaki, Indonesia",earthquake,6.4,10.1,0.161,11,reviewed,us,us
+2020-05-01T21:46:48.554Z,-0.0596,123.5027,67.67,4.1,mb,,76,1.219,1.03,us,us70009b58,2020-05-08T02:43:22.040Z,"58km SSE of Bilungala, Indonesia",earthquake,7.7,5,0.145,13,reviewed,us,us
+2020-05-01T13:48:38.848Z,4.6345,127.0455,80.84,4.7,mww,,103,2.825,0.66,us,us7000987q,2020-06-02T07:19:43.040Z,"194km ESE of Sarangani, Philippines",earthquake,8.2,6.4,0.098,10,reviewed,us,us
+2020-04-30T21:23:21.830Z,-2.3984,138.7274,58.9,5.1,mww,,18,6.492,1.1,us,us700097x8,2020-04-30T23:07:03.040Z,"208km W of Abepura, Indonesia",earthquake,8.5,4.9,0.086,13,reviewed,us,us
+2020-04-30T10:21:31.585Z,5.1304,127.2576,73.7,4.4,mb,,113,2.549,0.62,us,us70009ajg,2020-06-02T09:51:18.040Z,"181km SE of Pondaguitan, Philippines",earthquake,9.4,5.1,0.12,20,reviewed,us,us
+2020-04-30T08:20:24.975Z,1.2211,99.5799,10,5,mww,,36,1.603,0.71,us,us700097e2,2020-05-04T05:27:39.620Z,"38km ESE of Padangsidempuan, Indonesia",earthquake,5.1,1.8,0.098,10,reviewed,us,us
+2020-04-30T08:15:52.981Z,-4.8571,140.928,10,4.4,mb,,93,7.007,0.56,us,us700097e1,2020-05-05T09:33:04.040Z,"145km NNW of Kiunga, Papua New Guinea",earthquake,8.1,1.9,0.11,24,reviewed,us,us
+2020-04-30T04:10:35.715Z,-2.9811,130.0352,10,4.6,mb,,58,2.211,0.74,us,us700097av,2020-05-07T00:33:43.040Z,"130km ENE of Amahai, Indonesia",earthquake,6.7,1.8,0.092,35,reviewed,us,us
+2020-04-30T03:51:41.336Z,-2.9233,129.9514,10,4.4,mb,,70,2.294,0.74,us,us70009ajd,2020-05-06T21:59:51.040Z,"123km ENE of Amahai, Indonesia",earthquake,4.8,1.9,0.126,18,reviewed,us,us
+2020-04-30T01:52:36.955Z,-0.056,123.7186,54.06,4.5,mb,,78,1.362,0.69,us,us70009aj1,2020-05-06T22:32:45.040Z,"57km SSW of Molibagu, Indonesia",earthquake,8.3,7.9,0.093,34,reviewed,us,us
+2020-04-29T20:24:52.353Z,-8.568,119.2315,127.3,4.2,mb,,72,2.973,0.5,us,us70009agd,2020-05-05T15:31:26.040Z,"24km ENE of Sigirato, Indonesia",earthquake,5.3,9.6,0.175,9,reviewed,us,us
+2020-04-29T19:39:42.111Z,7.034,126.1421,70.78,4.3,mb,,121,0.559,0.84,us,us70009ag7,2020-05-05T14:51:31.040Z,"11km NW of Mati, Philippines",earthquake,8.9,6.7,0.154,12,reviewed,us,us
+2020-04-29T17:47:07.930Z,4.6331,127.007,61.8,4.8,mb,,111,2.806,0.77,us,us60009eug,2020-05-05T14:20:51.040Z,"191km ESE of Sarangani, Philippines",earthquake,3.7,6.2,0.056,99,reviewed,us,us
+2020-04-29T08:17:48.298Z,-4.4942,102.5006,50.92,4.8,mb,,95,0.472,0.67,us,us60009ejp,2020-06-01T12:40:17.040Z,"81km SSE of Bengkulu, Indonesia",earthquake,7.6,5.7,0.081,47,reviewed,us,us
+2020-04-29T02:33:19.587Z,1.6592,126.4859,39.05,4.2,mb,,109,1.245,0.85,us,us70009afh,2020-05-08T05:39:58.040Z,"137km NW of Kota Ternate, Indonesia",earthquake,7.2,9,0.125,18,reviewed,us,us
+2020-04-28T15:29:19.849Z,4.7829,126.911,9.11,4.3,mb,,141,4.01,0.51,us,us700099z4,2020-06-01T21:35:35.040Z,"174km ESE of Sarangani, Philippines",earthquake,9.6,6.1,0.153,12,reviewed,us,us
+2020-04-28T05:28:31.435Z,-7.1333,130.0193,77.4,4.4,mb,,39,1.523,1.34,us,us60009dr3,2020-05-27T12:59:43.040Z,"169km WNW of Saumlaki, Indonesia",earthquake,6.8,6.2,0.105,26,reviewed,us,us
+2020-04-28T04:43:20.332Z,-7.0361,104.9452,35,4.7,mb,,142,2.658,0.44,us,us700099yn,2020-06-02T01:14:12.040Z,"79km WSW of Tugu Hilir, Indonesia",earthquake,9.8,2,0.166,11,reviewed,us,us
+2020-04-28T01:10:19.511Z,1.3572,99.9337,200.93,4.3,mb,,89,1.507,0.65,us,us700099yi,2020-05-04T21:58:48.040Z,"74km E of Padangsidempuan, Indonesia",earthquake,8.6,6.2,0.105,26,reviewed,us,us
+2020-04-27T23:18:14.988Z,1.5751,97.0459,29.03,4.5,mb,,163,0.594,0.6,us,us60009dl4,2020-04-27T23:38:12.040Z,"124km SE of Sinabang, Indonesia",earthquake,5.4,6,0.09,36,reviewed,us,us
+2020-04-27T14:04:56.232Z,-5.3634,131.4388,91.99,4.3,mb,,120,2.558,1.15,us,us60009d92,2020-06-01T21:27:08.040Z,"149km WNW of Tual, Indonesia",earthquake,11.1,13.8,0.237,5,reviewed,us,us
+2020-04-27T02:11:33.399Z,0.7594,123.8454,252.69,4,mb,,66,2.086,0.65,us,us700097q6,2020-04-30T22:54:19.040Z,"22km SW of Lolak, Indonesia",earthquake,11,8.3,0.139,14,reviewed,us,us
+2020-04-26T23:48:44.481Z,5.6592,126.8959,59.33,5.1,mww,,72,1.917,1.27,us,us60009czd,2020-06-02T03:28:14.040Z,"111km SE of Pondaguitan, Philippines",earthquake,5.5,4.7,0.093,11,reviewed,us,us
+2020-04-26T21:27:12.973Z,-11.5771,116.726,10,4.4,mb,,118,3.994,0.64,us,us700097pa,2020-05-04T04:04:58.040Z,"300km S of Besisora, Indonesia",earthquake,9,1.9,0.134,16,reviewed,us,us
+2020-04-26T08:23:40.652Z,-3.211,123.096,30.4,4.4,mb,,48,2.179,0.51,us,us60009cn6,2020-05-23T08:35:26.040Z,"104km NE of Kendari, Indonesia",earthquake,6.7,5.2,0.098,30,reviewed,us,us
+2020-04-26T07:36:33.132Z,-3.2266,123.1154,30.78,4,mb,,87,2.197,0.43,us,us700097nz,2020-05-23T11:41:31.040Z,"104km NE of Kendari, Indonesia",earthquake,6.5,5.6,0.212,6,reviewed,us,us
+2020-04-26T00:47:20.637Z,0.1182,132.2613,10,4.3,mb,,227,3.017,1.07,us,us60009cib,2020-05-07T00:04:34.040Z,"157km NE of Sorong, Indonesia",earthquake,5.9,2,0.201,7,reviewed,us,us
+2020-04-25T23:16:53.096Z,7.716,126.8614,64.71,4.4,mb,,119,1.424,0.87,us,us700097kr,2020-05-06T21:43:07.040Z,"34km E of Kinablangan, Philippines",earthquake,9.8,7.9,0.104,27,reviewed,us,us
+2020-04-25T04:43:24.056Z,-5.973,106.1768,180,4.3,mb,,91,1.659,1.17,us,us60009c1g,2020-05-22T00:03:29.040Z,"9km E of Bojonegara, Indonesia",earthquake,8.7,6.3,0.116,21,reviewed,us,us
+2020-04-25T02:23:50.132Z,2.5536,126.9845,53.11,4.3,mb,,178,1.81,0.49,us,us700097js,2020-05-21T22:19:38.040Z,"146km NW of Tobelo, Indonesia",earthquake,12.1,8.2,0.189,8,reviewed,us,us
+2020-04-25T01:18:52.395Z,-1.5323,126.5537,10,4,mb,,63,2.428,0.8,us,us700097jr,2020-05-21T22:06:41.040Z,"125km W of Laiwui, Indonesia",earthquake,4.4,1.9,0.212,6,reviewed,us,us
+2020-04-25T00:40:36.765Z,-6.4231,129.3019,203.96,4.5,mb,,88,2.515,0.7,us,us60009by3,2020-04-25T05:02:27.040Z,"279km NW of Saumlaki, Indonesia",earthquake,7.5,9.5,0.124,19,reviewed,us,us
+2020-04-25T00:33:39.187Z,4.0123,128.0103,140.34,4.3,mb,,145,3.282,0.53,us,us700097jp,2020-05-02T03:05:46.040Z,"252km N of Tobelo, Indonesia",earthquake,11.9,11.4,0.148,13,reviewed,us,us
+2020-04-25T00:30:08.708Z,0.2111,97.4432,10,4.4,mb,,124,1.093,0.59,us,us700097jn,2020-05-02T03:26:12.040Z,"225km SW of Sibolga, Indonesia",earthquake,8.3,1.7,0.149,13,reviewed,us,us
+2020-04-24T20:46:06.409Z,0.5142,124.1339,170.2,4.2,mb,,55,2.06,0.87,us,us60009bsl,2020-05-27T18:23:20.040Z,"11km SSE of Dumoga, Indonesia",earthquake,7.2,7,0.087,41,reviewed,us,us
+2020-04-23T18:07:22.018Z,-0.1045,121.9313,277.16,4.2,mb,,112,1.254,0.78,us,us60009epd,2020-04-30T17:00:11.040Z,"81km SSE of Lemito, Indonesia",earthquake,9.4,7.4,0.121,19,reviewed,us,us
+2020-04-23T04:37:40.170Z,-2.1529,133.8918,10,4.1,mb,,114,1.809,0.58,us,us60009env,2020-06-02T00:44:51.040Z,"143km S of Manokwari, Indonesia",earthquake,6.9,1.8,0.197,7,reviewed,us,us
+2020-04-23T04:33:59.141Z,1.1539,120.2385,35,4.1,mb,,135,0.544,0.54,us,us60009enz,2020-06-02T00:38:26.040Z,"21km N of Ogotua, Indonesia",earthquake,5.2,2,0.198,7,reviewed,us,us
+2020-04-23T02:14:08.992Z,-2.2843,133.9783,36.16,4.4,mb,,102,1.839,0.61,us,us60009a9u,2020-06-01T23:09:07.040Z,"157km S of Manokwari, Indonesia",earthquake,9.7,6.2,0.095,32,reviewed,us,us
+2020-04-23T01:55:34.772Z,-1.2197,121.3217,10,4.1,mb,,119,1.46,0.57,us,us60009enr,2020-05-03T23:33:42.040Z,"65km ENE of Tagolu, Indonesia",earthquake,4.5,1.9,0.157,11,reviewed,us,us
+2020-04-23T01:40:12.475Z,-7.2086,129.4193,109.33,4.3,mb,,85,2.015,1.05,us,us60009a97,2020-05-03T23:25:49.040Z,"224km WNW of Saumlaki, Indonesia",earthquake,8.6,2.8,0.097,30,reviewed,us,us
+2020-04-22T15:30:11.520Z,2.1935,128.6277,42.82,4.3,mb,,68,1.893,1.09,us,us60009dzh,2020-04-29T02:35:33.040Z,"85km NE of Tobelo, Indonesia",earthquake,6.5,7.4,0.105,26,reviewed,us,us
+2020-04-22T14:04:45.126Z,3.9707,124.8061,56.65,4.2,mb,,102,3.173,1.15,us,us60009dze,2020-05-15T04:55:32.040Z,"174km SSW of Sarangani, Philippines",earthquake,8.9,9.6,0.159,11,reviewed,us,us
+2020-04-22T08:59:23.407Z,-7.9454,120.5998,42.93,4.1,mb,,123,1.76,0.45,us,us60009dz6,2020-05-28T10:22:38.040Z,"39km N of Dampek, Indonesia",earthquake,6.4,9.8,0.158,11,reviewed,us,us
+2020-04-22T08:52:18.156Z,-8.9805,106.125,10,4.3,mb,,196,2.133,0.57,us,us60009dzf,2020-05-28T10:18:49.040Z,"166km NNE of Flying Fish Cove, Christmas Island",earthquake,5.3,2,0.177,9,reviewed,us,us
+2020-04-22T08:35:39.060Z,-8.1175,120.098,200.98,4.4,mb,,65,2.178,1.44,us,us700091kr,2020-05-27T05:53:51.040Z,"25km NNW of Kampungbajo, Indonesia",earthquake,9.3,7.6,0.179,9,reviewed,us,us
+2020-04-22T01:02:49.895Z,1.1832,123.0114,60.83,3.8,mb,,184,2.223,0.74,us,us60009dyy,2020-05-03T05:02:42.040Z,"41km NW of Boroko, Indonesia",earthquake,11.3,11.9,0.208,6,reviewed,us,us
+2020-04-21T23:40:33.888Z,-3.2099,137.2237,74.91,4.1,mb,,62,3.544,1.2,us,us60009dbw,2020-04-28T03:59:46.040Z,"124km NE of Enarotali, Indonesia",earthquake,5.2,9.2,0.212,6,reviewed,us,us
+2020-04-21T21:05:43.136Z,-8.0921,125.9726,10,4.3,mb,,97,2.36,1.02,us,us60009dbv,2020-04-28T02:54:20.040Z,"67km NE of Dili, East Timor",earthquake,5,1.9,0.177,9,reviewed,us,us
+2020-04-21T16:44:36.643Z,-3.0464,136.2787,40.6,4.6,mb,,57,4.026,0.89,us,us7000913r,2020-04-27T19:36:11.040Z,"95km ENE of Nabire, Indonesia",earthquake,7.2,6.3,0.074,55,reviewed,us,us
+2020-04-21T15:08:56.950Z,2.7433,95.8035,28.29,4.3,mb,,156,2.276,0.57,us,us60009dbr,2020-04-27T19:09:25.040Z,"70km WNW of Sinabang, Indonesia",earthquake,7.6,4.2,0.105,26,reviewed,us,us
+2020-04-21T10:51:35.758Z,1.2597,126.3959,31.41,4.6,mb,,89,1.084,0.56,us,us700090yf,2020-05-19T15:25:43.040Z,"120km WNW of Kota Ternate, Indonesia",earthquake,6.9,4.5,0.083,43,reviewed,us,us
+2020-04-20T18:00:59.842Z,-10.0647,121.4409,36.72,4,mb,,106,1.623,1.01,us,us60009bl7,2020-04-28T17:14:38.040Z,"74km E of Mburukullu, Indonesia",earthquake,6.1,7.4,0.144,13,reviewed,us,us
+2020-04-20T15:00:59.883Z,5.5993,126.5147,85.57,4.2,mb,,117,1.731,0.59,us,us60009bl2,2020-04-27T13:27:31.040Z,"92km SSE of Pondaguitan, Philippines",earthquake,7,7.8,0.136,15,reviewed,us,us
+2020-04-20T13:52:44.083Z,-5.3432,123.1669,25.76,4.1,mb,,82,3.398,0.45,us,us60009bl0,2020-04-26T19:28:46.040Z,"63km ENE of Baubau, Indonesia",earthquake,6.3,6.4,0.262,4,reviewed,us,us
+2020-04-20T06:49:38.257Z,1.5687,127.4498,120.1,4.4,mb,,104,0.795,0.53,us,us700090ai,2020-05-19T15:04:50.040Z,"64km WSW of Tobelo, Indonesia",earthquake,9.5,6.8,0.103,27,reviewed,us,us
+2020-04-19T22:06:18.067Z,-5.1695,134.2939,10,4.4,mb,,171,3.026,1.23,us,us60009bii,2020-04-27T00:22:16.040Z,"66km N of Dobo, Indonesia",earthquake,7.1,1.9,0.203,7,reviewed,us,us
+2020-04-19T21:29:41.705Z,0.9871,126.836,78.89,4.3,mb,,81,0.572,0.66,us,us60009bih,2020-04-27T00:56:25.040Z,"63km WNW of Kota Ternate, Indonesia",earthquake,8.5,7,0.16,11,reviewed,us,us
+2020-04-19T20:30:47.350Z,6.7758,124.975,10,4.7,mb,,62,0.667,0.78,us,us7000903g,2020-05-17T16:00:58.693Z,"7km ESE of Bual, Philippines",earthquake,7,1.9,0.096,33,reviewed,us,us
+2020-04-19T16:12:11.396Z,-0.076,129.3245,35.07,4.2,mb,,84,2.095,0.84,us,us60009bi7,2020-04-26T16:17:18.040Z,"232km WNW of Sorong, Indonesia",earthquake,8.4,9,0.146,13,reviewed,us,us
+2020-04-19T14:23:27.502Z,-0.4792,135.1745,10,4,mb,,125,3.798,1.01,us,us60009bic,2020-04-26T15:28:53.040Z,"128km ENE of Manokwari, Indonesia",earthquake,12.5,2,0.232,7,reviewed,us,us
+2020-04-19T13:50:03.835Z,-4.2263,140.1549,32.71,4.3,mb,,100,1.786,0.63,us,us60009bi3,2020-04-26T15:20:57.040Z,"182km SSW of Abepura, Indonesia",earthquake,7.4,5.8,0.188,8,reviewed,us,us
+2020-04-19T13:09:31.116Z,4.0231,126.1659,16.73,5.1,mww,,43,3.082,0.97,us,us70008zy6,2020-05-27T21:12:03.040Z,"171km SSE of Sarangani, Philippines",earthquake,4.8,2.7,0.068,21,reviewed,us,us
+2020-04-19T09:27:46.493Z,-7.4841,127.8988,143.97,4.3,mb,,53,3.405,0.78,us,us60009bhy,2020-05-28T04:38:40.040Z,"282km ENE of Dili, East Timor",earthquake,8.7,7.8,0.116,21,reviewed,us,us
+2020-04-19T07:54:42.516Z,0.2928,97.7355,29.74,4.2,mb,,205,1.017,0.65,us,us60009bhw,2020-05-20T10:35:47.040Z,"197km SW of Sibolga, Indonesia",earthquake,10.3,4.6,0.167,10,reviewed,us,us
+2020-04-19T03:57:33.188Z,-7.1189,130.8954,10,4.3,mb,,137,0.946,1.1,us,us60009bil,2020-05-15T03:26:18.040Z,"103km NNW of Saumlaki, Indonesia",earthquake,5.3,1.9,0.177,9,reviewed,us,us
+2020-04-18T21:16:57.194Z,-0.7818,135.9263,10,4.2,mb,,126,4.244,0.77,us,us60009beh,2020-05-01T23:38:01.040Z,"205km E of Manokwari, Indonesia",earthquake,12.6,1.9,0.199,7,reviewed,us,us
+2020-04-18T17:51:10.316Z,-7.3288,129.2243,150.55,4.1,mb,,68,2.156,1.41,us,us60009beq,2020-05-20T16:11:43.040Z,"240km WNW of Saumlaki, Indonesia",earthquake,4.8,8.9,0.174,12,reviewed,us,us
+2020-04-18T17:45:38.184Z,0.3675,125.511,64.38,4.8,mww,,27,1.898,1.04,us,us70008zgj,2020-05-28T13:52:01.040Z,"123km SSE of Tondano, Indonesia",earthquake,5.9,5.3,0.093,11,reviewed,us,us
+2020-04-18T13:35:50.414Z,1.0732,126.7525,54.23,4.4,mb,,80,0.683,1.08,us,us60009be3,2020-04-24T17:50:48.040Z,"75km WNW of Kota Ternate, Indonesia",earthquake,4,8.7,0.123,19,reviewed,us,us
+2020-04-17T17:33:09.003Z,6.5135,126.7644,95.35,4.2,mb,,116,1.3,0.87,us,us60009asj,2020-05-14T22:02:58.040Z,"62km SE of Bobon, Philippines",earthquake,8.2,7.4,0.124,25,reviewed,us,us
+2020-04-17T04:03:50.363Z,-8.6383,121.2295,183.72,4.1,mb,,115,0.996,0.74,us,us60009aru,2020-05-15T01:15:55.040Z,"2km NNE of Jawakisa, Indonesia",earthquake,9.2,10.4,0.234,5,reviewed,us,us
+2020-04-17T01:57:45.897Z,2.4111,128.3582,65.63,4.5,mb,,106,1.906,0.5,us,us60009arw,2020-05-15T00:55:53.040Z,"84km NNE of Tobelo, Indonesia",earthquake,3.9,8.7,0.156,12,reviewed,us,us
+2020-04-16T06:29:55.368Z,-9.3766,118.9753,85.83,4.3,mb,,104,3.305,0.73,us,us70008xd3,2020-05-28T07:56:11.040Z,"14km NNW of Baroh, Indonesia",earthquake,4.7,8.5,0.105,26,reviewed,us,us
+2020-04-16T05:57:11.392Z,1.6972,126.1012,34.99,4.1,mb,,103,1.563,0.55,us,us60009ant,2020-05-16T07:00:53.040Z,"105km ENE of Bitung, Indonesia",earthquake,9.4,5.9,0.157,12,reviewed,us,us
+2020-04-16T03:48:46.288Z,-9.6734,119.342,47.85,4.3,mb,,92,3.039,0.74,us,us70008xb6,2020-04-16T23:31:51.040Z,"3km WNW of Ngaduloda, Indonesia",earthquake,5.2,10.1,0.148,13,reviewed,us,us
+2020-04-16T02:11:03.279Z,-11.109,115.1379,10,4.2,mb,,134,2.796,0.65,us,us60009anx,2020-04-27T00:48:18.040Z,"251km S of Kangin, Indonesia",earthquake,9.8,1.9,0.167,10,reviewed,us,us
+2020-04-16T02:08:30.419Z,6.975,127.2412,10,4.5,mb,,117,1.652,0.59,us,us60009anq,2020-04-27T00:31:42.040Z,"81km ESE of Manay, Philippines",earthquake,8.8,1.9,0.135,16,reviewed,us,us
+2020-04-16T01:50:39.331Z,6.9803,127.3175,10,4.4,mb,,123,1.727,0.79,us,us60009anp,2020-04-27T00:12:46.040Z,"89km ESE of Manay, Philippines",earthquake,9.7,1.9,0.12,20,reviewed,us,us
+2020-04-16T01:26:54.294Z,-8.8999,111.3365,69.33,4.4,mb,,111,1.268,0.74,us,us60009ann,2020-04-26T22:25:24.040Z,"69km SSW of Ngulung Wetan, Indonesia",earthquake,8.5,7.4,0.148,13,reviewed,us,us
+2020-04-15T23:37:44.171Z,-8.3013,116.9375,10,4.7,mb,,25,2.761,0.65,us,us70008x7g,2020-04-29T05:27:04.040Z,"24km WNW of Jorok Dalam, Indonesia",earthquake,5.6,1.8,0.071,60,reviewed,us,us
+2020-04-15T21:28:07.501Z,5.8861,95.8214,19.79,4.3,mb,,187,1.296,0.36,us,us700091t8,2020-04-29T00:52:10.040Z,"55km E of Sabang, Indonesia",earthquake,13,8.9,0.218,6,reviewed,us,us
+2020-04-15T21:03:38.174Z,1.1076,126.6772,41.86,5.7,mww,,24,0.765,0.81,us,us70008x2q,2020-05-27T15:37:50.040Z,"84km WNW of Kota Ternate, Indonesia",earthquake,5.8,4.3,0.066,22,reviewed,us,us
+2020-04-15T09:50:00.684Z,-8.597,112.5379,83.3,4.3,mb,,148,1.601,0.73,us,us70008wnu,2020-05-14T08:15:16.040Z,"27km SSW of Gombangan, Indonesia",earthquake,4.2,9.3,0.153,13,reviewed,us,us
+2020-04-15T01:40:42.464Z,3.8972,128.0234,159.05,4.3,mb,,114,3.173,0.66,us,us700091s9,2020-04-26T04:17:25.040Z,"239km N of Tobelo, Indonesia",earthquake,11,7.9,0.147,13,reviewed,us,us
+2020-04-14T20:04:23.049Z,4.9074,118.6333,10,4.2,mb,,96,2.659,0.53,us,us70009139,2020-05-13T21:46:42.040Z,"36km ESE of Lahad Datu, Malaysia",earthquake,5.6,1.8,0.167,13,reviewed,us,us
+2020-04-14T19:36:18.953Z,3.7874,96.1114,52.45,4.7,mb,,38,1.656,0.68,us,us70008w7k,2020-05-13T21:38:05.040Z,"38km S of Meulaboh, Indonesia",earthquake,8.3,5.5,0.068,72,reviewed,us,us
+2020-04-14T19:20:33.501Z,2.6927,128.2636,57.92,4.9,mb,,48,2.108,0.84,us,us70008w71,2020-05-13T21:31:32.040Z,"110km NNE of Tobelo, Indonesia",earthquake,3.5,6.2,0.039,208,reviewed,us,us
+2020-04-14T15:10:18.568Z,-3.2442,128.8654,10,4.5,mb,,39,3.364,0.59,us,us70008w1c,2020-04-21T19:57:59.040Z,"11km NNW of Amahai, Indonesia",earthquake,6.4,1.9,0.085,41,reviewed,us,us
+2020-04-14T14:08:32.834Z,-7.4715,130.2073,77.31,4.2,mb,,74,1.195,0.43,us,us70009136,2020-05-18T20:35:28.040Z,"133km WNW of Saumlaki, Indonesia",earthquake,5.3,21.3,0.199,7,reviewed,us,us
+2020-04-14T10:27:51.239Z,2.3592,128.4967,231.89,4.3,mb,,105,1.939,0.48,us,us70008vz3,2020-05-09T07:25:45.040Z,"88km NE of Tobelo, Indonesia",earthquake,8.4,5.9,0.097,30,reviewed,us,us
+2020-04-13T16:33:31.772Z,0.2915,126.8751,41.6,4.2,mb,,55,0.685,0.43,us,us700090hg,2020-04-20T19:04:57.040Z,"77km SW of Kota Ternate, Indonesia",earthquake,6.5,9.4,0.147,13,reviewed,us,us
+2020-04-13T15:26:17.373Z,1.4459,124.4124,223.22,4.2,mb,,80,2.966,0.5,us,us700090h9,2020-04-20T18:33:25.040Z,"48km W of Manado, Indonesia",earthquake,9.9,9.3,0.118,20,reviewed,us,us
+2020-04-13T14:59:35.531Z,0.2905,126.8276,38.49,5,mb,,44,0.72,0.85,us,us70008vi8,2020-04-20T16:59:41.040Z,"81km SW of Kota Ternate, Indonesia",earthquake,6.1,5.7,0.052,118,reviewed,us,us
+2020-04-13T14:22:21.493Z,1.4317,122.7465,35,4.4,mb,,83,1.989,1.02,us,us70008vi0,2020-04-20T16:21:20.040Z,"81km NW of Boroko, Indonesia",earthquake,3.7,2,0.117,21,reviewed,us,us
+2020-04-13T12:05:57.258Z,-2.9461,126.8331,35,4.4,mb,,39,3.731,1.01,us,us70008vg9,2020-05-12T12:32:53.040Z,"45km NW of Namlea, Indonesia",earthquake,4,2,0.091,35,reviewed,us,us
+2020-04-13T10:58:11.740Z,-11.3411,119.2395,10,4.1,mb,,98,3.993,0.9,us,us70008vfm,2020-05-21T13:06:55.040Z,"160km SW of Tawui, Indonesia",earthquake,3.2,1.9,0.127,17,reviewed,us,us
+2020-04-13T07:07:14.024Z,-4.5148,102.3931,35,4.4,mb,,189,0.581,0.73,us,us700090gy,2020-05-14T12:55:35.040Z,"80km S of Bengkulu, Indonesia",earthquake,7.6,2,0.179,9,reviewed,us,us
+2020-04-13T07:06:12.467Z,-5.4984,128.7062,298.46,4.2,mb,,84,3.566,0.36,us,us700090gx,2020-05-14T11:56:44.040Z,"205km SSE of Amahusu, Indonesia",earthquake,5.5,9.1,0.136,15,reviewed,us,us
+2020-04-13T06:44:26.940Z,3.7387,125.388,42.32,5,mb,,44,3.314,0.56,us,us70008vcy,2020-05-25T13:57:00.040Z,"184km S of Sarangani, Philippines",earthquake,7.3,2,0.052,118,reviewed,us,us
+2020-04-13T02:12:06.786Z,2.521,128.4826,232.47,4.2,mb,,159,2.064,0.64,us,us700090gl,2020-04-21T00:50:07.040Z,"102km NNE of Tobelo, Indonesia",earthquake,8.1,11.1,0.146,13,reviewed,us,us
+2020-04-13T00:40:01.725Z,3.0735,129.0831,10,4.3,mb,,123,4.483,0.86,us,us700090gu,2020-05-19T02:27:55.040Z,"190km NE of Tobelo, Indonesia",earthquake,9.6,1.6,0.154,12,reviewed,us,us
+2020-04-12T14:34:32.201Z,-9.24,123.643,114.18,4.2,mb,,113,0.8,0.96,us,us70008ux4,2020-04-19T16:24:25.040Z,"41km NNW of Naisano Dua, Indonesia",earthquake,7.5,6.6,0.159,11,reviewed,us,us
+2020-04-12T03:27:54.632Z,-6.6694,130.4918,86.84,4.5,mb,,43,1.53,1.03,us,us70008uj0,2020-05-07T23:57:47.040Z,"168km NNW of Saumlaki, Indonesia",earthquake,4.7,7.2,0.101,29,reviewed,us,us
+2020-04-11T20:23:46.754Z,2.3949,127.2288,92.19,4.9,mb,,42,1.618,0.99,us,us70008u8d,2020-04-24T04:38:54.040Z,"113km NW of Tobelo, Indonesia",earthquake,6.8,5.1,0.064,81,reviewed,us,us
+2020-04-11T14:24:34.424Z,2.9497,125.6211,181.77,4.4,mb,,163,2.779,1.14,us,us70008tvu,2020-05-21T19:27:34.040Z,"173km NNE of Bitung, Indonesia",earthquake,11.1,9.3,0.135,16,reviewed,us,us
+2020-04-11T05:08:27.333Z,-7.886,104.0365,10,4.2,mb,,163,3.606,0.5,us,us70008yjf,2020-04-30T05:21:42.040Z,"212km SW of Tugu Hilir, Indonesia",earthquake,4.9,1.9,0.153,12,reviewed,us,us
+2020-04-11T02:32:37.759Z,-7.2924,128.8513,156.9,4.1,mb,,68,2.521,1.2,us,us70008yj8,2020-05-07T23:21:25.040Z,"281km WNW of Saumlaki, Indonesia",earthquake,9.3,10.3,0.198,7,reviewed,us,us
+2020-04-10T18:45:49.121Z,5.6072,126.4972,74.14,5.1,mww,,32,1.715,0.85,us,us70008tex,2020-05-22T20:00:03.040Z,"90km SSE of Pondaguitan, Philippines",earthquake,4.7,3.5,0.063,24,reviewed,us,us
+2020-04-09T20:34:15.560Z,3.4928,126.8284,66.46,4.3,mb,,112,2.755,0.96,us,us70008xm6,2020-04-16T23:27:25.040Z,"235km NNW of Tobelo, Indonesia",earthquake,6.7,7.4,0.116,21,reviewed,us,us
+2020-04-09T16:57:15.506Z,-7.1638,129.2884,144.57,4.6,mb,,43,2.152,0.77,us,us70008shn,2020-05-08T17:45:07.040Z,"240km WNW of Saumlaki, Indonesia",earthquake,6.4,6.4,0.085,47,reviewed,us,us
+2020-04-09T07:37:59.074Z,-3.0369,128.5929,10,4.3,mb,,61,3.431,0.9,us,us70008xll,2020-05-25T15:08:10.040Z,"24km SSE of Taniwel, Indonesia",earthquake,7.2,1.8,0.103,27,reviewed,us,us
+2020-04-09T07:20:55.527Z,-8.0814,107.8508,55.63,4.4,mb,,65,0.646,1.11,us,us70008xlj,2020-05-22T07:13:27.040Z,"40km SSW of Ciheras, Indonesia",earthquake,7.6,5.2,0.11,24,reviewed,us,us
+2020-04-09T01:43:36.543Z,-1.524,134.1041,37.2,4.6,mb,,104,2.314,0.84,us,us70008s4b,2020-04-15T21:39:52.040Z,"72km S of Manokwari, Indonesia",earthquake,9.7,7.1,0.074,55,reviewed,us,us
+2020-04-08T23:15:50.106Z,1.9031,93.6488,10,4.2,mb,,114,4.663,0.76,us,us70008wvw,2020-05-19T23:42:22.040Z,"Off the west coast of northern Sumatra",earthquake,6.8,1.8,0.141,14,reviewed,us,us
+2020-04-08T21:28:52.429Z,2.1832,97.0212,46.81,4.1,mb,,165,1.034,0.89,us,us70008wvu,2020-05-19T23:45:14.040Z,"78km ESE of Sinabang, Indonesia",earthquake,7.8,9,0.145,13,reviewed,us,us
+2020-04-08T14:57:27.112Z,-2.8393,139.0188,38.52,4.2,mb,,98,6.761,0.9,us,us70008rp6,2020-04-29T06:09:12.040Z,"175km W of Abepura, Indonesia",earthquake,10.1,5.1,0.128,17,reviewed,us,us
+2020-04-08T11:50:08.325Z,1.5948,127.5121,127.07,4.3,mb,,122,0.83,0.54,us,us70008wvh,2020-05-08T08:27:51.040Z,"57km WSW of Tobelo, Indonesia",earthquake,4,7.6,0.109,24,reviewed,us,us
+2020-04-08T10:39:59.431Z,-3.3375,130.3251,10,4,mb,,110,1.965,0.88,us,us70008wve,2020-05-07T12:34:18.040Z,"156km E of Amahai, Indonesia",earthquake,4.9,1.9,0.144,14,reviewed,us,us
+2020-04-08T04:41:59.811Z,3.5243,125.2498,107.87,4.3,mb,,112,3.456,0.88,us,us70008wv5,2020-04-15T23:31:50.040Z,"209km S of Sarangani, Philippines",earthquake,10.1,7.6,0.092,34,reviewed,us,us
+2020-04-08T03:32:03.809Z,-1.432,120.0652,9.22,4.5,mb,,49,2.625,0.72,us,us70008rbp,2020-04-16T00:57:50.040Z,"63km SSE of Palu, Indonesia",earthquake,6.2,5.4,0.128,18,reviewed,us,us
+2020-04-07T20:17:47.327Z,0.1419,124.3107,102.58,4.1,mb,,53,1.936,1.2,us,us70008wmp,2020-05-06T21:30:15.040Z,"45km SE of Molibagu, Indonesia",earthquake,6.2,4.9,0.151,15,reviewed,us,us
+2020-04-07T17:42:49.143Z,-7.5258,128.5592,144.54,4.6,mb,,58,2.752,1.11,us,us70008qtj,2020-05-06T19:33:55.040Z,"Kepulauan Barat Daya, Indonesia",earthquake,6.1,6.3,0.075,58,reviewed,us,us
+2020-04-07T15:16:54.605Z,2.1295,96.2586,10,4.1,mb,,205,1.55,0.62,us,us70008qp4,2020-04-15T14:34:05.040Z,"41km SSW of Sinabang, Indonesia",earthquake,9.3,2,0.14,14,reviewed,us,us
+2020-04-07T14:02:14.818Z,-6.6089,129.8994,163.15,4.2,mb,,102,1.946,0.33,us,us70008wmk,2020-04-15T14:03:01.040Z,"215km NW of Saumlaki, Indonesia",earthquake,9.9,6.8,0.526,1,reviewed,us,us
+2020-04-07T12:30:33.123Z,9.2757,124.3292,10,4.3,mb,,125,2.517,0.62,us,us70008wmf,2020-05-03T06:01:55.040Z,"36km W of Yumbing, Philippines",earthquake,14,1.9,0.113,22,reviewed,us,us
+2020-04-07T08:44:10.660Z,-9.3944,112.3674,59.11,4.3,mb,,74,1.988,1.06,us,us70008qg9,2020-05-07T12:33:54.040Z,"116km SSW of Krajan Tambakrejo, Indonesia",earthquake,8,6.9,0.107,25,reviewed,us,us
+2020-04-07T08:03:00.023Z,-9.3569,112.3524,52.07,4.9,mb,,52,1.984,1.27,us,us70008qfi,2020-05-01T09:52:46.040Z,"112km SSW of Krajan Tambakrejo, Indonesia",earthquake,7.9,6.7,0.078,51,reviewed,us,us
+2020-04-06T19:20:27.360Z,2.8254,95.753,35,5,mb,,102,2.366,0.7,us,us70008q3h,2020-04-06T19:51:58.040Z,"79km WNW of Sinabang, Indonesia",earthquake,8.4,1.9,0.069,68,reviewed,us,us
+2020-04-06T16:44:57.834Z,0.6604,126.281,35,4.2,mb,,80,1.091,0.62,us,us70008six,2020-05-12T17:19:40.040Z,"121km W of Kota Ternate, Indonesia",earthquake,9,2,0.141,14,reviewed,us,us
+2020-04-06T05:31:03.283Z,1.4629,126.4463,39.64,4.8,mb,,91,1.148,0.65,us,us70008pr4,2020-05-05T05:16:37.040Z,"127km NW of Kota Ternate, Indonesia",earthquake,6.4,7.7,0.068,67,reviewed,us,us
+2020-04-06T02:13:27.458Z,-0.8455,131.4189,39.19,4.1,mb,,111,0.154,1.08,us,us70008si9,2020-04-09T23:01:53.040Z,"19km ENE of Sorong, Indonesia",earthquake,9.8,5.9,0.157,11,reviewed,us,us
+2020-04-06T01:56:42.920Z,-9.7601,118.8493,73.37,4.1,mb,,83,3.526,0.66,us,us70008si8,2020-04-09T22:56:06.040Z,"24km WSW of Panenggoede, Indonesia",earthquake,7.6,11.5,0.233,5,reviewed,us,us
+2020-04-05T22:57:45.965Z,1.6621,126.693,51.65,4.5,mb,,78,1.111,0.54,us,us70008shh,2020-04-20T03:40:10.040Z,"122km NW of Kota Ternate, Indonesia",earthquake,9.1,8.2,0.128,18,reviewed,us,us
+2020-04-05T22:42:53.832Z,-5.2757,102.5135,35,4.9,mb,,65,1.01,0.95,us,us70008pjp,2020-04-10T02:07:08.040Z,"141km W of Kuripan, Indonesia",earthquake,6,1.9,0.075,55,reviewed,us,us
+2020-04-05T22:42:28.123Z,1.4023,126.4522,53.5,4.6,mb,,90,1.108,0.65,us,us70008pjw,2020-04-10T02:08:31.040Z,"122km NW of Kota Ternate, Indonesia",earthquake,7.3,7.4,0.092,35,reviewed,us,us
+2020-04-05T21:18:17.017Z,-6.6683,128.0979,286.67,4.3,mb,,60,4.876,0.61,us,us70008shi,2020-04-20T03:51:24.040Z,"Banda Sea",earthquake,6.1,10.5,0.177,9,reviewed,us,us
+2020-04-05T20:44:06.014Z,0.9558,118.7371,52.98,4.6,mb,,67,2.05,1.05,us,us70008pgq,2020-05-03T16:11:20.040Z,"165km ENE of Bontang, Indonesia",earthquake,4.5,6.9,0.119,21,reviewed,us,us
+2020-04-05T18:37:10.349Z,1.4129,126.4235,36.35,6,mww,,31,1.137,1.19,us,us70008peg,2020-05-16T19:02:35.969Z,"125km WNW of Kota Ternate, Indonesia",earthquake,6.5,4.1,0.06,27,reviewed,us,us
+2020-04-05T12:54:16.459Z,-2.8317,139.4926,35,4.3,mb,,55,1.25,0.87,us,us70008sh4,2020-04-19T13:11:16.040Z,"123km W of Abepura, Indonesia",earthquake,8.3,1.9,0.168,10,reviewed,us,us
+2020-04-05T04:31:06.365Z,-6.3535,104.9695,58.05,4.4,mb,,70,2.668,0.96,us,us70008sgp,2020-05-01T05:29:09.040Z,"81km WNW of Karangbolong, Indonesia",earthquake,8.1,5.4,0.144,16,reviewed,us,us
+2020-04-05T02:04:43.449Z,-2.7614,138.6218,39.3,4.4,mb,,59,2.094,1.24,us,us70008nzu,2020-05-01T05:16:08.040Z,"218km W of Abepura, Indonesia",earthquake,6.7,5.1,0.115,22,reviewed,us,us
+2020-04-05T00:15:23.641Z,-8.5361,113.1477,127.08,4.9,mww,,31,0.995,0.87,us,us70008nye,2020-05-07T04:57:15.040Z,"31km SSW of Sumberwongso, Indonesia",earthquake,6.4,5.2,0.068,21,reviewed,us,us
+2020-04-04T22:42:41.438Z,0.0247,123.8749,105.73,4.2,mb,,54,1.529,0.68,us,us70008sdp,2020-04-19T04:29:57.040Z,"41km SSW of Molibagu, Indonesia",earthquake,6.2,5.9,0.113,22,reviewed,us,us
+2020-04-04T18:26:14.428Z,-11.3137,115.2912,10,4.4,mb,,111,3.04,1.06,us,us70008sdl,2020-05-06T18:10:16.040Z,"275km S of Kangin, Indonesia",earthquake,7.2,1.9,0.139,16,reviewed,us,us
+2020-04-03T22:14:17.790Z,1.9268,128.4541,64,4.4,mb,,108,1.58,0.62,us,us70008n43,2020-04-03T22:36:19.040Z,"54km ENE of Tobelo, Indonesia",earthquake,10,9,0.105,26,reviewed,us,us
+2020-04-03T18:38:24.879Z,-11.1856,115.3875,10,4.6,mb,,72,2.96,0.64,us,us70008mxn,2020-05-13T15:12:49.040Z,"261km S of Kangin, Indonesia",earthquake,10.6,1.9,0.092,42,reviewed,us,us
+2020-04-03T12:50:23.332Z,1.623,126.548,35,4.6,mb,,106,1.176,0.56,us,us70008mlj,2020-05-04T06:42:24.040Z,"130km NW of Kota Ternate, Indonesia",earthquake,6.1,2,0.098,31,reviewed,us,us
+2020-04-03T10:32:47.906Z,-3.2545,119.1624,10,4.2,mb,,120,1.844,0.98,us,us70008rqb,2020-05-18T13:20:21.040Z,"23km NW of Madette, Indonesia",earthquake,8.3,1.9,0.136,15,reviewed,us,us
+2020-04-03T09:17:26.450Z,-3.4769,130.9605,10,4.4,mb,,88,1.4,0.88,us,us70008rq8,2020-05-07T12:08:37.040Z,"227km E of Amahai, Indonesia",earthquake,3.8,1.9,0.098,30,reviewed,us,us
+2020-04-02T22:50:53.597Z,0.4008,126.2701,22.74,4.3,mb,,66,1.156,0.77,us,us70008rik,2020-04-10T01:19:32.040Z,"129km WSW of Kota Ternate, Indonesia",earthquake,7.1,3.4,0.16,11,reviewed,us,us
+2020-04-02T06:42:37.696Z,9.8848,122.2514,39.45,4.4,mb,,106,4.319,0.69,us,us70008ri3,2020-05-02T07:40:26.040Z,"16km W of Bulata, Philippines",earthquake,10.6,9,0.115,22,reviewed,us,us
+2020-04-02T03:34:47.277Z,-9.4385,114.6801,50.18,4.3,mb,,71,1.094,0.96,us,us70008rhp,2020-04-19T23:52:58.040Z,"83km SW of Kangin, Indonesia",earthquake,8,8.1,0.129,17,reviewed,us,us
+2020-04-02T02:13:11.964Z,-7.9349,125.7018,16.19,5.5,mww,,27,2.298,0.95,us,us70008l5g,2020-05-12T21:58:39.451Z,"70km NNE of Dili, East Timor",earthquake,6.6,3.2,0.066,22,reviewed,us,us
+2020-04-01T14:39:25.875Z,-6.0573,142.4937,29.77,4.5,mb,,100,3.945,0.88,us,us70008ki1,2020-04-18T06:39:39.040Z,"101km SW of Porgera, Papua New Guinea",earthquake,9,6.3,0.108,25,reviewed,us,us
+2020-04-01T07:49:07.899Z,-3.2591,142.6195,40.38,4.6,mb,,54,2.05,0.84,us,us70008k5m,2020-05-06T08:52:41.040Z,"33km ESE of Aitape, Papua New Guinea",earthquake,7.7,6.5,0.073,55,reviewed,us,us
+2020-04-01T03:01:27.611Z,-8.137,119.7923,174.97,4,mb,,109,4.34,0.62,us,us70008qh6,2020-04-17T03:35:35.040Z,"40km NNW of Cempa, Indonesia",earthquake,9.2,11.5,0.157,11,reviewed,us,us
+2020-03-31T09:28:42.914Z,3.8471,125.1563,10,4.4,mb,,126,3.769,0.65,us,us70008mss,2020-04-26T13:09:20.040Z,"175km S of Sarangani, Philippines",earthquake,12.3,1.3,0.149,13,reviewed,us,us
+2020-03-31T08:05:33.021Z,-7.6421,127.4143,166.93,4.8,mb,,49,3.753,1.06,us,us70008j34,2020-05-11T13:43:03.040Z,"226km ENE of Dili, East Timor",earthquake,6.9,5.9,0.073,59,reviewed,us,us
+2020-03-31T07:27:56.513Z,4.6593,125.3566,25.59,4.7,mb,,106,2.404,1.31,us,us70008j2u,2020-04-29T13:33:50.040Z,"83km S of Sarangani, Philippines",earthquake,2.8,6.3,0.078,50,reviewed,us,us
+2020-03-30T23:57:07.891Z,0.6707,121.5923,98.98,4.3,mb,,175,0.921,0.69,us,us70008mnz,2020-04-04T03:02:06.040Z,"14km N of Lemito, Indonesia",earthquake,13.5,11.2,0.238,5,reviewed,us,us
+2020-03-30T21:01:35.811Z,-9.2256,123.8071,102.95,4.9,mb,,61,0.695,1.2,us,us70008iul,2020-04-06T05:02:17.434Z,"41km N of Naisano Dua, Indonesia",earthquake,7,6.5,0.086,43,reviewed,us,us
+2020-03-30T14:48:41.374Z,-9.648,112.9979,49.18,4.5,mb,,117,1.633,0.81,us,us70008mnl,2020-04-06T13:22:00.040Z,"141km SSE of Krajan Tambakrejo, Indonesia",earthquake,8.7,8.5,0.1,29,reviewed,us,us
+2020-03-30T08:45:37.114Z,-6.633,132.4884,10,4.4,mb,,108,1.786,0.55,us,us70008mn4,2020-04-30T09:46:05.040Z,"110km SSW of Tual, Indonesia",earthquake,4.1,1.9,0.17,10,reviewed,us,us
+2020-03-30T07:15:27.051Z,5.319,125.5207,143.95,4.3,mb,,91,4.878,0.86,us,us70008mn3,2020-04-30T11:18:07.040Z,"11km SE of Sarangani, Philippines",earthquake,6.8,8.8,0.104,26,reviewed,us,us
+2020-03-30T03:41:45.930Z,6.0874,126.0245,83.15,4.3,mb,,120,1.071,0.82,us,us70008mn1,2020-04-06T01:47:22.040Z,"34km SSW of Pondaguitan, Philippines",earthquake,11.4,9.1,0.187,8,reviewed,us,us
+2020-03-29T22:53:21.268Z,-11.0415,115.2858,10,4.2,mb,,110,2.788,0.49,us,us70008lq3,2020-05-11T04:49:06.040Z,"244km S of Kangin, Indonesia",earthquake,6.3,1.9,0.153,12,reviewed,us,us
+2020-03-29T21:00:00.323Z,2.7964,128.4855,53.78,4.2,mb,,93,2.301,0.5,us,us70008lpz,2020-04-09T02:26:34.040Z,"129km NNE of Tobelo, Indonesia",earthquake,5.5,11.5,0.147,13,reviewed,us,us
+2020-03-29T20:57:54.571Z,-3.1153,129.7031,10,4.3,mb,,136,2.549,0.75,us,us70008iet,2020-04-20T14:33:15.040Z,"90km ENE of Amahai, Indonesia",earthquake,10.3,2,0.148,13,reviewed,us,us
+2020-03-29T14:34:08.504Z,-4.3356,127.7602,281.46,4.1,mb,,63,4.695,0.38,us,us70008lps,2020-04-05T15:54:59.040Z,"79km SSW of Amahusu, Indonesia",earthquake,8.7,8.6,0.12,19,reviewed,us,us
+2020-03-29T07:38:58.954Z,-6.3749,130.1565,157.62,4.3,mb,,70,1.958,0.78,us,us70008i77,2020-04-29T07:08:32.040Z,"216km NW of Saumlaki, Indonesia",earthquake,8.9,9.1,0.122,19,reviewed,us,us
+2020-03-28T23:06:55.448Z,2.4803,95.8464,27.05,4,mb,,201,2.086,0.52,us,us70008kn1,2020-04-10T23:41:31.040Z,"59km W of Sinabang, Indonesia",earthquake,12.9,6.3,0.232,5,reviewed,us,us
+2020-03-28T22:18:04.283Z,2.2193,126.8598,50.68,4.2,mb,,125,1.524,0.83,us,us70008kmv,2020-04-10T21:34:08.040Z,"138km WNW of Tobelo, Indonesia",earthquake,9.1,7.2,0.118,20,reviewed,us,us
+2020-03-28T15:43:17.479Z,-1.7144,120.1775,10,5.9,mww,,36,2.678,1.19,us,us70008hvb,2020-05-10T13:40:45.741Z,"62km WSW of Kasiguncu, Indonesia",earthquake,6,1.8,0.047,43,reviewed,us,us
+2020-03-28T11:17:42.173Z,-3.8308,138.9742,51.01,4.1,mb,,100,6.774,0.77,us,us70008kme,2020-04-25T11:24:31.040Z,"222km SW of Abepura, Indonesia",earthquake,9.6,7.5,0.145,13,reviewed,us,us
+2020-03-28T09:44:59.739Z,-10.9835,115.2504,10,4.6,mb,,62,2.722,0.87,us,us70008hs0,2020-04-25T06:24:56.040Z,"238km S of Kangin, Indonesia",earthquake,5.2,1.9,0.091,36,reviewed,us,us
+2020-03-28T08:49:42.405Z,0.8497,126.0159,10,4.3,mb,,66,1.352,0.82,us,us70008km8,2020-05-06T04:50:56.040Z,"113km SE of Bitung, Indonesia",earthquake,8.2,1.9,0.133,16,reviewed,us,us
+2020-03-28T07:11:40.780Z,-9.4427,113.0043,60.3,4.4,mb,,162,1.489,0.57,us,us70008km3,2020-04-16T06:11:16.040Z,"119km S of Pujiharjo, Indonesia",earthquake,9.5,5.9,0.134,16,reviewed,us,us
+2020-03-28T03:49:04.519Z,9.9236,125.4167,85.58,4.4,mb,,133,2.84,0.55,us,us70008klw,2020-04-29T21:02:31.040Z,"12km NNW of Mabua, Philippines",earthquake,14.9,7.4,0.162,11,reviewed,us,us
+2020-03-28T02:42:15.452Z,-0.1359,125.3058,35,4.2,mb,,84,2.689,0.91,us,us70008klu,2020-04-23T23:21:36.040Z,"138km SE of Modayag, Indonesia",earthquake,7.1,2,0.186,8,reviewed,us,us
+2020-03-28T00:16:29.752Z,-11.1093,115.1653,10,4.4,mb,,96,2.806,1.09,us,us70008klr,2020-04-03T03:34:11.040Z,"251km S of Kangin, Indonesia",earthquake,8,1.9,0.114,22,reviewed,us,us
+2020-03-28T00:12:22.379Z,5.6458,126.5157,85.92,4,mb,,191,1.693,0.51,us,us70008klq,2020-04-03T03:27:47.040Z,"87km SSE of Pondaguitan, Philippines",earthquake,10.7,12.4,0.211,6,reviewed,us,us
+2020-03-27T21:53:56.021Z,-10.9995,115.2578,10,4.5,mb,,117,2.739,1.01,us,us70008hkb,2020-03-27T22:14:23.040Z,"240km S of Kangin, Indonesia",earthquake,5.2,1.9,0.093,34,reviewed,us,us
+2020-03-27T14:32:48.194Z,0.1747,133.5831,10,5.6,mww,,62,3.35,0.96,us,us70008h8n,2020-05-11T13:34:26.782Z,"127km NNW of Manokwari, Indonesia",earthquake,8.7,1.8,0.073,18,reviewed,us,us
+2020-03-27T06:27:20.911Z,-2.9323,139.4111,124.75,4.5,mb,,57,7.153,0.78,us,us70008h4x,2020-05-06T05:05:02.040Z,"134km WSW of Abepura, Indonesia",earthquake,11.9,9.3,0.11,24,reviewed,us,us
+2020-03-27T02:49:03.076Z,-2.94,139.1602,35,4.5,mb,,51,1.599,1.28,us,us70008h3r,2020-04-23T23:05:25.040Z,"161km WSW of Abepura, Indonesia",earthquake,6.4,1.9,0.104,27,reviewed,us,us
+2020-03-26T21:58:56.992Z,-4.0981,120.0429,10,4.4,mb,,97,0.955,0.63,us,us70008guk,2020-05-05T05:04:39.040Z,"3km NNE of Sengkang, Indonesia",earthquake,5.9,1.9,0.161,11,reviewed,us,us
+2020-03-26T21:36:42.248Z,-2.9507,139.1131,38,5.7,mww,,13,6.855,0.8,us,us70008gtk,2020-03-27T21:43:59.121Z,"167km WSW of Abepura, Indonesia",earthquake,7.2,1.8,0.071,19,reviewed,us,us
+2020-03-26T20:34:17.012Z,-9.2645,113.595,58.27,4.5,mb,,70,0.962,0.57,us,us70008gqz,2020-04-02T23:06:08.040Z,"89km SSW of Sarongan, Indonesia",earthquake,7,6.1,0.111,24,reviewed,us,us
+2020-03-26T19:49:22.791Z,-2.9395,139.2393,35,4.6,mb,,56,1.523,0.86,us,us70008gpv,2020-04-02T14:01:53.040Z,"153km WSW of Abepura, Indonesia",earthquake,6.9,1.9,0.065,70,reviewed,us,us
+2020-03-26T19:49:10.679Z,-4.6344,101.9548,35,4.3,mb,,196,1.034,0.67,us,us70008jdj,2020-04-02T23:34:32.040Z,"98km SSW of Bengkulu, Indonesia",earthquake,7.4,2,0.177,9,reviewed,us,us
+2020-03-26T18:17:53.828Z,1.3652,123.0134,39.56,4.2,mb,,167,2.245,0.63,us,us70008jdg,2020-04-02T23:21:31.040Z,"57km NNW of Boroko, Indonesia",earthquake,10.5,10,0.166,10,reviewed,us,us
+2020-03-26T16:41:25.434Z,3.4095,125.6968,154.31,4.3,mb,,105,3.106,0.57,us,us70008jdd,2020-04-24T17:17:04.040Z,"221km S of Sarangani, Philippines",earthquake,7.1,9.3,0.113,26,reviewed,us,us
+2020-03-26T15:38:04.089Z,5.5669,125.0521,59,6.1,mww,,11,1.582,1.34,us,us70008ghw,2020-05-05T19:09:26.305Z,"27km SW of Burias, Philippines",earthquake,4.1,1.7,0.038,67,reviewed,us,us
+2020-03-26T09:23:38.393Z,-6.5884,104.2784,35,4.4,mb,,92,2.575,0.81,us,us70008jd2,2020-05-11T13:44:41.040Z,"126km SSW of Kotaagung, Indonesia",earthquake,8,2,0.161,11,reviewed,us,us
+2020-03-26T07:54:09.715Z,-2.85,130.0348,10,4.5,mb,,60,2.212,0.82,us,us70008jdu,2020-04-30T08:10:29.040Z,"135km ENE of Amahai, Indonesia",earthquake,7.2,1.9,0.135,16,reviewed,us,us
+2020-03-26T07:44:33.246Z,-2.5796,138.4004,35,4.3,mb,,64,2.302,0.92,us,us70008jcz,2020-04-30T07:32:49.040Z,"242km W of Abepura, Indonesia",earthquake,4.4,2,0.13,17,reviewed,us,us
+2020-03-26T07:12:40.395Z,5.316,127.5683,10,4.9,mb,,76,2.635,0.88,us,us70008g9c,2020-04-29T08:30:48.040Z,"192km SE of Pondaguitan, Philippines",earthquake,7.5,1.8,0.058,92,reviewed,us,us
+2020-03-26T06:49:18.057Z,-2.9755,139.0242,35,4.8,mb,,55,6.766,0.85,us,us70008g96,2020-05-06T07:54:24.040Z,"177km WSW of Abepura, Indonesia",earthquake,8,1.9,0.049,127,reviewed,us,us
+2020-03-25T22:12:03.720Z,-5.8663,130.1,188.72,4.3,mb,,78,2.415,0.86,us,us70008g3x,2020-04-09T23:12:40.040Z,"266km NNW of Saumlaki, Indonesia",earthquake,7,8.2,0.143,14,reviewed,us,us
+2020-03-25T19:29:48.845Z,-0.9456,120.8379,42.34,4.2,mb,,66,1.935,1.2,us,us70008iyl,2020-03-31T22:15:22.040Z,"50km N of Poso, Indonesia",earthquake,7.4,7.4,0.158,11,reviewed,us,us
+2020-03-25T16:42:51.805Z,-4.9252,130.4808,10,4.4,mb,,39,2.661,0.83,us,us70008fuj,2020-04-02T04:27:33.040Z,"247km SE of Amahai, Indonesia",earthquake,7,1.5,0.134,16,reviewed,us,us
+2020-03-25T10:54:36.342Z,-4.5793,139.1273,52.24,4.4,mb,,50,7.059,0.5,us,us70008fqr,2020-05-06T07:22:29.040Z,"209km NW of Tanahmerah, Indonesia",earthquake,9.3,7.8,0.089,37,reviewed,us,us
+2020-03-25T06:31:53.839Z,-11.145,115.2162,10,4,mb,,118,2.857,0.92,us,us70008ixm,2020-04-30T07:12:01.040Z,"256km S of Kangin, Indonesia",earthquake,7.8,1.9,0.184,8,reviewed,us,us
+2020-03-25T02:20:06.758Z,2.8439,128.1246,129.57,4.7,mb,,85,2.193,0.67,us,us70008fhr,2020-04-08T04:49:05.040Z,"124km N of Tobelo, Indonesia",earthquake,7.4,7.6,0.066,69,reviewed,us,us
+2020-03-25T01:43:35.015Z,2.6754,128.2779,137.91,4.7,mb,,80,2.098,0.77,us,us70008fh7,2020-04-08T03:07:51.040Z,"108km NNE of Tobelo, Indonesia",earthquake,9,4.3,0.066,70,reviewed,us,us
+2020-03-25T01:10:52.015Z,-6.5433,132.3763,10,4.4,mb,,128,1.785,0.95,us,us70008ixk,2020-04-08T02:26:10.040Z,"105km SSW of Tual, Indonesia",earthquake,3.8,1.9,0.218,6,reviewed,us,us
+2020-03-24T16:02:36.761Z,0.8986,122.6734,49.61,4,mb,,122,1.903,0.24,us,us70008hfw,2020-03-31T15:44:25.040Z,"28km NNE of Sidomulyo, Indonesia",earthquake,5.7,14.3,0.195,7,reviewed,us,us
+2020-03-24T10:35:57.609Z,-7.8498,122.9935,232.09,4.3,mb,,77,1.081,1.03,us,us70008f1i,2020-04-20T13:25:55.040Z,"75km NNE of Palue, Indonesia",earthquake,7.6,7.6,0.142,14,reviewed,us,us
+2020-03-23T22:29:15.102Z,-8.341,116.1453,29.43,4.3,mb,,55,1.976,0.78,us,us70008hfe,2020-04-02T03:20:58.040Z,"2km N of Prawira, Indonesia",earthquake,8.6,7.2,0.16,11,reviewed,us,us
+2020-03-23T19:30:47.144Z,-11.2593,115.3372,16.93,4.1,mb,,111,3.007,1.05,us,us70008hf7,2020-03-31T20:45:15.040Z,"269km S of Kangin, Indonesia",earthquake,8.4,5.2,0.158,11,reviewed,us,us
+2020-03-23T17:43:29.219Z,-1.9598,140.6026,10,4.6,mb,,64,0.56,0.8,us,us70008ems,2020-03-31T19:08:03.040Z,"64km N of Jayapura, Indonesia",earthquake,6.4,1.9,0.086,40,reviewed,us,us
+2020-03-23T17:28:13.990Z,-2.1531,140.7807,10,4.6,mb,,61,0.367,1.18,us,us70008emj,2020-03-31T19:01:06.040Z,"42km NNE of Jayapura, Indonesia",earthquake,8.9,1.9,0.078,50,reviewed,us,us
+2020-03-23T17:25:49.734Z,-2.1096,140.7773,10,4.6,mb,,45,0.408,1.27,us,us70008em1,2020-03-31T18:57:04.040Z,"47km N of Jayapura, Indonesia",earthquake,6.4,1.9,0.082,45,reviewed,us,us
+2020-03-23T11:04:33.345Z,-6.1237,130.6874,94.77,4.7,mww,,69,1.944,0.85,us,us70008eh6,2020-05-04T06:18:16.040Z,"213km NNW of Saumlaki, Indonesia",earthquake,6.7,5.1,0.098,10,reviewed,us,us
+2020-03-23T09:19:06.673Z,7.0179,126.677,175.72,4.2,mb,,139,1.09,0.56,us,us70008heq,2020-04-22T12:35:59.040Z,"23km ESE of San Ignacio, Philippines",earthquake,12.5,7.7,0.125,18,reviewed,us,us
+2020-03-23T06:24:07.572Z,-9.9871,113.3233,35,4.3,mb,,141,1.715,0.85,us,us70008hei,2020-05-04T10:06:35.040Z,"174km SSW of Sarongan, Indonesia",earthquake,9.2,2,0.178,9,reviewed,us,us
+2020-03-22T13:31:52.455Z,5.1328,125.2016,46.75,4.5,mb,,108,1.96,1.28,us,us70008e20,2020-03-30T14:15:31.040Z,"41km SW of Sarangani, Philippines",earthquake,7.3,7.8,0.107,26,reviewed,us,us
+2020-03-22T08:15:51.742Z,1.3375,123.1799,41.83,4.1,mb,,92,2.398,0.5,us,us70008ge2,2020-04-19T05:14:42.040Z,"48km NNW of Boroko, Indonesia",earthquake,4.6,19.9,0.197,8,reviewed,us,us
+2020-03-22T06:48:43.441Z,-11.0244,115.1732,10,4.9,mww,,51,2.73,0.98,us,us70008dyh,2020-05-01T02:45:24.040Z,"242km S of Kangin, Indonesia",earthquake,6.6,1.5,0.08,15,reviewed,us,us
+2020-03-22T05:51:47.836Z,-3.1119,135.6309,30.78,5.1,mb,,55,3.382,0.7,us,us70008dxw,2020-04-18T07:59:49.040Z,"32km NNE of Nabire, Indonesia",earthquake,8.1,4.3,0.046,155,reviewed,us,us
+2020-03-22T03:34:53.463Z,1.3389,121.9748,10,5.1,mww,,31,1.214,0.98,us,us70008dvs,2020-05-01T02:37:52.040Z,"52km NE of Bunobogu, Indonesia",earthquake,6.1,1.7,0.08,15,reviewed,us,us
+2020-03-21T23:25:41.552Z,-4.5534,134.1981,10,4.2,mb,,123,2.533,1.05,us,us70008h1r,2020-04-08T00:06:02.040Z,"134km N of Dobo, Indonesia",earthquake,7,2,0.166,10,reviewed,us,us
+2020-03-21T22:45:53.885Z,-11.1703,115.1961,10,4.4,mb,,111,2.873,0.76,us,us70008dsb,2020-04-07T23:59:34.040Z,"258km S of Kangin, Indonesia",earthquake,8.2,1.9,0.114,22,reviewed,us,us
+2020-03-21T21:19:34.358Z,-5.306,141.4079,10,5,mb,,25,2.86,0.78,us,us70008dqz,2020-04-05T05:23:15.137Z,"91km N of Kiunga, Papua New Guinea",earthquake,7.1,1.8,0.058,93,reviewed,us,us
+2020-03-21T16:36:51.087Z,6.6689,126.9127,169.68,4.3,mb,,135,1.382,0.71,us,us70008h1n,2020-04-19T15:36:09.040Z,"66km SE of Tarragona, Philippines",earthquake,9.2,7.6,0.116,21,reviewed,us,us
+2020-03-21T15:40:57.325Z,-6.1925,104.669,68.52,4.5,mb,,187,2.494,0.75,us,us70008dku,2020-05-03T13:45:29.040Z,"77km S of Kotaagung, Indonesia",earthquake,7.6,6.6,0.121,20,reviewed,us,us
+2020-03-21T12:33:10.299Z,9.1048,126.7472,35.14,4.7,mb,,127,2.329,0.47,us,us70008dj5,2020-04-18T11:33:32.980Z,"52km ENE of Bayabas, Philippines",earthquake,7.5,6.6,0.061,82,reviewed,us,us
+2020-03-21T03:52:46.124Z,1.6646,127.2192,117.16,4.5,mb,,159,0.899,0.6,us,us70008deg,2020-04-16T23:54:09.040Z,"88km W of Tobelo, Indonesia",earthquake,9.7,7,0.108,25,reviewed,us,us
+2020-03-21T01:34:25.392Z,-7.7289,128.4255,94.98,4.1,mb,,84,2.857,1.32,us,us70008h0n,2020-04-16T23:35:21.040Z,"Kepulauan Barat Daya, Indonesia",earthquake,8.8,9.4,0.165,10,reviewed,us,us
+2020-03-21T00:03:49.743Z,-6.3848,130.9936,35,4.3,mb,,103,1.616,1.17,us,us70008daj,2020-03-23T01:56:58.040Z,"176km NNW of Saumlaki, Indonesia",earthquake,5.3,1.9,0.138,15,reviewed,us,us
+2020-03-20T22:26:00.431Z,-11.0171,115.2515,10,4.4,mb,,124,2.753,0.67,us,us70008h0j,2020-03-27T02:08:04.040Z,"242km S of Kangin, Indonesia",earthquake,9.1,1.9,0.12,20,reviewed,us,us
+2020-03-20T06:12:38.674Z,-2.8436,129.8068,10,4.8,mb,,88,2.44,0.7,us,us70008cqe,2020-04-09T08:33:41.040Z,"112km ENE of Amahai, Indonesia",earthquake,3.7,1.9,0.083,45,reviewed,us,us
+2020-03-20T05:02:08.608Z,3.4007,126.4723,62.64,4.9,mb,,82,2.76,1.19,us,us70008cpq,2020-04-09T07:27:33.040Z,"248km SSE of Sarangani, Philippines",earthquake,8.7,7,0.067,69,reviewed,us,us
+2020-03-20T04:05:56.089Z,-8.8713,117.8051,36.3,4.6,mb,,45,3.633,1.07,us,us70008cnr,2020-04-28T22:24:49.040Z,"8km SSE of Pisangkemeng, Indonesia",earthquake,4.1,6.4,0.111,24,reviewed,us,us
+2020-03-19T18:57:47.108Z,-8.3262,116.0637,26.39,4.2,mb,,62,1.896,0.97,us,us70008gzk,2020-03-31T18:13:47.039Z,"9km NNW of Karangsubagan, Indonesia",earthquake,7.5,3.6,0.125,18,reviewed,us,us
+2020-03-19T16:49:01.770Z,2.5592,127.0251,58.99,4.3,mb,,105,1.807,0.61,us,us70008ca6,2020-04-11T16:47:35.040Z,"142km NW of Tobelo, Indonesia",earthquake,8,7.9,0.107,29,reviewed,us,us
+2020-03-19T12:58:56.455Z,8.8588,93.9589,10,4.8,mb,,71,3.025,0.66,us,us70008c5d,2020-04-22T09:45:38.040Z,"121km NE of Mohean, India",earthquake,7.4,1.6,0.101,30,reviewed,us,us
+2020-03-19T10:23:55.277Z,-1.35,120.8498,52.94,4.2,mb,,83,1.945,0.74,us,us70008gzq,2020-05-04T12:16:50.040Z,"11km ENE of Poso, Indonesia",earthquake,5.2,12.2,0.215,6,reviewed,us,us
+2020-03-19T00:20:37.316Z,-7.8086,127.6128,127.39,4,mb,,67,3.655,0.75,us,us70008gup,2020-04-05T04:20:42.040Z,"239km ENE of Dili, East Timor",earthquake,5.3,9.7,0.211,6,reviewed,us,us
+2020-03-18T23:54:49.841Z,-6.7286,109.4694,241.95,4.6,mb,,41,1.015,1.26,us,us70008bx9,2020-04-05T04:10:50.040Z,"17km NNE of Petarukan, Indonesia",earthquake,6.9,4.5,0.061,80,reviewed,us,us
+2020-03-18T22:51:41.919Z,-10.8943,115.1472,10,4.4,mb,,119,2.6,0.82,us,us70008gz1,2020-04-23T05:05:29.040Z,"228km S of Kangin, Indonesia",earthquake,9.8,1.9,0.135,16,reviewed,us,us
+2020-03-18T20:58:29.095Z,5.973,125.6737,187.25,4.3,mb,,93,1.093,0.96,us,us70008bur,2020-03-30T20:06:03.040Z,"2km NE of Culaman, Philippines",earthquake,7.7,5.2,0.088,37,reviewed,us,us
+2020-03-18T17:45:39.299Z,-11.0521,115.1378,20.68,6.2,mww,,24,2.743,1.19,us,us60008hzl,2020-04-14T20:49:03.739Z,"245km S of Kangin, Indonesia",earthquake,7.1,3.1,0.038,65,reviewed,us,us
+2020-03-18T16:08:50.213Z,-7.7097,129.0815,72.39,4.4,mb,,62,2.213,0.89,us,us60008hwc,2020-04-01T23:43:55.040Z,"247km W of Saumlaki, Indonesia",earthquake,6.3,5.1,0.09,36,reviewed,us,us
+2020-03-18T08:45:48.597Z,-7.5152,107.6753,117.12,4.2,mb,,124,0.057,0.87,us,us70008gye,2020-04-23T09:57:18.040Z,"2km SSE of Cikalong, Indonesia",earthquake,9.7,5.6,0.158,11,reviewed,us,us
+2020-03-18T03:27:53.062Z,3.0282,127.9944,107.85,4.6,mb,,111,2.327,0.38,us,us60008hla,2020-04-06T00:48:50.040Z,"143km N of Tobelo, Indonesia",earthquake,10.1,9,0.08,46,reviewed,us,us
+2020-03-18T03:13:29.659Z,3.0199,128.0385,101.76,5.4,mww,,33,2.331,0.75,us,us60008hkf,2020-04-05T23:06:09.259Z,"142km N of Tobelo, Indonesia",earthquake,5.6,4.7,0.117,7,reviewed,us,us
+2020-03-17T16:22:43.507Z,-7.0405,129.1327,177.48,4.8,mb,,87,2.342,0.76,us,us70008gy7,2020-05-30T22:17:25.040Z,"261km WNW of Saumlaki, Indonesia",earthquake,9.5,10.9,0.392,3,reviewed,us,us
+2020-03-16T16:58:12.752Z,-2.2036,133.5151,39.15,4.1,mb,,76,1.451,0.99,us,us70008gxn,2020-05-30T22:17:24.040Z,"160km SSW of Manokwari, Indonesia",earthquake,7.3,7.9,0.158,11,reviewed,us,us
+2020-03-16T10:59:11.000Z,-1.1964,126.4508,21.18,5,mb,,42,2.158,0.86,us,us60008ggb,2020-05-30T22:17:13.040Z,"136km W of Laiwui, Indonesia",earthquake,6,4.4,0.064,78,reviewed,us,us
+2020-03-16T07:33:02.697Z,-7.7172,127.4514,149.87,4.4,mb,,56,3.742,0.65,us,us70008gxi,2020-05-30T22:17:24.040Z,"226km ENE of Dili, East Timor",earthquake,5.1,8.3,0.169,10,reviewed,us,us
+2020-03-16T03:56:41.714Z,-7.4774,106.7727,72.78,4.5,mb,,129,0.87,0.79,us,us70008gx1,2020-05-30T22:17:23.040Z,"6km SSE of Tegalbuleud, Indonesia",earthquake,10.8,6.8,0.124,19,reviewed,us,us
+2020-03-15T22:49:09.688Z,-7.5797,128.4081,127.3,4.1,mb,,45,2.892,0.77,us,us70008c4b,2020-05-30T22:17:20.040Z,"Kepulauan Barat Daya, Indonesia",earthquake,7.2,6.3,0.166,10,reviewed,us,us
+2020-03-15T21:05:32.421Z,-10.4691,118.2924,10,5.2,mww,,47,4.296,0.86,us,us60008g6f,2020-05-30T22:17:12.040Z,"121km SW of Panenggoede, Indonesia",earthquake,6.5,1.7,0.055,32,reviewed,us,us
+2020-03-15T10:45:53.553Z,0.925,126.7603,71.92,4.5,mb,,94,0.625,0.4,us,us60008g0m,2020-05-30T22:17:10.040Z,"69km WNW of Kota Ternate, Indonesia",earthquake,7.9,7.3,0.103,28,reviewed,us,us
+2020-03-15T03:28:48.410Z,-7.9913,122.7299,251.95,4.5,mb,,73,0.804,1.27,us,us70008c3m,2020-05-30T22:17:19.040Z,"52km N of Palue, Indonesia",earthquake,6.2,7.7,0.18,9,reviewed,us,us
+2020-03-14T23:26:34.621Z,-6.8374,105.653,74.56,4.4,mb,,159,1.947,0.88,us,us60008hq3,2020-05-30T22:17:19.040Z,"1km SW of Cicadas, Indonesia",earthquake,9.8,10.4,0.156,12,reviewed,us,us
+2020-03-14T22:24:56.317Z,1.6896,128.4961,71.51,4,mb,,152,1.451,0.64,us,us60008hq7,2020-05-30T22:17:19.040Z,"54km E of Tobelo, Indonesia",earthquake,10.5,11.3,0.196,7,reviewed,us,us
+2020-03-14T18:30:33.866Z,3.5635,94.5708,10,4.3,mb,,118,2.889,0.62,us,us60008fqs,2020-05-30T22:17:08.040Z,"184km WSW of Meulaboh, Indonesia",earthquake,7,1.7,0.098,37,reviewed,us,us
+2020-03-14T10:42:38.435Z,2.7621,128.3076,47.49,4.9,mb,,95,2.189,0.8,us,us60008fm8,2020-05-30T22:17:08.040Z,"119km NNE of Tobelo, Indonesia",earthquake,6.3,7.1,0.052,117,reviewed,us,us
+2020-03-14T10:18:06.240Z,2.8576,128.285,39.51,4.2,mb,,146,2.266,0.56,us,us60008hpt,2020-05-30T22:17:19.040Z,"128km NNE of Tobelo, Indonesia",earthquake,9.4,9.2,0.146,14,reviewed,us,us
+2020-03-14T02:48:42.375Z,-2.7293,128.902,10,4.2,mb,,111,2.999,0.96,us,us60008hpk,2020-05-30T22:17:19.040Z,"49km ENE of Taniwel, Indonesia",earthquake,6.6,1.9,0.199,7,reviewed,us,us
+2020-03-14T02:17:53.430Z,-8.3139,108.9137,76.53,4.5,mb,,166,1.51,0.45,us,us60008hq9,2020-05-30T22:17:19.040Z,"68km S of Karangbadar Kidul, Indonesia",earthquake,7.8,9.4,0.191,8,reviewed,us,us
+2020-03-13T21:37:47.652Z,-5.2955,129.6421,181.75,4.3,mb,,121,3.136,0.52,us,us70008gwt,2020-05-30T22:17:23.040Z,"220km SSE of Saparua, Indonesia",earthquake,7.8,2.5,0.107,25,reviewed,us,us
+2020-03-13T18:37:34.426Z,6.7031,125.0848,25.07,4.4,mb,,73,0.611,0.89,us,us70008gwj,2020-05-30T22:17:23.040Z,"12km WSW of Magsaysay, Philippines",earthquake,6.5,5.5,0.092,40,reviewed,us,us
+2020-03-13T12:38:07.356Z,0.6259,126.4311,40.64,4.2,mb,,76,0.946,1.08,us,us70008gw8,2020-05-30T22:17:23.040Z,"105km W of Kota Ternate, Indonesia",earthquake,8.2,8.8,0.14,14,reviewed,us,us
+2020-03-13T10:22:13.145Z,-0.0109,124.2961,97.58,4.7,mb,,45,1.836,0.6,us,us70008gwd,2020-05-30T22:17:23.040Z,"56km SE of Molibagu, Indonesia",earthquake,3.5,9.1,0.133,17,reviewed,us,us
+2020-03-13T09:04:48.222Z,2.9935,126.4086,44.65,4.6,mb,,75,2.405,0.54,us,us70008gw6,2020-05-30T22:17:23.040Z,"218km NE of Bitung, Indonesia",earthquake,7.2,7.5,0.095,33,reviewed,us,us
+2020-03-13T00:09:18.464Z,-6.1817,129.5088,180.61,4.4,mb,,83,2.521,0.85,us,us70008gvy,2020-05-30T22:17:22.040Z,"279km NW of Saumlaki, Indonesia",earthquake,8.1,8.3,0.139,15,reviewed,us,us
+2020-03-12T22:16:57.398Z,-3.2518,138.9922,47.07,4.3,mb,,52,1.86,1.25,us,us70008gvs,2020-05-30T22:17:22.040Z,"189km WSW of Abepura, Indonesia",earthquake,8.3,9.2,0.138,15,reviewed,us,us
+2020-03-12T19:37:24.456Z,3.5541,125.824,150.07,4.5,mb,,103,3.164,0.76,us,us60008ejh,2020-05-30T22:17:04.040Z,"208km S of Sarangani, Philippines",earthquake,9.3,8,0.131,17,reviewed,us,us
+2020-03-12T18:42:30.914Z,5.4628,126.3059,69.65,4.2,mb,,156,1.752,0.91,us,us70008gvj,2020-05-30T22:17:22.040Z,"89km SE of Caburan, Philippines",earthquake,11.9,11,0.159,11,reviewed,us,us
+2020-03-12T08:03:18.933Z,-8.9032,110.5406,94.26,5.2,mb,,99,0.984,0.61,us,us60008e67,2020-05-30T22:17:03.040Z,"103km S of Wonosari, Indonesia",earthquake,7.7,6.7,0.078,54,reviewed,us,us
+2020-03-12T03:57:59.670Z,6.1129,123.9937,10,4.6,mb,,120,5.912,0.69,us,us70008gv9,2020-05-30T22:17:22.040Z,"24km WSW of Palimbang, Philippines",earthquake,13.1,1.9,0.136,16,reviewed,us,us
+2020-03-11T22:12:52.474Z,-7.4589,128.1598,154.46,4.3,mb,,45,3.154,0.81,us,us60008gl4,2020-05-30T22:17:15.040Z,"Kepulauan Barat Daya, Indonesia",earthquake,7.2,6.5,0.119,20,reviewed,us,us
+2020-03-11T19:42:03.807Z,4.4806,125.8386,130.66,4.3,mb,,101,2.585,0.87,us,us60008gl3,2020-05-30T22:17:15.040Z,"110km SSE of Sarangani, Philippines",earthquake,7.6,11.8,0.16,11,reviewed,us,us
+2020-03-11T15:54:28.472Z,-5.1659,134.1774,10,4.5,mb,,50,2.946,0.74,us,us60008gks,2020-05-30T22:17:15.040Z,"66km N of Dobo, Indonesia",earthquake,8,1.9,0.124,19,reviewed,us,us
+2020-03-11T07:48:05.397Z,2.4917,128.2283,81.2,4.2,mb,,170,1.913,0.46,us,us60008gke,2020-05-30T22:17:14.040Z,"87km NNE of Tobelo, Indonesia",earthquake,10.5,11,0.159,11,reviewed,us,us
+2020-03-11T03:04:03.907Z,0.4329,126.3473,55.11,4.6,mb,,40,1.073,0.85,us,us60008dh2,2020-05-30T22:17:01.040Z,"119km WSW of Kota Ternate, Indonesia",earthquake,7.1,7,0.084,42,reviewed,us,us
+2020-03-10T23:08:34.923Z,3.8659,97.2542,110.48,5,mb,,57,1.388,1.08,us,us60008dfc,2020-05-23T22:03:02.040Z,"103km SW of Langsa, Indonesia",earthquake,7.2,5.3,0.05,129,reviewed,us,us
+2020-03-10T21:45:33.097Z,-8.5106,128.5317,10,4.4,mb,,68,2.788,0.64,us,us60008f61,2020-05-23T22:03:30.040Z,"Timor Sea",earthquake,8,1.9,0.155,12,reviewed,us,us
+2020-03-10T19:52:26.737Z,6.1952,126.8289,63.64,4.1,mb,,118,1.515,0.63,us,us60008f60,2020-05-23T22:03:17.040Z,"74km ESE of Pondaguitan, Philippines",earthquake,8.5,9.4,0.234,10,reviewed,us,us
+2020-03-10T15:53:09.711Z,0.0066,126.7065,70.18,4.2,mb,,60,1.006,0.49,us,us60008f5t,2020-05-23T22:03:17.040Z,"113km SW of Kota Ternate, Indonesia",earthquake,7.8,8.2,0.131,16,reviewed,us,us
+2020-03-10T14:06:26.665Z,-5.837,103.0187,26.18,5.7,mww,,48,1.468,0.78,us,us60008d51,2020-05-23T22:03:30.040Z,"121km SW of Kuripan, Indonesia",earthquake,7.6,3.9,0.062,25,reviewed,us,us
+2020-03-10T10:18:04.505Z,-6.7852,106.6813,10,5,mb,,86,1.173,1.15,us,us60008d3j,2020-05-23T22:03:14.040Z,"11km W of Cicurug, Indonesia",earthquake,6.5,1.8,0.076,56,reviewed,us,us
+2020-03-10T08:52:16.100Z,-2.6797,128.8555,10,4.2,mb,,91,3.006,1.09,us,us60008f5p,2020-05-23T22:03:08.040Z,"46km ENE of Taniwel, Indonesia",earthquake,6.4,1.9,0.159,11,reviewed,us,us
+2020-03-09T16:02:33.568Z,-1.7187,100.4116,63.16,4.6,mb,,176,2.126,0.87,us,us60008ch4,2020-05-23T22:03:30.040Z,"44km SSW of Painan, Indonesia",earthquake,8.9,3.1,0.107,27,reviewed,us,us
+2020-03-09T14:23:48.607Z,-4.4617,129.1426,10,4.1,mb,,94,4.151,0.82,us,us60008f4q,2020-05-23T22:03:06.040Z,"112km SSE of Saparua, Indonesia",earthquake,6,1.9,0.139,14,reviewed,us,us
+2020-03-09T10:43:21.405Z,3.1246,126.7873,10,4.4,mb,,169,2.407,0.91,us,us60008f4i,2020-05-23T22:03:26.040Z,"205km NW of Tobelo, Indonesia",earthquake,7.7,2,0.139,15,reviewed,us,us
+2020-03-09T08:07:22.686Z,1.8835,99.5118,159.21,4.3,mb,,68,2.019,0.9,us,us60008cd0,2020-05-23T22:03:30.040Z,"32km SW of Bandar, Indonesia",earthquake,6.2,7,0.085,39,reviewed,us,us
+2020-03-09T07:41:04.368Z,-6.6877,129.5052,146.5,4.2,mb,,48,2.195,0.92,us,us60008f4l,2020-05-23T22:03:06.040Z,"243km NW of Saumlaki, Indonesia",earthquake,7.9,4.1,0.136,15,reviewed,us,us
+2020-03-08T21:36:33.195Z,0.3149,124.0525,82.37,4,mb,,110,1.859,0.51,us,us60008ede,2020-05-23T22:03:17.040Z,"11km SE of Molibagu, Indonesia",earthquake,10.6,7.7,0.211,6,reviewed,us,us
+2020-03-08T14:22:58.576Z,-6.612,129.2397,166.41,4.1,mb,,126,2.454,0.63,us,us60008ed2,2020-05-23T22:03:06.040Z,"272km WNW of Saumlaki, Indonesia",earthquake,8.8,13.4,0.214,8,reviewed,us,us
+2020-03-08T05:03:20.734Z,-6.4638,106.3358,104.96,4,mb,,69,1.639,0.92,us,us60008ecl,2020-05-23T22:03:06.040Z,"4km N of Sumandang, Indonesia",earthquake,9.1,7.5,0.116,21,reviewed,us,us
+2020-03-07T21:42:49.068Z,-9.3397,109.9118,35,4.3,mb,,142,1.541,1.28,us,us60008e9n,2020-05-23T22:03:28.040Z,"159km SSW of Bambanglipuro, Indonesia",earthquake,7,2,0.148,13,reviewed,us,us
+2020-03-07T11:35:26.116Z,-7.384,128.6984,165.2,5.2,mww,,25,2.645,0.75,us,us60008blz,2020-05-23T22:03:15.040Z,"295km WNW of Saumlaki, Indonesia",earthquake,7.3,4.6,0.053,34,reviewed,us,us
+2020-03-07T04:37:55.457Z,-3.7853,139.4368,46.56,4.4,mb,,123,7.227,0.66,us,us60008bi9,2020-05-23T22:03:22.040Z,"180km SW of Abepura, Indonesia",earthquake,10.8,8.7,0.12,20,reviewed,us,us
+2020-03-06T19:52:59.234Z,-5.2218,102.2091,35,5,mb,,64,1.133,0.87,us,us60008bbr,2020-05-23T22:03:30.040Z,"157km S of Bengkulu, Indonesia",earthquake,6.6,1.9,0.06,94,reviewed,us,us
+2020-03-06T18:28:32.791Z,-8.228,119.7529,181.46,4.4,mb,,58,2.491,0.75,us,us60008b95,2020-05-23T22:03:09.040Z,"32km NNW of Cempa, Indonesia",earthquake,4.6,7.9,0.095,34,reviewed,us,us
+2020-03-06T06:54:14.206Z,-7.4517,127.5867,167.7,4.4,mb,,68,4.001,1.1,us,us60008dt4,2020-05-23T22:03:15.040Z,"253km ENE of Dili, East Timor",earthquake,9.2,9.2,0.131,17,reviewed,us,us
+2020-03-05T16:27:48.961Z,2.1965,128.14,151.05,4.2,mb,,107,1.612,0.85,us,us60008abi,2020-05-23T22:03:12.040Z,"53km NNE of Tobelo, Indonesia",earthquake,8.4,7.3,0.101,31,reviewed,us,us
+2020-03-04T20:16:13.693Z,5.5289,126.4928,39.54,4.4,mb,,117,1.779,1.02,us,us600089p6,2020-05-23T22:03:17.040Z,"98km SSE of Pondaguitan, Philippines",earthquake,8,5.6,0.105,26,reviewed,us,us
+2020-03-04T18:42:04.321Z,1.7883,127.4975,139.09,4.1,mb,,91,1.018,0.49,us,us60008cka,2020-05-23T22:03:12.040Z,"57km W of Tobelo, Indonesia",earthquake,10.7,9.2,0.14,14,reviewed,us,us
+2020-03-04T15:51:49.723Z,-0.1156,123.0997,116.1,4.2,mb,,61,0.976,0.89,us,us600089fl,2020-05-23T22:03:30.040Z,"56km SSW of Bilungala, Indonesia",earthquake,7,8,0.103,26,reviewed,us,us
+2020-03-04T13:36:46.462Z,-3.4641,99.6068,10,5,mww,,44,3.457,0.64,us,us600089dk,2020-05-23T22:03:30.040Z,"211km SSE of Muara Siberut, Indonesia",earthquake,7.2,1.8,0.073,18,reviewed,us,us
+2020-03-04T11:59:30.478Z,5.7991,126.9925,50.82,4.2,mb,,115,1.888,0.44,us,us60008cjz,2020-05-23T22:03:17.040Z,"109km SE of Pondaguitan, Philippines",earthquake,9.1,6.8,0.112,22,reviewed,us,us
+2020-03-04T10:29:15.419Z,4.2851,125.707,158.98,4.5,mb,,115,2.769,0.47,us,us600089ah,2020-05-23T22:03:26.040Z,"126km SSE of Sarangani, Philippines",earthquake,4.8,8.5,0.104,27,reviewed,us,us
+2020-03-04T09:29:50.100Z,1.7454,127.7198,206.66,4.2,mb,,74,1.029,0.45,us,us60008cjr,2020-05-23T22:03:16.040Z,"32km W of Tobelo, Indonesia",earthquake,10,9,0.112,22,reviewed,us,us
+2020-03-03T22:56:46.038Z,3.5692,124.7005,205.52,4.3,mb,,143,3.585,1.06,us,us60008b7d,2020-05-19T22:14:34.040Z,"219km SSW of Sarangani, Philippines",earthquake,9.1,13.1,0.161,11,reviewed,us,us
+2020-03-03T18:17:23.820Z,1.031,126.4393,51.67,4.1,mb,,84,0.962,0.65,us,us60008b75,2020-05-19T22:14:34.040Z,"106km WNW of Kota Ternate, Indonesia",earthquake,7.7,9.3,0.165,14,reviewed,us,us
+2020-03-03T14:55:37.943Z,7.6967,121.9688,32.93,4.9,mww,,73,3.634,0.63,us,us600088p5,2020-05-19T22:14:23.040Z,"18km W of Siocon, Philippines",earthquake,3.3,4.5,0.08,15,reviewed,us,us
+2020-03-03T07:38:50.298Z,-5.2996,129.3078,202,4.1,mb,,116,3.319,0.99,us,us60008b6v,2020-05-19T22:14:33.040Z,"204km SSE of Saparua, Indonesia",earthquake,7.7,13.9,0.165,10,reviewed,us,us
+2020-03-03T06:55:53.598Z,0.8912,126.5393,43.59,4.6,mb,,71,0.835,1.34,us,us600088gg,2020-05-19T22:14:22.040Z,"92km W of Kota Ternate, Indonesia",earthquake,4.2,8.9,0.094,34,reviewed,us,us
+2020-03-03T06:52:36.568Z,0.8904,126.679,54.54,4.4,mb,,74,0.697,0.48,us,us60008b6j,2020-05-19T22:14:32.040Z,"77km W of Kota Ternate, Indonesia",earthquake,9,10.1,0.239,6,reviewed,us,us
+2020-03-03T02:22:47.839Z,-9.9541,126.9518,10,4.4,mb,,78,2.652,0.54,us,us60008b69,2020-05-19T22:14:32.040Z,"190km SE of Ainaro, East Timor",earthquake,4.6,1.9,0.162,11,reviewed,us,us
+2020-03-02T17:15:30.479Z,-6.0379,130.5861,120.13,4.2,mb,,116,2.057,0.89,us,us60008b4l,2020-05-19T22:14:31.040Z,"226km NNW of Saumlaki, Indonesia",earthquake,4.8,10.3,0.175,10,reviewed,us,us
+2020-03-02T15:00:35.782Z,-7.9471,129.8935,10,4.4,mb,,64,1.392,0.29,us,us60008b4h,2020-05-19T22:14:31.040Z,"156km W of Saumlaki, Indonesia",earthquake,7,1.8,0.178,9,reviewed,us,us
+2020-03-02T08:27:43.268Z,0.7909,126.1341,25.33,4.2,mb,,82,1.232,0.24,us,us60008b4a,2020-05-19T22:14:31.040Z,"128km SE of Bitung, Indonesia",earthquake,8.5,6.4,0.167,10,reviewed,us,us
+2020-03-02T06:17:23.339Z,-6.6016,129.8955,122.1,4.2,mb,,114,1.954,0.68,us,us60008b48,2020-05-19T22:14:31.040Z,"216km NW of Saumlaki, Indonesia",earthquake,11.3,7.3,0.14,14,reviewed,us,us
+2020-03-01T11:07:09.732Z,5.3393,126.6105,48.81,4.6,mb,,133,2.001,0.84,us,us60008b1j,2020-05-19T22:14:31.040Z,"122km SSE of Pondaguitan, Philippines",earthquake,6.6,7.6,0.103,28,reviewed,us,us
+2020-03-01T11:01:38.376Z,5.4112,126.4695,51.82,4.5,mb,,136,1.87,0.5,us,us60008b1i,2020-05-19T22:14:31.040Z,"107km ESE of Caburan, Philippines",earthquake,9.2,8.9,0.131,17,reviewed,us,us
+2020-02-29T18:56:03.740Z,-0.0391,123.3356,108.86,4.3,mb,,78,1.144,0.64,us,us60008ade,2020-05-19T22:14:30.040Z,"48km SSE of Bilungala, Indonesia",earthquake,7.9,9.8,0.177,10,reviewed,us,us
+2020-02-29T18:30:15.675Z,2.1178,125.0063,159.14,4.3,mb,,74,2.712,0.83,us,us60008adc,2020-05-19T22:14:30.040Z,"69km N of Laikit, Laikit II (Dimembe), Indonesia",earthquake,8.7,7,0.097,38,reviewed,us,us
+2020-02-29T09:28:25.915Z,3.14,128.1906,136.91,5.3,mww,,37,2.492,0.88,us,us600086um,2020-05-19T22:14:12.040Z,"157km N of Tobelo, Indonesia",earthquake,7.7,4.6,0.059,28,reviewed,us,us
+2020-02-29T04:18:43.413Z,0.3372,126.1868,10,4.5,mb,,89,1.256,0.33,us,us60008acw,2020-05-19T22:14:29.040Z,"140km WSW of Kota Ternate, Indonesia",earthquake,7.3,1.9,0.14,15,reviewed,us,us
+2020-02-28T18:46:40.370Z,-0.8065,120.4528,48.12,4.4,mb,,64,1.933,1.17,us,us60008a5l,2020-05-19T22:14:29.040Z,"65km E of Palu, Indonesia",earthquake,5.9,8.6,0.096,34,reviewed,us,us
+2020-02-28T17:07:56.717Z,0.578,98.6124,72.51,4.3,mb,,164,1.262,0.79,us,us60008a5j,2020-05-19T22:14:29.040Z,"113km SW of Padangsidempuan, Indonesia",earthquake,7.5,8.5,0.126,22,reviewed,us,us
+2020-02-28T14:02:55.010Z,-3.9512,103.1177,93.99,5.1,mww,,28,0.437,0.77,us,us6000863e,2020-05-19T22:14:07.040Z,"18km WNW of Pagaralam, Indonesia",earthquake,8.5,4.2,0.078,16,reviewed,us,us
+2020-02-28T10:54:06.675Z,2.02,126.7602,53.62,4.6,mb,,88,1.38,0.9,us,us6000860z,2020-05-19T22:14:06.040Z,"137km WNW of Tobelo, Indonesia",earthquake,3.4,6,0.067,66,reviewed,us,us
+2020-02-28T10:07:22.009Z,1.1372,126.546,64.81,4.3,mb,,86,0.897,0.91,us,us60008a5c,2020-05-19T22:14:29.040Z,"99km WNW of Kota Ternate, Indonesia",earthquake,8.3,6.2,0.153,12,reviewed,us,us
+2020-02-28T09:44:32.835Z,1.9461,126.7769,35,4.4,mb,,60,1.307,1.06,us,us60008a5a,2020-05-19T22:14:29.040Z,"139km W of Tobelo, Indonesia",earthquake,8.7,7.3,0.101,28,reviewed,us,us
+2020-02-28T06:02:50.032Z,-8.6164,119.8077,149.21,4.3,mb,,86,2.402,1.39,us,us600085vh,2020-05-19T22:14:05.040Z,"3km W of Kenari, Indonesia",earthquake,7.5,10.3,0.137,15,reviewed,us,us
+2020-02-27T21:28:07.612Z,-10.4912,116.4622,10,4.9,mb,,99,3.037,0.72,us,us600089kg,2020-05-19T22:14:29.040Z,"178km S of Kute, Indonesia",earthquake,7.1,1.8,0.069,65,reviewed,us,us
+2020-02-27T19:20:59.579Z,1.8642,126.447,61.95,5,mb,,54,1.422,0.91,us,us600085gn,2020-05-19T22:14:02.040Z,"148km ENE of Bitung, Indonesia",earthquake,6.6,4.6,0.047,144,reviewed,us,us
+2020-02-27T19:13:02.974Z,3.7953,125.7576,122,5.5,mww,,32,3.257,1.32,us,us600085g3,2020-05-19T22:14:02.040Z,"180km S of Sarangani, Philippines",earthquake,7.4,1.8,0.058,29,reviewed,us,us
+2020-02-27T16:06:58.047Z,-7.7104,128.6363,169.34,4.1,mb,,71,2.651,0.74,us,us600089k7,2020-05-19T22:14:28.040Z,"296km W of Saumlaki, Indonesia",earthquake,7.7,8.5,0.13,20,reviewed,us,us
+2020-02-27T13:28:47.918Z,-8.6486,118.2662,142.55,4.6,mb,,87,3.9,1.23,us,us6000858g,2020-05-19T22:14:01.040Z,"10km SSW of Npongge, Indonesia",earthquake,4.5,8.5,0.109,25,reviewed,us,us
+2020-02-27T04:17:12.364Z,-7.6058,127.8863,158.34,4.3,mb,,122,3.402,1,us,us60008537,2020-05-19T22:14:00.040Z,"275km ENE of Dili, East Timor",earthquake,8.6,4.1,0.147,13,reviewed,us,us
+2020-02-27T02:36:19.451Z,0.5518,121.8316,91.02,4.7,mb,,100,1.187,0.64,us,us6000852b,2020-05-19T22:13:59.040Z,"28km E of Lemito, Indonesia",earthquake,7.8,5.9,0.085,42,reviewed,us,us
+2020-02-27T02:34:18.377Z,-7.3746,128.8225,126.84,4.5,mb,,124,5.088,0.9,us,us600089jn,2020-05-19T22:14:28.040Z,"282km WNW of Saumlaki, Indonesia",earthquake,13.8,10.7,0.243,5,reviewed,us,us
+2020-02-27T01:03:20.696Z,6.8678,124.9651,10.57,4.6,mb,,76,0.641,0.58,us,us60008511,2020-05-19T22:13:59.040Z,"6km E of Bagontapay, Philippines",earthquake,6.7,5.5,0.098,31,reviewed,us,us
+2020-02-27T00:49:09.866Z,-6.9474,130.0301,132.95,4.1,mb,,97,1.625,1.18,us,us600089jf,2020-05-19T22:14:27.040Z,"180km NW of Saumlaki, Indonesia",earthquake,6.2,10.5,0.165,10,reviewed,us,us
+2020-02-26T23:26:40.492Z,-3.472,131.047,10,4.1,mb,,104,2.594,0.96,us,us600089if,2020-05-19T22:14:27.040Z,"237km E of Amahai, Indonesia",earthquake,11.1,1.9,0.145,13,reviewed,us,us
+2020-02-26T15:41:09.009Z,-8.9934,126.1183,10,4.4,mb,,60,1.977,0.95,us,us600084m8,2020-05-19T22:13:58.040Z,"67km E of Ainaro, East Timor",earthquake,3.2,1.9,0.12,20,reviewed,us,us
+2020-02-26T09:11:07.258Z,3.1201,128.239,56.04,4.3,mb,,118,2.49,0.57,us,us600089hv,2020-05-19T22:14:26.040Z,"155km N of Tobelo, Indonesia",earthquake,9.9,7.6,0.147,14,reviewed,us,us
+2020-02-26T08:09:25.715Z,2.6844,126.0858,100.62,4.3,mb,,116,2.29,0.64,us,us600089hu,2020-05-19T22:14:26.040Z,"169km NE of Bitung, Indonesia",earthquake,12.4,9.6,0.153,12,reviewed,us,us
+2020-02-26T07:33:12.952Z,-7.4887,131.1196,54,6,mww,,21,0.521,1.05,us,us600084gu,2020-05-19T22:13:57.040Z,"55km NNW of Saumlaki, Indonesia",earthquake,6.3,1.8,0.057,30,reviewed,us,us
+2020-02-26T05:13:41.427Z,5.527,126.5032,75.41,4.5,mb,,137,1.786,0.59,us,us600089hp,2020-05-19T22:14:25.040Z,"99km SSE of Pondaguitan, Philippines",earthquake,11.3,8.9,0.18,9,reviewed,us,us
+2020-02-26T00:34:00.711Z,2.8736,127.185,36.87,4.3,mb,,155,2.095,0.78,us,us600089hi,2020-05-19T22:14:25.040Z,"156km NW of Tobelo, Indonesia",earthquake,11.2,9.1,0.161,11,reviewed,us,us
+2020-02-25T20:50:50.750Z,5.2249,125.4432,71.5,4.5,mb,,109,1.837,0.89,us,us6000847i,2020-05-09T21:40:45.040Z,"19km S of Sarangani, Philippines",earthquake,7.4,8.5,0.078,54,reviewed,us,us
+2020-02-25T13:39:40.929Z,-2.373,121.0103,10,4.2,mb,,91,2.201,0.88,us,us600089b4,2020-05-09T21:40:53.040Z,"25km ENE of Wonorejo, Indonesia",earthquake,5.1,1.9,0.199,8,reviewed,us,us
+2020-02-25T09:25:48.210Z,0.6612,126.1625,35,4.5,mb,,107,1.209,0.44,us,us600089aw,2020-05-09T21:40:53.040Z,"134km W of Kota Ternate, Indonesia",earthquake,5.3,1.9,0.156,12,reviewed,us,us
+2020-02-24T23:34:15.783Z,6.1109,127.4484,35,4.3,mb,,189,2.087,0.59,us,us60008686,2020-05-09T21:40:52.040Z,"143km E of Pondaguitan, Philippines",earthquake,8.6,2,0.177,9,reviewed,us,us
+2020-02-24T21:44:37.912Z,-7.13,129.1679,175.05,4.4,mb,,71,2.276,1.07,us,us70007w3y,2020-05-09T21:41:16.040Z,"253km WNW of Saumlaki, Indonesia",earthquake,7.5,6.7,0.092,34,reviewed,us,us
+2020-02-24T20:59:24.826Z,-1.9759,99.8891,35,4.8,mww,,52,2.559,0.59,us,us70007w28,2020-05-09T21:41:16.040Z,"86km ESE of Muara Siberut, Indonesia",earthquake,7.2,1.9,0.098,10,reviewed,us,us
+2020-02-24T16:57:00.068Z,-5.5989,129.5072,26.59,4.2,mb,,83,2.962,0.56,us,us60008680,2020-05-09T21:40:51.040Z,"243km SSE of Saparua, Indonesia",earthquake,7.2,8.6,0.167,10,reviewed,us,us
+2020-02-24T15:56:19.197Z,4.1119,126.5922,38.25,4.4,mb,,109,3.106,0.42,us,us6000867x,2020-05-09T21:40:51.040Z,"189km SE of Sarangani, Philippines",earthquake,8.2,3.6,0.13,17,reviewed,us,us
+2020-02-24T00:23:59.587Z,5.7295,125.1854,35,4.4,mb,,130,1.387,0.7,us,us6000867e,2020-05-09T21:40:50.040Z,"5km WSW of Baliton, Philippines",earthquake,3.1,2,0.161,11,reviewed,us,us
+2020-02-23T22:47:29.239Z,-3.0685,130.2336,10,4.6,mb,,60,2.416,0.95,us,us70007vfs,2020-05-09T21:41:15.040Z,"149km ENE of Amahai, Indonesia",earthquake,3.9,1.9,0.086,40,reviewed,us,us
+2020-02-23T21:58:42.028Z,5.3096,126.5474,35,4.6,mb,,154,1.996,0.89,us,us600085yq,2020-05-09T21:40:50.040Z,"120km SE of Caburan, Philippines",earthquake,6,2,0.146,14,reviewed,us,us
+2020-02-23T16:50:30.895Z,1.0949,126.9462,46.62,4.3,mb,,138,0.528,0.24,us,us600085yg,2020-05-09T21:40:50.040Z,"58km NW of Kota Ternate, Indonesia",earthquake,8.8,8.1,0.188,8,reviewed,us,us
+2020-02-23T14:47:53.864Z,-8.6091,134.8602,13.88,4.4,mb,,47,3.579,0.94,us,us600085yd,2020-05-09T21:40:50.040Z,"Arafura Sea",earthquake,6.9,4.7,0.24,8,reviewed,us,us
+2020-02-23T12:37:46.624Z,5.5439,125.3229,196.86,4.2,mb,,91,1.537,0.63,us,us600085yl,2020-05-09T21:40:50.040Z,"4km SW of Balangonan, Philippines",earthquake,10.8,8.9,0.146,13,reviewed,us,us
+2020-02-23T06:49:55.826Z,-6.8841,108.9201,216.17,4.1,mb,,77,1.385,0.59,us,us600085y7,2020-05-09T21:40:49.040Z,"4km WSW of Bulakamba, Indonesia",earthquake,9.4,7.6,0.145,13,reviewed,us,us
+2020-02-23T03:39:52.824Z,-0.2256,125.2078,17.78,4.9,mww,,35,2.375,0.94,us,us70007v12,2020-05-09T21:41:13.040Z,"138km SE of Modayag, Indonesia",earthquake,6.1,3.1,0.098,10,reviewed,us,us
+2020-02-23T02:08:04.068Z,-0.1918,125.189,21.24,5.3,mww,,28,2.378,0.8,us,us70007v0d,2020-05-09T21:41:13.040Z,"134km SE of Lolayan, Indonesia",earthquake,5.1,2.9,0.065,23,reviewed,us,us
+2020-02-22T22:02:05.457Z,2.335,127.0601,41.48,4.3,mb,,99,1.582,0.81,us,us600085b4,2020-05-09T21:40:49.040Z,"125km WNW of Tobelo, Indonesia",earthquake,9,7.3,0.119,20,reviewed,us,us
+2020-02-22T20:17:50.595Z,5.4861,126.9864,39.9,4.1,mb,,120,2.105,0.87,us,us600085b0,2020-05-09T21:40:49.040Z,"131km SE of Pondaguitan, Philippines",earthquake,9.1,9.5,0.185,8,reviewed,us,us
+2020-02-22T20:14:23.943Z,0.4553,126.3766,30.99,4.5,mb,,48,1.038,0.59,us,us600085az,2020-05-09T21:40:48.040Z,"116km WSW of Kota Ternate, Indonesia",earthquake,6.8,5.5,0.106,26,reviewed,us,us
+2020-02-22T16:29:36.421Z,5.4215,126.6995,50.54,4.6,mb,,107,1.98,1.01,us,us70007usz,2020-05-09T21:41:11.040Z,"118km SSE of Pondaguitan, Philippines",earthquake,7.5,5.5,0.064,73,reviewed,us,us
+2020-02-22T15:39:06.457Z,5.2525,126.8273,35,4.9,mb,,158,2.19,1.23,us,us70007usq,2020-05-09T21:41:11.040Z,"142km SSE of Pondaguitan, Philippines",earthquake,8.5,2,0.11,26,reviewed,us,us
+2020-02-22T15:34:42.014Z,5.5251,126.6597,23.5,5.3,mww,,107,1.873,0.95,us,us70007usp,2020-05-09T21:41:11.040Z,"106km SSE of Pondaguitan, Philippines",earthquake,7.2,1.9,0.078,16,reviewed,us,us
+2020-02-22T15:29:48.110Z,5.4617,126.7769,13.5,5.1,mww,,76,1.992,0.98,us,us70007usm,2020-05-09T21:41:11.040Z,"119km SSE of Pondaguitan, Philippines",earthquake,9,1.9,0.066,22,reviewed,us,us
+2020-02-22T03:46:23.840Z,-6.112,130.74,112.24,4.4,mb,,98,1.939,0.91,us,us70007umi,2020-05-09T21:41:10.040Z,"213km NNW of Saumlaki, Indonesia",earthquake,8,8.6,0.107,25,reviewed,us,us
+2020-02-22T01:11:03.690Z,-8.1132,129.0865,30.74,5.2,mb,,112,2.194,0.59,us,us600085a5,2020-05-09T21:40:48.040Z,"246km W of Saumlaki, Indonesia",earthquake,7.7,7.2,0.096,36,reviewed,us,us
+2020-02-21T23:23:00.700Z,-9.3066,118.7327,104.92,4.1,mb,,81,3.526,0.56,us,us70007uiw,2020-05-09T21:41:09.040Z,"39km NW of Kori, Indonesia",earthquake,6.7,8.4,0.112,25,reviewed,us,us
+2020-02-21T22:54:24.847Z,-5.1177,102.7216,35,4.9,mb,,106,0.787,1.28,us,us70007ui7,2020-05-09T21:41:09.040Z,"115km W of Kuripan, Indonesia",earthquake,6.7,1.9,0.077,52,reviewed,us,us
+2020-02-21T17:45:18.118Z,5.9338,126.032,143.75,4.2,mb,,113,1.214,1.26,us,us600084qh,2020-05-09T21:40:48.040Z,"39km ESE of Mangili, Philippines",earthquake,7.7,8.1,0.11,27,reviewed,us,us
+2020-02-21T07:57:34.146Z,9.3016,126.2516,10,4.3,mb,,140,2.315,0.19,us,us600084q7,2020-05-09T21:40:47.040Z,"7km ENE of Burgos, Philippines",earthquake,9.7,1.9,0.189,8,reviewed,us,us
+2020-02-21T04:35:19.974Z,-4.2437,131.5242,10,4.1,mb,,102,1.501,0.67,us,us600084q3,2020-05-09T21:40:47.040Z,"207km NW of Tual, Indonesia",earthquake,5.6,1.9,0.131,16,reviewed,us,us
+2020-02-21T02:44:38.526Z,-7.953,119.9958,206.99,4.2,mb,,64,2.32,0.92,us,us600084q0,2020-05-09T21:40:47.040Z,"46km NNW of Kampungbajo, Indonesia",earthquake,8.5,9.5,0.176,9,reviewed,us,us
+2020-02-21T02:13:10.501Z,-9.6056,120.6018,85.77,4.2,mb,,94,1.881,0.9,us,us600084qw,2020-05-09T21:40:48.040Z,"29km ENE of Kawangu, Indonesia",earthquake,5.9,9,0.167,11,reviewed,us,us
+2020-02-21T00:57:18.236Z,-7.4707,107.6526,67.11,4.6,mb,,71,0.008,1.35,us,us70007ty9,2020-05-09T21:41:05.040Z,"1km SE of Rahayu, Indonesia",earthquake,6.6,3.4,0.097,32,reviewed,us,us
+2020-02-20T23:59:15.660Z,6.9587,126.1508,39.37,4.3,mb,,134,0.578,0.78,us,us600084pl,2020-05-09T21:40:47.040Z,"4km N of Davan, Philippines",earthquake,9.9,8,0.177,9,reviewed,us,us
+2020-02-20T21:23:25.896Z,2.0284,126.5868,55.24,4.2,mb,,155,1.471,0.6,us,us600084pq,2020-05-09T21:40:47.040Z,"161km WNW of Tobelo, Indonesia",earthquake,9.3,9.9,0.2,10,reviewed,us,us
+2020-02-20T20:24:28.512Z,-6.7432,129.6245,163.21,5.4,mww,,24,2.067,1.01,us,us70007tt3,2020-05-09T21:41:04.040Z,"229km NW of Saumlaki, Indonesia",earthquake,6.8,4,0.047,44,reviewed,us,us
+2020-02-20T14:02:48.955Z,1.4999,132.7519,10,4.5,mb,,125,4.418,1.17,us,us70007tjd,2020-05-09T21:41:03.040Z,"300km NNW of Manokwari, Indonesia",earthquake,11.7,1.9,0.121,20,reviewed,us,us
+2020-02-20T09:54:07.296Z,5.5936,125.5446,201.06,5.4,mww,,43,1.466,1.07,us,us70007th0,2020-05-09T21:41:03.040Z,"11km SE of Sugal, Philippines",earthquake,4.1,3.8,0.053,34,reviewed,us,us
+2020-02-20T04:56:09.277Z,2.7562,125.773,135.4,4.5,mb,,170,2.534,0.69,us,us600084p1,2020-05-09T21:40:46.040Z,"159km NNE of Bitung, Indonesia",earthquake,6.1,9.7,0.135,16,reviewed,us,us
+2020-02-19T21:04:25.716Z,3.2902,132.7963,10,4.4,mb,,151,4.405,0.52,us,us600084k9,2020-05-09T21:40:46.040Z,"Palau region",earthquake,11.7,1.9,0.12,20,reviewed,us,us
+2020-02-19T11:53:04.151Z,-5.4389,130.8506,48.29,4.2,mb,,135,2.566,0.42,us,us600084k1,2020-05-09T21:40:46.040Z,"211km W of Tual, Indonesia",earthquake,8.7,9.5,0.235,5,reviewed,us,us
+2020-02-19T11:01:33.594Z,-0.6314,127.4988,30.11,4.6,mb,,88,1.4,0.67,us,us70007szg,2020-05-09T21:40:59.040Z,"81km NNW of Laiwui, Indonesia",earthquake,4.9,5.6,0.083,44,reviewed,us,us
+2020-02-19T09:47:20.388Z,-0.0968,122.9857,122.04,4.6,mb,,44,0.962,0.61,us,us70007syx,2020-05-09T21:40:59.040Z,"58km SSW of Bilungala, Indonesia",earthquake,4.5,6.7,0.058,89,reviewed,us,us
+2020-02-19T01:06:19.235Z,-6.2839,103.8603,51.05,4.3,mb,,205,2.112,0.61,us,us600084jr,2020-05-09T21:40:46.040Z,"107km S of Biha, Indonesia",earthquake,11.6,10.8,0.202,7,reviewed,us,us
+2020-02-18T17:02:27.852Z,1.937,126.667,10,4.4,mb,,146,1.352,1.25,us,us70007vxh,2020-05-02T22:10:36.040Z,"149km NNW of Kota Ternate, Indonesia",earthquake,7.3,1.7,0.11,29,reviewed,us,us
+2020-02-18T13:13:06.954Z,-10.6893,116.0795,10,4.3,mb,,102,2.911,0.74,us,us70007vxi,2020-05-02T22:10:36.040Z,"199km S of Kute, Indonesia",earthquake,3.7,1.9,0.148,14,reviewed,us,us
+2020-02-18T11:55:41.047Z,6.4714,126.781,93.19,4.3,mb,,132,1.333,0.52,us,us70007vy5,2020-05-02T22:10:37.040Z,"66km SE of Bobon, Philippines",earthquake,10.4,9.4,0.147,13,reviewed,us,us
+2020-02-18T07:36:40.628Z,-7.8268,118.8384,10,4.3,mb,,86,2.938,1.25,us,us70007vwz,2020-05-02T22:10:36.040Z,"53km NNW of Sangiang, Indonesia",earthquake,7.5,1.9,0.188,8,reviewed,us,us
+2020-02-18T06:22:05.833Z,2.0804,127.9601,47.95,4.9,mb,,103,1.428,1.14,us,us70007s8k,2020-05-02T22:10:16.040Z,"39km N of Tobelo, Indonesia",earthquake,6.4,7,0.069,65,reviewed,us,us
+2020-02-18T02:58:08.578Z,5.4115,125.9403,102.94,4.5,mb,,109,1.686,0.7,us,us70007s6p,2020-05-02T22:10:12.040Z,"52km E of Sarangani, Philippines",earthquake,8.7,6.8,0.091,35,reviewed,us,us
+2020-02-17T21:30:31.710Z,-7.3844,128.5846,145.82,4.3,mb,,70,2.755,0.99,us,us70007s28,2020-05-02T22:10:11.040Z,"Kepulauan Barat Daya, Indonesia",earthquake,6.6,6.8,0.083,41,reviewed,us,us
+2020-02-17T21:11:10.925Z,-9.1877,123.042,89.72,4.4,mb,,76,0.965,1.09,us,us70007s1n,2020-05-02T22:10:11.040Z,"72km SSE of Watubuku, Indonesia",earthquake,6.1,6.6,0.11,24,reviewed,us,us
+2020-02-17T15:07:27.566Z,-6.312,130.2501,130.47,4.5,mb,,53,1.959,0.35,us,us70007rvh,2020-05-02T22:10:09.040Z,"216km NNW of Saumlaki, Indonesia",earthquake,7.6,8.9,0.11,24,reviewed,us,us
+2020-02-17T13:50:21.796Z,-4.5035,138.7207,145.57,4.8,mb,,75,2.797,0.7,us,us70007rur,2020-05-02T22:10:08.040Z,"246km NW of Tanahmerah, Indonesia",earthquake,8.4,7.4,0.119,23,reviewed,us,us
+2020-02-17T12:11:45.998Z,-7.3064,105.9296,47.04,4.7,mb,,83,1.713,1.3,us,us70007rtb,2020-05-02T22:10:08.040Z,"51km SSW of Panyaungan Timur, Indonesia",earthquake,8.2,6.5,0.093,35,reviewed,us,us
+2020-02-17T07:15:46.510Z,-5.1363,129.4233,178.37,4.2,mb,,110,3.577,1.07,us,us70007u9i,2020-05-02T22:10:32.040Z,"193km SSE of Saparua, Indonesia",earthquake,12.7,10.1,0.199,7,reviewed,us,us
+2020-02-17T01:13:51.556Z,-4.2501,126.7325,10,4.3,mb,,53,5.028,1.01,us,us70007u9f,2020-05-02T22:10:32.040Z,"57km SSE of Leksula, Indonesia",earthquake,8.1,2,0.177,9,reviewed,us,us
+2020-02-16T14:39:31.608Z,-6.2833,130.5943,129.72,4.1,mb,,96,1.827,0.29,us,us70007u89,2020-05-02T22:10:31.040Z,"200km NNW of Saumlaki, Indonesia",earthquake,10.3,11.2,0.165,10,reviewed,us,us
+2020-02-15T23:00:27.251Z,-3.3456,131.4839,10,5.6,mww,,14,0.873,1.01,us,us70007r1x,2020-05-02T22:09:56.040Z,"273km S of Sorong, Indonesia",earthquake,4.6,1.6,0.051,37,reviewed,us,us
+2020-02-15T18:43:46.674Z,-6.9806,129.1868,166.61,4.2,mb,,58,2.318,1.15,us,us70007u6s,2020-05-02T22:10:31.040Z,"258km WNW of Saumlaki, Indonesia",earthquake,6.8,11.4,0.304,4,reviewed,us,us
+2020-02-15T17:46:59.635Z,1.5716,126.5765,47.38,4.5,mb,,59,1.12,1.06,us,us70007u6r,2020-05-02T22:10:31.040Z,"123km NW of Kota Ternate, Indonesia",earthquake,7.2,6.3,0.076,56,reviewed,us,us
+2020-02-15T16:50:47.346Z,2.861,127.1274,35,4.7,mb,,114,2.088,1.17,us,us70007qxh,2020-05-02T22:09:54.040Z,"159km NW of Tobelo, Indonesia",earthquake,11.1,2,0.117,22,reviewed,us,us
+2020-02-15T15:36:44.859Z,1.6105,126.6462,35,5.4,mww,,85,1.101,1.26,us,us70007qwf,2020-05-02T22:09:54.040Z,"121km NW of Kota Ternate, Indonesia",earthquake,5.8,1.9,0.071,19,reviewed,us,us
+2020-02-15T09:45:57.157Z,3.5477,126.7507,45.51,4.7,mb,,91,2.825,0.79,us,us70007qt5,2020-05-02T22:09:52.040Z,"245km NW of Tobelo, Indonesia",earthquake,8.2,6.9,0.08,47,reviewed,us,us
+2020-02-15T04:00:54.300Z,-2.9331,129.8203,10,4.3,mb,,67,2.425,0.59,us,us70007u69,2020-05-02T22:10:30.040Z,"109km ENE of Amahai, Indonesia",earthquake,7,1.9,0.177,9,reviewed,us,us
+2020-02-14T19:54:02.598Z,-6.6249,129.8604,150.05,4.1,mb,,79,1.963,0.84,us,us70007tqw,2020-05-02T22:10:29.040Z,"217km NW of Saumlaki, Indonesia",earthquake,7.6,5.3,0.131,22,reviewed,us,us
+2020-02-14T17:03:41.905Z,-0.0279,123.1908,156.13,4.2,mb,,45,1.09,0.66,us,us70007q8p,2020-05-02T22:09:50.040Z,"45km S of Bilungala, Indonesia",earthquake,6.6,6.3,0.088,40,reviewed,us,us
+2020-02-14T13:43:12.988Z,9.2885,126.5621,35,4.4,mb,,131,2.409,1.05,us,us70007tqf,2020-05-02T22:10:28.040Z,"40km E of Cortes, Philippines",earthquake,8.4,2,0.112,23,reviewed,us,us
+2020-02-14T01:47:58.312Z,-4.4505,102.8111,62.89,4.7,mb,,103,0.169,1.04,us,us70007pt0,2020-05-02T22:09:47.040Z,"69km SW of Pagaralam, Indonesia",earthquake,9.9,3,0.099,31,reviewed,us,us
+2020-02-13T18:54:18.855Z,-1.2331,120.1908,10,4.1,mb,,85,2.402,0.98,us,us70007tn7,2020-05-02T22:10:27.040Z,"51km SE of Palu, Indonesia",earthquake,5,1.9,0.174,9,reviewed,us,us
+2020-02-13T18:17:31.013Z,-6.6215,130.6068,80.06,5.2,mb,,32,1.516,0.68,us,us70007pkg,2020-05-02T22:09:46.040Z,"166km NNW of Saumlaki, Indonesia",earthquake,7.1,4.1,0.057,101,reviewed,us,us
+2020-02-13T17:17:04.596Z,-7.4357,128.4961,157.79,4.5,mb,,57,2.83,1.09,us,us70007pja,2020-05-02T22:09:45.040Z,"Kepulauan Barat Daya, Indonesia",earthquake,8.5,0.8,0.101,29,reviewed,us,us
+2020-02-13T16:51:35.302Z,-6.4177,121.4634,14.5,4.4,mb,,64,2.201,0.67,us,us70007tn4,2020-05-02T22:10:27.040Z,"164km SW of Baubau, Indonesia",earthquake,3.5,4.7,0.13,20,reviewed,us,us
+2020-02-13T16:42:22.677Z,-5.252,133.8459,10,4.1,mb,,158,2.812,1.06,us,us70007tn9,2020-05-02T22:10:27.040Z,"70km NW of Dobo, Indonesia",earthquake,8.1,1.9,0.234,6,reviewed,us,us
+2020-02-13T15:17:25.408Z,-11.5505,113.2109,10,4.8,mb,,128,3.198,0.51,us,us70007pgl,2020-05-02T22:09:45.040Z,"South of Java, Indonesia",earthquake,8.9,1.9,0.085,48,reviewed,us,us
+2020-02-12T14:29:04.114Z,5.4198,124.6035,73.54,4.2,mb,,118,1.904,0.51,us,us70007t1j,2020-05-02T22:10:26.040Z,"57km SSW of Katubao, Philippines",earthquake,9.4,9.9,0.152,12,reviewed,us,us
+2020-02-12T10:04:26.702Z,-1.937,122.5758,35,4.3,mb,,51,0.91,0.9,us,us70007nq4,2020-05-02T22:09:41.040Z,"111km SSW of Luwuk, Indonesia",earthquake,4.2,2,0.142,14,reviewed,us,us
+2020-02-12T08:41:20.259Z,0.8509,124.8406,119.37,4,mb,,69,2.527,1.08,us,us70007t1b,2020-05-02T22:10:25.040Z,"42km E of Tompasobaru, Indonesia",earthquake,9.2,11,0.173,9,reviewed,us,us
+2020-02-12T05:55:09.776Z,0.796,98.9405,84.13,4.5,mb,,78,1.455,0.61,us,us70007nmd,2020-05-02T22:09:40.040Z,"72km SSW of Padangsidempuan, Indonesia",earthquake,5.8,6,0.097,31,reviewed,us,us
+2020-02-11T21:36:04.558Z,-0.1164,130.613,10,4.1,mb,,117,0.992,0.72,us,us70007sg2,2020-04-25T22:19:55.040Z,"110km NW of Sorong, Indonesia",earthquake,7.1,1.7,0.152,12,reviewed,us,us
+2020-02-11T18:22:54.853Z,1.866,127.0187,72.06,4.2,mb,,102,1.141,0.64,us,us70007sfy,2020-04-25T22:19:54.040Z,"111km W of Tobelo, Indonesia",earthquake,8.2,8,0.176,12,reviewed,us,us
+2020-02-11T15:13:27.291Z,0.1378,123.5999,147.15,4.2,mb,,53,1.434,0.93,us,us70007sfm,2020-04-25T22:19:53.040Z,"50km WSW of Molibagu, Indonesia",earthquake,8.8,2.4,0.102,27,reviewed,us,us
+2020-02-11T03:04:56.045Z,0.0863,123.6923,124.49,4.2,mb,,70,1.45,0.9,us,us70007sf8,2020-04-25T22:19:52.040Z,"46km SW of Molibagu, Indonesia",earthquake,8.3,8.3,0.167,10,reviewed,us,us
+2020-02-11T01:27:48.615Z,2.0407,126.5166,35,4.5,mb,,112,1.52,0.96,us,us70007sf7,2020-04-25T22:19:52.040Z,"162km ENE of Bitung, Indonesia",earthquake,8.8,2,0.164,11,reviewed,us,us
+2020-02-10T23:39:33.669Z,-5.8887,129.808,146.22,4.2,mb,,99,2.553,1.24,us,us70007rxs,2020-04-25T22:19:51.040Z,"282km NW of Saumlaki, Indonesia",earthquake,9.7,12.3,0.187,8,reviewed,us,us
+2020-02-10T23:23:31.145Z,-5.5853,129.2463,247.68,4.2,mb,,118,3.997,1.08,us,us70007rxr,2020-04-25T22:19:51.040Z,"232km SSE of Saparua, Indonesia",earthquake,15.6,13.5,0.304,3,reviewed,us,us
+2020-02-10T16:54:27.452Z,6.0519,126.2387,145.79,4.5,mb,,75,1.204,0.88,us,us70007rxi,2020-04-25T22:19:49.040Z,"34km S of Pondaguitan, Philippines",earthquake,9.1,5.7,0.099,30,reviewed,us,us
+2020-02-10T16:06:11.038Z,-7.2406,128.7895,156.11,4.3,mb,,67,2.594,0.9,us,us70007mla,2020-04-25T22:19:11.040Z,"289km WNW of Saumlaki, Indonesia",earthquake,7.7,7.7,0.129,17,reviewed,us,us
+2020-02-10T12:12:36.624Z,1.4307,98.9564,97.75,4.7,mb,,66,1.255,0.88,us,us70007rxa,2020-04-25T22:19:48.040Z,"35km WNW of Padangsidempuan, Indonesia",earthquake,6.2,5.6,0.086,41,reviewed,us,us
+2020-02-10T05:22:56.635Z,-6.768,105.2929,52.32,4.9,mb,,174,2.438,0.91,us,us70007met,2020-04-25T22:19:07.040Z,"37km W of Pasirnangka, Indonesia",earthquake,8.3,6.5,0.074,57,reviewed,us,us
+2020-02-09T21:24:03.898Z,-1.7306,138.8521,31.57,4.9,mb,,96,11.242,0.56,us,us70007m8b,2020-04-25T22:19:02.040Z,"216km WNW of Abepura, Indonesia",earthquake,11,4.6,0.055,104,reviewed,us,us
+2020-02-09T16:10:15.911Z,4.9199,126.8193,88.11,4.6,mb,,77,2.466,0.73,us,us70007m3w,2020-04-25T22:19:00.040Z,"159km ESE of Sarangani, Philippines",earthquake,8.2,7.6,0.089,37,reviewed,us,us
+2020-02-09T15:09:18.135Z,-2.9262,129.9088,10,4.3,mb,,64,2.337,0.58,us,us70007m3d,2020-04-25T22:18:59.040Z,"119km ENE of Amahai, Indonesia",earthquake,6.6,1.8,0.119,20,reviewed,us,us
+2020-02-09T04:15:39.812Z,-6.7006,130.9308,57.02,4.4,mb,,114,1.324,0.98,us,us70007q7f,2020-04-25T22:19:45.040Z,"144km NNW of Saumlaki, Indonesia",earthquake,7.9,11.5,0.154,12,reviewed,us,us
+2020-02-09T01:24:56.875Z,-6.4863,130.3998,103.39,4.5,mb,,57,1.733,1.14,us,us70007lts,2020-04-25T22:18:52.040Z,"190km NNW of Saumlaki, Indonesia",earthquake,9.1,7.8,0.108,25,reviewed,us,us
+2020-02-09T00:45:37.829Z,-2.2636,134.1604,26.74,4.2,mb,,157,2.017,0.78,us,us70007ltf,2020-04-25T22:18:52.040Z,"154km S of Manokwari, Indonesia",earthquake,9.7,5.5,0.187,8,reviewed,us,us
+2020-02-08T19:39:25.724Z,-2.9738,129.8993,10,4,mb,,90,2.347,0.62,us,us70007q6d,2020-04-25T22:19:44.040Z,"116km ENE of Amahai, Indonesia",earthquake,4.6,2,0.196,7,reviewed,us,us
+2020-02-08T19:25:55.989Z,-2.931,129.883,10,4.4,mb,,56,2.362,0.8,us,us70007ln5,2020-04-25T22:18:48.040Z,"116km ENE of Amahai, Indonesia",earthquake,6.2,1.9,0.11,24,reviewed,us,us
+2020-02-08T19:23:45.545Z,-2.9268,129.992,10,4.2,mb,,58,2.254,0.65,us,us70007q6c,2020-04-25T22:19:44.040Z,"127km ENE of Amahai, Indonesia",earthquake,3.9,1.9,0.14,14,reviewed,us,us
+2020-02-08T11:25:31.873Z,-2.8867,129.93,10,4.2,mb,,86,2.316,0.59,us,us70007q5u,2020-04-25T22:19:43.040Z,"122km ENE of Amahai, Indonesia",earthquake,6.4,1.9,0.153,12,reviewed,us,us
+2020-02-08T10:46:25.254Z,-3.0615,129.811,10,4.1,mb,,114,2.438,0.62,us,us70007q5s,2020-04-25T22:19:43.040Z,"103km ENE of Amahai, Indonesia",earthquake,5,1.9,0.165,10,reviewed,us,us
+2020-02-08T06:56:42.246Z,-2.9981,129.9482,10,4.5,mb,,100,2.299,0.57,us,us70007q5w,2020-04-25T22:19:43.040Z,"120km ENE of Amahai, Indonesia",earthquake,6.1,1.8,0.15,13,reviewed,us,us
+2020-02-08T06:51:40.401Z,-3.0044,129.9147,10,4.9,mb,,59,2.332,0.66,us,us70007lf7,2020-04-25T22:18:38.040Z,"116km ENE of Amahai, Indonesia",earthquake,7.1,1.7,0.099,32,reviewed,us,us
+2020-02-08T06:36:44.095Z,-2.8766,129.9354,10,5.6,mww,,61,2.311,0.69,us,us70007lf3,2020-04-25T22:18:38.040Z,"123km ENE of Amahai, Indonesia",earthquake,6.1,1.2,0.062,25,reviewed,us,us
+2020-02-07T14:53:34.849Z,-2.7083,138.3574,35,4.3,mb,,103,6.104,1.09,us,us70007q4d,2020-04-25T22:19:39.040Z,"247km W of Abepura, Indonesia",earthquake,11.6,2,0.122,19,reviewed,us,us
+2020-02-07T13:02:59.300Z,5.4464,126.3644,10,4.6,mb,,114,1.791,0.84,us,us70007ku6,2020-04-25T22:18:28.040Z,"95km ESE of Caburan, Philippines",earthquake,7.3,1.7,0.087,39,reviewed,us,us
+2020-02-07T03:50:39.165Z,-2.6378,138.333,30.35,5,mww,,76,2.372,0.82,us,us70007kn2,2020-04-25T22:18:21.040Z,"250km W of Abepura, Indonesia",earthquake,7.8,3.1,0.093,11,reviewed,us,us
+2020-02-07T02:03:31.293Z,5.4425,126.5413,10,4.7,mb,,114,1.878,1.22,us,us70007klk,2020-04-25T22:18:19.040Z,"109km SSE of Pondaguitan, Philippines",earthquake,7.9,1.9,0.129,18,reviewed,us,us
+2020-02-06T23:27:46.534Z,-9.7108,118.7175,35,4.2,mb,,107,3.636,1.12,us,us70007q1u,2020-04-25T22:19:36.040Z,"34km WSW of Dinjo, Indonesia",earthquake,7.4,1.3,0.199,7,reviewed,us,us
+2020-02-06T23:20:44.954Z,5.3083,125.957,67.43,4.2,mb,,141,1.789,0.48,us,us70007q1v,2020-04-25T22:19:37.040Z,"55km E of Sarangani, Philippines",earthquake,9.5,9.6,0.146,13,reviewed,us,us
+2020-02-06T21:06:31.559Z,-9.6665,117.6614,35,4.9,mb,,53,3.664,1.36,us,us70007k7i,2020-04-25T22:18:15.040Z,"96km S of Pisangkemeng, Indonesia",earthquake,7.8,1.7,0.063,79,reviewed,us,us
+2020-02-06T19:51:47.917Z,7.7926,127.3583,10,4.1,mb,,118,1.905,0.3,us,us70007q20,2020-04-25T22:19:37.040Z,"89km E of Kinablangan, Philippines",earthquake,10.1,1.9,0.175,9,reviewed,us,us
+2020-02-06T18:27:16.383Z,5.5142,126.4618,10,4.7,mb,,114,1.777,1.15,us,us70007k53,2020-04-25T22:18:14.040Z,"98km SSE of Pondaguitan, Philippines",earthquake,7.4,1.8,0.073,57,reviewed,us,us
+2020-02-06T16:32:51.992Z,1.4169,128.1731,25.09,4.5,mb,,94,1.029,0.79,us,us70007k13,2020-04-25T22:18:13.040Z,"38km SSE of Tobelo, Indonesia",earthquake,6.5,5.9,0.108,28,reviewed,us,us
+2020-02-06T14:20:38.337Z,5.3365,126.2525,10,4.7,mb,,138,1.847,1.31,us,us70007jz3,2020-04-25T22:18:11.040Z,"87km E of Sarangani, Philippines",earthquake,13.8,1.9,0.121,21,reviewed,us,us
+2020-02-06T13:45:37.801Z,5.4894,126.559,10,5.1,mb,,107,1.847,1.21,us,us70007q1j,2020-04-25T22:19:35.040Z,"105km SSE of Pondaguitan, Philippines",earthquake,3.5,1.8,0.074,59,reviewed,us,us
+2020-02-06T13:40:05.791Z,5.4543,126.5692,19,6,mww,,44,1.882,1.2,us,us70007jwn,2020-05-09T19:46:49.343Z,"109km SSE of Pondaguitan, Philippines",earthquake,5.2,1.7,0.046,45,reviewed,us,us
+2020-02-06T07:10:54.370Z,-2.8517,139.1381,35,4.9,mb,,55,6.88,0.85,us,us70007jq8,2020-04-25T22:18:04.040Z,"162km W of Abepura, Indonesia",earthquake,9.2,2,0.074,57,reviewed,us,us
+2020-02-06T02:02:06.666Z,-9.4041,123.5984,119.08,4.2,mb,,176,0.746,0.75,us,us70007q19,2020-04-25T22:19:34.040Z,"28km NW of Naisano Dua, Indonesia",earthquake,12.7,7.3,0.215,6,reviewed,us,us
+2020-02-05T16:49:50.643Z,-3.4849,100.5106,10,4.4,mb,,203,2.589,0.91,us,us70007pfn,2020-04-25T22:19:32.040Z,"182km SSW of Sungaipenuh, Indonesia",earthquake,13,2,0.162,11,reviewed,us,us
+2020-02-05T13:20:39.687Z,-7.6521,127.6061,184.48,4.3,mb,,57,3.673,1.08,us,us70007pfk,2020-04-25T22:19:32.040Z,"245km ENE of Dili, East Timor",earthquake,7.6,9,0.137,15,reviewed,us,us
+2020-02-05T10:49:35.011Z,-7.4507,106.0456,85.55,4.2,mb,,184,1.591,0.56,us,us70007pfh,2020-04-25T22:19:31.040Z,"45km WSW of Gunungbatu, Indonesia",earthquake,9.3,7.6,0.136,16,reviewed,us,us
+2020-02-05T08:54:26.462Z,-6.9017,130.1059,91.91,4.2,mb,,91,1.597,1.18,us,us70007pfg,2020-04-25T22:19:31.040Z,"176km NW of Saumlaki, Indonesia",earthquake,9.9,12.9,0.215,6,reviewed,us,us
+2020-02-04T23:38:11.695Z,0.0844,123.426,143.69,4.4,mb,,39,1.296,0.99,us,us70007ire,2020-04-18T22:10:26.040Z,"40km SE of Bilungala, Indonesia",earthquake,7.6,5.9,0.081,44,reviewed,us,us
+2020-02-04T22:22:42.333Z,-5.6659,133.5171,18.79,4.5,mb,,115,3.007,0.89,us,us70007pew,2020-04-18T22:10:36.040Z,"78km W of Dobo, Indonesia",earthquake,5.9,6.1,0.131,17,reviewed,us,us
+2020-02-04T16:33:13.885Z,2.6763,128.4208,211.03,4.2,mb,,131,2.165,0.57,us,us70007pem,2020-04-18T22:10:36.040Z,"114km NNE of Tobelo, Indonesia",earthquake,16.3,10,0.146,13,reviewed,us,us
+2020-02-04T16:17:35.252Z,1.9354,126.1477,22.67,4.4,mb,,147,1.679,0.65,us,us70007pek,2020-04-18T22:10:36.040Z,"120km ENE of Bitung, Indonesia",earthquake,9.2,7.8,0.13,17,reviewed,us,us
+2020-02-04T15:05:26.546Z,-2.9832,130.4065,31.97,4.4,mb,,62,1.841,0.52,us,us70007peu,2020-04-18T22:10:36.040Z,"170km ENE of Amahai, Indonesia",earthquake,9.9,6.5,0.149,13,reviewed,us,us
+2020-02-04T14:49:38.591Z,-2.9566,130.3296,27.97,4.8,mb,,57,1.917,0.77,us,us60007pek,2020-04-18T22:10:24.040Z,"162km ENE of Amahai, Indonesia",earthquake,4.4,4.8,0.083,45,reviewed,us,us
+2020-02-04T14:45:51.891Z,-3.9786,128.8787,151.22,4.1,mb,,120,3.524,1.04,us,us70007pf1,2020-04-18T22:10:36.040Z,"51km SSE of Saparua, Indonesia",earthquake,10.2,10,0.151,13,reviewed,us,us
+2020-02-04T12:28:27.805Z,3.8282,128.3249,53.85,4.4,mb,,132,3.183,0.53,us,us70007peb,2020-04-18T22:10:35.040Z,"234km N of Tobelo, Indonesia",earthquake,11.9,9.1,0.12,20,reviewed,us,us
+2020-02-04T11:19:56.068Z,3.0861,98.9887,182.22,4.3,mb,,65,0.395,0.63,us,us60007paq,2020-04-18T22:10:24.040Z,"16km NNW of Pematangsiantar, Indonesia",earthquake,7.9,2.4,0.087,37,reviewed,us,us
+2020-02-04T10:53:01.102Z,0.8172,119.4955,10,4.4,mb,,150,1.318,0.85,us,us70007pe9,2020-04-18T22:10:35.040Z,"86km W of Ogotua, Indonesia",earthquake,7.4,1.9,0.17,10,reviewed,us,us
+2020-02-04T10:41:01.811Z,-2.908,140.5412,35,4.7,mb,,53,6.872,1.18,us,us60007p9r,2020-04-18T22:10:23.040Z,"30km S of Abepura, Indonesia",earthquake,9.5,2,0.096,33,reviewed,us,us
+2020-02-04T06:35:03.107Z,2.0682,126.6213,38.04,4.2,mb,,164,1.487,0.69,us,us70007pe4,2020-04-18T22:10:35.040Z,"158km WNW of Tobelo, Indonesia",earthquake,6.3,11.4,0.176,9,reviewed,us,us
+2020-02-04T04:13:09.619Z,5.9479,126.1821,153.56,4.8,mb,,104,1.265,0.58,us,us70007pe0,2020-04-18T22:10:35.040Z,"45km S of Pondaguitan, Philippines",earthquake,10.7,7.7,0.127,19,reviewed,us,us
+2020-02-04T03:54:55.008Z,-2.9017,139.6059,42.95,4.6,mb,,84,1.162,0.98,us,us60007p43,2020-04-18T22:10:22.040Z,"112km WSW of Abepura, Indonesia",earthquake,8.4,7.8,0.114,23,reviewed,us,us
+2020-02-03T21:16:47.549Z,-9.3678,114.0841,60.72,4.6,mb,,111,0.894,0.59,us,us70007nv2,2020-04-18T22:10:34.040Z,"86km S of Sidorukun, Indonesia",earthquake,8.2,7.9,0.096,32,reviewed,us,us
+2020-02-03T17:51:55.747Z,6.919,126.2793,10,4.4,mb,,115,0.711,0.83,us,us70007nuz,2020-04-18T22:10:34.040Z,"7km NW of Bobon, Philippines",earthquake,4,1.9,0.106,26,reviewed,us,us
+2020-02-03T15:46:59.775Z,-6.2144,130.6427,120.92,4.4,mb,,39,1.873,1.01,us,us60007ng2,2020-04-18T22:10:20.040Z,"205km NNW of Saumlaki, Indonesia",earthquake,8.8,6.6,0.117,21,reviewed,us,us
+2020-02-03T13:02:06.230Z,1.5939,126.5622,38.98,4.4,mb,,94,1.146,0.43,us,us70007nus,2020-04-18T22:10:33.040Z,"126km NW of Kota Ternate, Indonesia",earthquake,10.3,6.2,0.144,14,reviewed,us,us
+2020-02-03T12:12:38.927Z,-0.2249,125.2118,35,4.9,mb,,40,2.371,1.39,us,us60007ndb,2020-04-18T22:10:20.040Z,"138km SE of Modayag, Indonesia",earthquake,4.9,1.9,0.066,71,reviewed,us,us
+2020-02-03T11:18:07.451Z,-5.1117,134.2057,27.07,5,mb,,42,2.924,1.02,us,us60007ncn,2020-04-18T22:10:19.040Z,"72km N of Dobo, Indonesia",earthquake,6.3,1.5,0.065,76,reviewed,us,us
+2020-02-02T21:33:18.629Z,-6.6636,129.8817,151.36,4.1,mb,,88,1.921,0.92,us,us70007n52,2020-04-18T22:10:33.040Z,"212km NW of Saumlaki, Indonesia",earthquake,8.5,6.7,0.158,11,reviewed,us,us
+2020-02-02T16:02:21.891Z,-7.617,128.4736,145.57,4.3,mb,,56,2.822,0.72,us,us60007mtl,2020-04-18T22:10:17.040Z,"Kepulauan Barat Daya, Indonesia",earthquake,7,9.1,0.126,18,reviewed,us,us
+2020-02-02T14:21:55.189Z,-3.0186,100.9185,42.1,4.3,mb,,153,2.431,0.39,us,us70007n4h,2020-04-18T22:10:32.040Z,"115km SSW of Sungaipenuh, Indonesia",earthquake,5.1,6.9,0.119,20,reviewed,us,us
+2020-02-02T07:19:13.193Z,-1.612,134.0077,35.74,4.9,mb,,95,2.185,0.73,us,us60007mm4,2020-04-18T22:10:15.040Z,"82km S of Manokwari, Indonesia",earthquake,6.9,6.8,0.074,58,reviewed,us,us
+2020-02-01T22:18:50.241Z,0.5935,120.6428,68.89,4.7,mb,,97,0.532,0.91,us,us60007md7,2020-04-18T22:10:11.040Z,"24km SSE of Tinabogan, Indonesia",earthquake,6.7,6.1,0.073,56,reviewed,us,us
+2020-02-01T19:54:27.875Z,4.2195,126.8242,35,4.5,mb,,113,3.467,1.12,us,us70007mks,2020-04-18T22:10:31.040Z,"199km SE of Sarangani, Philippines",earthquake,9.2,2,0.131,17,reviewed,us,us
+2020-02-01T14:14:04.053Z,5.642,126.6651,88.83,4.5,mb,,160,1.782,0.98,us,us60007m59,2020-04-18T22:10:09.040Z,"96km SE of Pondaguitan, Philippines",earthquake,11.6,6.5,0.121,20,reviewed,us,us
+2020-02-01T09:09:31.500Z,-2.9219,101.0474,62.54,5,mb,,177,2.38,0.66,us,us60007m22,2020-04-18T22:10:09.040Z,"99km SSW of Sungaipenuh, Indonesia",earthquake,6.5,7.6,0.079,51,reviewed,us,us
+2020-02-01T02:39:54.129Z,-11.4495,118.4631,10,4.1,mb,,94,4.651,1.03,us,us70007mk1,2020-04-18T22:10:30.040Z,"206km SSW of Kahale, Indonesia",earthquake,6.6,1.9,0.214,6,reviewed,us,us
+2020-02-01T02:36:54.288Z,-11.4085,118.4269,10,4.7,mb,,94,4.655,0.91,us,us60007lww,2020-04-18T22:10:07.040Z,"203km SSW of Kahale, Indonesia",earthquake,7.6,1.9,0.108,26,reviewed,us,us
+2020-01-31T22:10:55.844Z,-6.4065,129.1523,221.39,5,mww,,28,2.643,0.72,us,us60007lsc,2020-04-18T22:10:06.040Z,"293km NW of Saumlaki, Indonesia",earthquake,6.9,4.2,0.071,19,reviewed,us,us
+2020-01-31T11:18:48.530Z,6.687,125.3714,31.48,5,mww,,80,0.432,0.9,us,us60007l8m,2020-04-18T22:10:02.040Z,"2km E of Guihing Proper, Philippines",earthquake,6.5,4.3,0.071,19,reviewed,us,us
+2020-01-31T04:00:10.275Z,1.1273,126.3388,34.88,4.3,mb,,82,1.086,0.43,us,us70007l0h,2020-04-18T22:10:29.040Z,"120km WNW of Kota Ternate, Indonesia",earthquake,7.1,6.4,0.142,14,reviewed,us,us
+2020-01-30T21:53:06.548Z,-1.9129,99.9044,35,4.8,mww,,89,2.497,0.9,us,us60007ki4,2020-04-18T22:09:58.040Z,"84km ESE of Muara Siberut, Indonesia",earthquake,7.1,1.9,0.098,10,reviewed,us,us
+2020-01-30T20:39:56.721Z,-6.2325,142.9124,10,4,mb,,103,4.299,0.62,us,us70007kz3,2020-04-18T22:10:29.040Z,"82km W of Mendi, Papua New Guinea",earthquake,11,1.9,0.172,9,reviewed,us,us
+2020-01-30T13:37:10.006Z,0.9493,127.3309,163.6,4.6,mb,,111,0.179,0.4,us,us70007kyq,2020-04-18T22:10:29.040Z,"18km NNW of Kota Ternate, Indonesia",earthquake,13.6,4.6,0.125,19,reviewed,us,us
+2020-01-30T06:25:24.165Z,6.5826,126.5217,73.63,4.4,mb,,174,1.053,0.87,us,us70007ky9,2020-04-18T22:10:29.040Z,"37km SE of Tamisan, Philippines",earthquake,8.5,10.3,0.127,18,reviewed,us,us
+2020-01-30T04:25:18.680Z,-11.3532,118.5747,10,4.2,mb,,117,5.214,0.92,us,us70007ky2,2020-04-18T22:10:29.040Z,"192km SSW of Kahale, Indonesia",earthquake,8.7,1.9,0.167,10,reviewed,us,us
+2020-01-30T03:46:16.387Z,-11.5219,118.4161,10,4.2,mb,,98,4.731,0.81,us,us70007kxz,2020-04-18T22:10:28.040Z,"215km SSW of Kahale, Indonesia",earthquake,7.1,1.9,0.159,11,reviewed,us,us
+2020-01-30T01:02:47.972Z,1.4836,126.445,35,4.5,mb,,104,1.161,0.56,us,us60007jp3,2020-04-18T22:09:54.040Z,"128km NW of Kota Ternate, Indonesia",earthquake,3.4,2,0.109,25,reviewed,us,us
+2020-01-29T23:46:56.062Z,0.7136,126.3292,27.01,5.8,mww,,25,1.039,0.88,us,us60007jmj,2020-04-18T22:09:54.040Z,"115km W of Kota Ternate, Indonesia",earthquake,6.1,3.1,0.052,36,reviewed,us,us
+2020-01-29T07:35:15.806Z,-7.0215,129.4412,154.72,4.3,mb,,64,2.074,0.7,us,us70007kvx,2020-04-18T22:10:28.040Z,"231km WNW of Saumlaki, Indonesia",earthquake,3.8,7.7,0.119,20,reviewed,us,us
+2020-01-28T18:00:41.722Z,-8.6399,128.4387,10,4.3,mb,,54,2.904,0.98,us,us70007k49,2020-04-11T18:21:17.040Z,"Timor Sea",earthquake,3.7,1.9,0.138,19,reviewed,us,us
+2020-01-28T09:40:44.180Z,-7.0226,129.1558,151.26,4.5,mb,,70,2.329,0.76,us,us60007i30,2020-04-11T18:21:01.040Z,"259km WNW of Saumlaki, Indonesia",earthquake,6.8,7,0.121,20,reviewed,us,us
+2020-01-28T07:50:13.306Z,-9.1119,122.6236,89.54,4.2,mb,,134,0.607,1.09,us,us70007k40,2020-04-11T18:21:16.040Z,"48km SE of Habibola, Indonesia",earthquake,9.3,10.1,0.199,7,reviewed,us,us
+2020-01-28T04:47:27.467Z,-11.6731,124.3402,10,4.5,mb,,78,1.601,0.92,us,us60007hxq,2020-04-11T18:21:00.040Z,"186km SSE of Kupang, Indonesia",earthquake,3.5,1.9,0.151,13,reviewed,us,us
+2020-01-27T16:34:35.942Z,-3.0271,130.5816,10,4.4,mb,,68,1.668,0.78,us,us70007k1w,2020-04-11T18:21:16.040Z,"188km E of Amahai, Indonesia",earthquake,7.4,1.9,0.134,16,reviewed,us,us
+2020-01-27T15:14:11.468Z,-8.5166,118.3287,129.27,4.2,mb,,88,3.755,0.6,us,us70007k1t,2020-04-11T18:21:15.040Z,"2km SSE of Lanci Satu, Indonesia",earthquake,9,8.2,0.147,13,reviewed,us,us
+2020-01-27T09:00:06.498Z,3.9411,126.4536,59.75,4.2,mb,,114,3.277,1.08,us,us70007k1l,2020-04-11T18:21:15.040Z,"195km SE of Sarangani, Philippines",earthquake,11.5,9.1,0.153,12,reviewed,us,us
+2020-01-27T08:03:41.480Z,3.0825,97.7082,89.81,4.5,mb,,127,1.273,0.6,us,us60007h33,2020-04-11T18:20:55.040Z,"87km W of Kabanjahe, Indonesia",earthquake,5.3,8.5,0.097,31,reviewed,us,us
+2020-01-27T08:01:01.555Z,-3.7715,101.1315,35,4,mb,,206,1.911,0.65,us,us70007k1k,2020-04-11T18:21:15.040Z,"126km W of Bengkulu, Indonesia",earthquake,10.1,2,0.164,10,reviewed,us,us
+2020-01-27T03:32:36.339Z,-5.132,102.3652,34.91,4.8,mb,,94,0.966,0.68,us,us60007gx6,2020-04-11T18:20:54.040Z,"147km S of Bengkulu, Indonesia",earthquake,6.8,4.9,0.078,51,reviewed,us,us
+2020-01-27T02:32:37.814Z,0.8498,126.6382,66.84,4.4,mb,,70,0.732,0.37,us,us70007k1c,2020-04-11T18:21:15.040Z,"81km W of Kota Ternate, Indonesia",earthquake,8.1,8.1,0.138,15,reviewed,us,us
+2020-01-26T11:06:43.150Z,8.8736,126.5303,30.78,4.5,mb,,126,2.024,0.51,us,us60007gfp,2020-04-11T18:20:52.040Z,"25km E of Aras-asan, Philippines",earthquake,8.7,6.6,0.094,33,reviewed,us,us
+2020-01-26T02:47:04.798Z,3.3796,124.5688,283.82,4.3,mb,,78,3.811,0.98,us,us60007g62,2020-04-11T18:20:51.040Z,"211km N of Manado, Indonesia",earthquake,9.8,7.5,0.102,27,reviewed,us,us
+2020-01-25T20:37:59.916Z,-4.9598,129.6603,207.05,4.1,mb,,100,3.283,0.82,us,us70007j53,2020-04-11T18:21:12.040Z,"190km SE of Saparua, Indonesia",earthquake,9,10.6,0.123,18,reviewed,us,us
+2020-01-25T18:04:47.855Z,-6.2615,130.4661,104.35,4.8,mb,,37,1.899,0.72,us,us60007ftp,2020-04-11T18:20:49.040Z,"209km NNW of Saumlaki, Indonesia",earthquake,6,6.6,0.074,60,reviewed,us,us
+2020-01-25T06:55:24.830Z,1.5684,126.4546,10,4,mb,,109,1.207,0.82,us,us70007j4c,2020-04-11T18:21:11.040Z,"133km NW of Kota Ternate, Indonesia",earthquake,7.3,1.8,0.212,6,reviewed,us,us
+2020-01-25T03:30:55.567Z,-0.1007,121.9569,274,4.2,mb,,81,1.24,0.74,us,us70007j48,2020-04-11T18:21:11.040Z,"81km SSW of Tilamuta, Indonesia",earthquake,6.8,6.5,0.136,15,reviewed,us,us
+2020-01-25T00:38:23.411Z,-3.3205,127.8992,53.31,4.7,mb,,61,4.099,0.86,us,us60007fb1,2020-04-11T18:20:47.040Z,"35km NW of Hila, Indonesia",earthquake,4.6,8.2,0.067,67,reviewed,us,us
+2020-01-24T23:40:16.194Z,-6.2671,142.3398,10,4.6,mb,,50,4.068,0.85,us,us60007pjs,2020-04-11T18:21:11.040Z,"116km ENE of Lake Murray, Papua New Guinea",earthquake,7.2,1.9,0.102,29,reviewed,us,us
+2020-01-24T09:44:15.118Z,4.526,126.6313,91.18,4.4,mb,,94,2.735,0.74,us,us60007pj4,2020-04-11T18:21:10.040Z,"161km SE of Sarangani, Philippines",earthquake,4.1,9.5,0.097,32,reviewed,us,us
+2020-01-24T07:29:44.565Z,-3.1671,139.9462,35,4.4,mb,,129,11.185,1.15,us,us60007piw,2020-04-11T18:21:10.040Z,"92km SW of Abepura, Indonesia",earthquake,11.9,2,0.162,11,reviewed,us,us
+2020-01-24T00:50:43.530Z,-9.8774,116.9285,35,4.9,mb,,59,3.077,0.87,us,us60007ebf,2020-04-11T18:20:42.040Z,"113km S of Besisora, Indonesia",earthquake,3.8,1.9,0.084,45,reviewed,us,us
+2020-01-23T12:53:13.087Z,-0.9439,126.7906,10,4.3,mb,,68,1.798,1.03,us,us60007ni9,2020-04-11T18:21:09.040Z,"107km WNW of Laiwui, Indonesia",earthquake,4.2,1.9,0.161,11,reviewed,us,us
+2020-01-23T11:14:41.240Z,7.3466,126.7402,86,4.5,mb,,119,1.184,0.43,us,us60007ni6,2020-04-11T18:21:09.040Z,"19km E of Caraga, Philippines",earthquake,10.1,9.3,0.15,13,reviewed,us,us
+2020-01-23T08:25:58.395Z,-0.0424,123.0684,102.21,4.4,mb,,77,1.036,0.87,us,us60007nhw,2020-04-11T18:21:09.040Z,"49km SSW of Bilungala, Indonesia",earthquake,9.4,4.4,0.105,26,reviewed,us,us
+2020-01-23T00:54:40.269Z,5.7471,125.2219,45.65,4.4,mb,,110,1.361,0.79,us,us60007nhl,2020-04-11T18:21:09.040Z,"1km WNW of Baliton, Philippines",earthquake,5.4,9.2,0.149,13,reviewed,us,us
+2020-01-22T19:23:28.031Z,7.7168,94.0461,106.74,4.7,mb,,54,3.797,0.58,us,us60007d30,2020-04-11T18:20:38.040Z,"85km ESE of Mohean, India",earthquake,9.1,6.6,0.115,23,reviewed,us,us
+2020-01-22T17:54:35.899Z,-10.4557,124.3151,10,4.4,mb,,134,0.687,0.5,us,us60007liy,2020-04-11T18:21:08.040Z,"65km S of Soe, Indonesia",earthquake,8.5,1.9,0.123,19,reviewed,us,us
+2020-01-22T16:49:26.627Z,-9.6054,118.4294,59.27,4.2,mb,,85,3.882,1.03,us,us60007liv,2020-04-11T18:21:08.040Z,"63km W of Kawangohari, Indonesia",earthquake,8.8,8.3,0.216,6,reviewed,us,us
+2020-01-22T13:34:25.227Z,1.9458,126.5923,10,4.5,mb,,115,1.399,0.87,us,us60007cuh,2020-04-11T18:20:38.040Z,"154km NNW of Kota Ternate, Indonesia",earthquake,8.3,1.9,0.111,24,reviewed,us,us
+2020-01-22T03:58:44.156Z,2.2436,96.2926,10,4.9,mb,,88,1.586,0.64,us,us60007clh,2020-04-11T18:20:37.040Z,"27km SSW of Sinabang, Indonesia",earthquake,7.9,1.2,0.081,48,reviewed,us,us
+2020-01-22T03:49:29.697Z,-8.7741,119.2113,122.82,4.5,mb,,75,2.995,0.9,us,us60007ckq,2020-04-11T18:20:36.040Z,"27km SE of Sigirato, Indonesia",earthquake,7.4,7.4,0.101,29,reviewed,us,us
+2020-01-21T21:41:07.737Z,-2.9328,139.5566,35,4.1,mb,,59,1.219,1.01,us,us60007lgi,2020-04-08T19:40:07.040Z,"118km WSW of Abepura, Indonesia",earthquake,6.8,2,0.146,13,reviewed,us,us
+2020-01-21T16:19:58.413Z,-6.8559,129.0768,202.99,4,mb,,80,2.471,1.36,us,us60007lgh,2020-04-08T19:40:07.040Z,"275km WNW of Saumlaki, Indonesia",earthquake,9.8,8.6,0.164,10,reviewed,us,us
+2020-01-21T14:52:02.890Z,1.9333,126.4287,28.76,4.4,mb,,112,1.486,0.32,us,us60007lg9,2020-04-08T19:40:07.040Z,"148km ENE of Bitung, Indonesia",earthquake,9.9,6.9,0.134,16,reviewed,us,us
+2020-01-21T13:12:06.039Z,-2.9503,139.5931,35,4.3,mb,,74,1.191,0.67,us,us60007lg5,2020-04-08T19:40:06.040Z,"115km WSW of Abepura, Indonesia",earthquake,7.8,1.9,0.168,10,reviewed,us,us
+2020-01-21T13:07:47.037Z,-2.9935,139.6258,35,4.5,mb,,93,1.177,0.8,us,us60007lgd,2020-04-08T19:40:07.040Z,"113km WSW of Abepura, Indonesia",earthquake,4.3,2,0.135,16,reviewed,us,us
+2020-01-21T11:03:08.236Z,0.6338,99.8039,159.16,4.7,mb,,139,1.272,0.7,us,us60007c1h,2020-04-08T19:39:47.040Z,"86km NNW of Bonjol, Indonesia",earthquake,4.8,5.3,0.087,40,reviewed,us,us
+2020-01-21T09:58:42.627Z,2.5036,128.1161,161.84,4.1,mb,,108,1.876,0.3,us,us60007lfz,2020-04-08T19:40:06.040Z,"86km N of Tobelo, Indonesia",earthquake,13.5,8.7,0.127,17,reviewed,us,us
+2020-01-21T08:49:11.216Z,-7.8967,103.6932,10,4.5,mb,,108,3.588,0.37,us,us60007lfy,2020-04-08T19:40:06.040Z,"245km WSW of Tugu Hilir, Indonesia",earthquake,6.9,1.9,0.171,10,reviewed,us,us
+2020-01-20T21:12:34.801Z,0.327,122.3478,172.45,4.2,mb,,99,1.424,0.51,us,us60007ldr,2020-04-08T19:40:06.040Z,"22km S of Tilamuta, Indonesia",earthquake,9.5,9.5,0.131,16,reviewed,us,us
+2020-01-20T18:51:11.094Z,5.8766,127.2174,35,4.3,mb,,120,2.013,1.05,us,us60007ldj,2020-04-08T19:40:06.040Z,"126km ESE of Pondaguitan, Philippines",earthquake,8.9,2,0.125,18,reviewed,us,us
+2020-01-20T15:25:13.988Z,-3.4432,130.8868,20.08,4.6,mb,,62,1.456,0.56,us,us60007ldg,2020-04-08T19:40:06.040Z,"219km E of Amahai, Indonesia",earthquake,6.6,4.2,0.132,17,reviewed,us,us
+2020-01-20T07:20:43.309Z,7.3371,127.6048,43.66,4.4,mb,,189,2.027,0.37,us,us60007ld8,2020-04-08T19:40:06.040Z,"113km E of Baculin, Philippines",earthquake,10.3,8,0.139,15,reviewed,us,us
+2020-01-19T16:58:20.002Z,-0.1042,123.8025,121.72,6.1,mww,,22,1.389,0.78,us,us60007arp,2020-04-08T19:39:40.040Z,"57km SSW of Molibagu, Indonesia",earthquake,6.8,3.6,0.05,39,reviewed,us,us
+2020-01-19T13:31:12.857Z,-7.0864,107.682,133.84,4.5,mb,,119,0.375,0.69,us,us60007k77,2020-04-08T19:40:05.040Z,"9km W of Paseh, Indonesia",earthquake,10.3,5.6,0.131,17,reviewed,us,us
+2020-01-19T12:10:49.596Z,0.0114,123.2676,142.56,4.4,mb,,60,1.157,0.68,us,us60007k73,2020-04-08T19:40:05.040Z,"41km S of Bilungala, Indonesia",earthquake,7.9,7.6,0.13,17,reviewed,us,us
+2020-01-19T07:55:34.793Z,1.8613,126.5941,69.23,4,mb,,155,4.787,0.31,us,us60007k6y,2020-04-08T19:40:05.040Z,"146km NW of Kota Ternate, Indonesia",earthquake,7.1,11.3,0.129,16,reviewed,us,us
+2020-01-19T01:13:56.482Z,-7.9961,129.8098,45.62,4.4,mb,,99,1.474,0.97,us,us60007k6r,2020-04-08T19:40:05.040Z,"166km W of Saumlaki, Indonesia",earthquake,8.8,9.8,0.149,13,reviewed,us,us
+2020-01-19T00:14:39.939Z,-2.8268,139.3693,35,4.9,mb,,54,1.369,0.79,us,us60007ac3,2020-04-08T19:39:37.040Z,"136km W of Abepura, Indonesia",earthquake,7.6,1.9,0.071,63,reviewed,us,us
+2020-01-18T21:33:27.906Z,-2.8337,139.1956,35,4.2,mb,,126,6.938,1.2,us,us60007k5u,2020-04-08T19:40:05.040Z,"155km W of Abepura, Indonesia",earthquake,6.4,2,0.167,10,reviewed,us,us
+2020-01-18T17:08:34.601Z,-3.0413,139.6199,52.48,4.2,mb,,95,1.202,0.65,us,us60007k5n,2020-04-08T19:40:04.040Z,"116km WSW of Abepura, Indonesia",earthquake,9.3,9.8,0.159,12,reviewed,us,us
+2020-01-18T16:38:14.301Z,-2.8405,139.3363,44,6,mww,,36,7.079,1.02,us,us60007a3h,2020-04-08T19:39:35.040Z,"140km W of Abepura, Indonesia",earthquake,4.1,1.9,0.053,34,reviewed,us,us
+2020-01-18T16:07:49.734Z,-3.3892,140.6072,35,4.1,mb,,194,8.358,1.28,us,us60007k5t,2020-04-08T19:40:04.040Z,"83km S of Abepura, Indonesia",earthquake,7.9,2,0.174,9,reviewed,us,us
+2020-01-18T03:31:18.568Z,0.3013,124.9058,79.11,4.5,mb,,57,2.504,0.77,us,us600079rk,2020-04-08T19:39:34.040Z,"73km SE of Modayag, Indonesia",earthquake,7.5,4,0.115,22,reviewed,us,us
+2020-01-18T01:55:24.824Z,4.6132,95.0658,53.54,4.9,mb,,169,1.971,0.8,us,us600079p6,2020-04-08T19:39:34.040Z,"108km SSW of Banda Aceh, Indonesia",earthquake,6.5,8,0.091,38,reviewed,us,us
+2020-01-18T01:31:10.722Z,-6.5892,132.098,10,5.1,mww,,36,1.595,1,us,us600079ne,2020-04-08T19:39:34.040Z,"124km SW of Tual, Indonesia",earthquake,5,1.7,0.066,22,reviewed,us,us
+2020-01-17T18:57:28.088Z,-3.264,130.6561,10,4.3,mb,,64,1.627,1.15,us,us60007j8q,2020-04-08T19:40:03.040Z,"193km E of Amahai, Indonesia",earthquake,5.6,1.9,0.137,19,reviewed,us,us
+2020-01-17T11:03:22.341Z,5.6773,126.1981,104.33,4.8,mb,,83,1.514,0.86,us,us700071lr,2020-04-08T19:40:18.040Z,"67km ESE of Caburan, Philippines",earthquake,5.8,6.5,0.044,156,reviewed,us,us
+2020-01-17T06:45:36.714Z,-1.0637,127.447,10,4.7,mb,,78,1.825,0.83,us,us700071ip,2020-04-08T19:40:17.040Z,"40km NW of Laiwui, Indonesia",earthquake,4.9,1.9,0.096,33,reviewed,us,us
+2020-01-17T06:43:52.373Z,-1.0821,127.4172,10,4.9,mb,,84,1.842,0.46,us,us700071im,2020-04-08T19:40:17.040Z,"40km NW of Laiwui, Indonesia",earthquake,7.3,1.9,0.088,41,reviewed,us,us
+2020-01-17T04:28:06.541Z,5.8823,125.9211,161.43,4.7,mb,,94,1.227,1.16,us,us700071h7,2020-04-08T19:40:16.040Z,"29km ESE of Mangili, Philippines",earthquake,8.7,5.8,0.087,40,reviewed,us,us
+2020-01-17T03:39:47.612Z,6.0875,126.9373,190.94,4.6,mb,,111,1.665,0.91,us,us700071gp,2020-04-08T19:40:16.040Z,"89km ESE of Pondaguitan, Philippines",earthquake,9.1,3.4,0.088,39,reviewed,us,us
+2020-01-17T01:42:57.221Z,-7.9618,129.0411,35,4.5,mb,,123,2.236,0.8,us,us60007j7w,2020-04-08T19:40:02.040Z,"250km W of Saumlaki, Indonesia",earthquake,5.9,2,0.221,6,reviewed,us,us
+2020-01-17T01:34:44.344Z,-4.9258,102.7843,52.78,4.6,mb,,94,0.587,0.72,us,us700071en,2020-04-08T19:40:15.040Z,"109km W of Kuripan, Indonesia",earthquake,6.4,5.4,0.107,26,reviewed,us,us
+2020-01-16T22:04:24.935Z,-10.472,124.1355,10,4.9,mb,,78,0.723,0.95,us,us700071b1,2020-04-08T19:40:14.040Z,"69km ESE of Kupang, Indonesia",earthquake,6,1.9,0.08,49,reviewed,us,us
+2020-01-16T15:48:08.056Z,-2.3539,139.2977,24.44,4.3,mb,,66,1.414,1.2,us,us60007j74,2020-04-08T19:40:01.040Z,"146km WNW of Abepura, Indonesia",earthquake,9.6,6,0.137,16,reviewed,us,us
+2020-01-16T12:53:45.782Z,-5.44,129.0023,253.39,4.1,mb,,108,4.093,0.47,us,us60007j6z,2020-04-08T19:40:01.040Z,"210km S of Saparua, Indonesia",earthquake,10.3,11.5,0.198,7,reviewed,us,us
+2020-01-16T11:20:20.980Z,2.0678,127.1071,109.24,4.3,mb,,129,1.313,0.42,us,us60007j6w,2020-04-08T19:40:01.040Z,"107km WNW of Tobelo, Indonesia",earthquake,8.7,10.3,0.116,21,reviewed,us,us
+2020-01-16T07:53:54.223Z,-2.9106,129.1943,10,4.1,mb,,72,2.898,1.1,us,us60007j6n,2020-04-08T19:40:01.040Z,"56km NNE of Amahai, Indonesia",earthquake,7,1.9,0.165,10,reviewed,us,us
+2020-01-16T02:21:40.891Z,-9.7144,121.706,51.44,4.2,mb,,84,1.193,0.44,us,us60007j6g,2020-04-08T19:40:01.040Z,"93km S of Ngalupolo, Indonesia",earthquake,7.1,9.2,0.16,11,reviewed,us,us
+2020-01-16T00:20:01.888Z,-10.082,115.6104,35,4,mb,,127,2.153,1.26,us,us60007j6d,2020-04-08T19:40:00.040Z,"148km SSE of Bualu, Indonesia",earthquake,11.5,2,0.196,7,reviewed,us,us
+2020-01-15T16:22:13.858Z,-9.1328,123.7967,79.91,5,mb,,53,0.773,1.14,us,us700070am,2020-04-08T19:40:10.040Z,"51km N of Naisano Dua, Indonesia",earthquake,5.7,5.7,0.072,62,reviewed,us,us
+2020-01-15T12:16:41.567Z,-10.4167,124.0807,10,4.5,mb,,78,0.682,0.97,us,us7000707w,2020-04-08T19:40:10.040Z,"61km ESE of Kupang, Indonesia",earthquake,8.5,1.9,0.103,29,reviewed,us,us
+2020-01-15T08:35:52.232Z,-11.6382,116.6649,32.54,4.7,mb,,103,4.004,1.2,us,us7000703r,2020-04-08T19:40:09.040Z,"South of Lombok, Indonesia",earthquake,8.1,3.8,0.115,23,reviewed,us,us
+2020-01-15T08:25:54.811Z,-1.9172,138.832,28.74,4.9,mb,,37,1.962,0.9,us,us7000703h,2020-04-08T19:40:09.040Z,"210km WNW of Abepura, Indonesia",earthquake,8.4,2.6,0.083,46,reviewed,us,us
+2020-01-15T07:55:30.169Z,-10.3733,124.0857,10,5.7,mww,,34,0.447,1.42,us,us7000702n,2020-04-08T19:40:09.040Z,"59km ESE of Kupang, Indonesia",earthquake,5.7,1.7,0.063,24,reviewed,us,us
+2020-01-15T02:59:38.375Z,5.2079,94.6953,56.73,4.3,mb,,175,2.242,0.48,us,us60007i8c,2020-04-08T19:39:59.040Z,"79km WSW of Banda Aceh, Indonesia",earthquake,10.2,10,0.129,17,reviewed,us,us
+2020-01-15T02:40:10.112Z,5.7103,126.9697,139.89,4.5,mb,,108,1.932,0.95,us,us7000700s,2020-04-08T19:40:08.040Z,"113km SE of Pondaguitan, Philippines",earthquake,8.1,7.6,0.085,41,reviewed,us,us
+2020-01-14T04:41:17.386Z,-3.0464,127.9933,35,4.4,mb,,68,3.921,0.81,us,us60007hcj,2020-04-02T21:27:41.040Z,"22km W of Piru, Indonesia",earthquake,5.2,2,0.155,12,reviewed,us,us
+2020-01-14T01:54:25.052Z,5.7093,126.1112,127.41,4.5,mb,,101,1.451,0.43,us,us60007hcc,2020-04-02T21:27:40.040Z,"56km ESE of Caburan, Philippines",earthquake,9,4.4,0.111,24,reviewed,us,us
+2020-01-14T01:45:13.518Z,-8.7476,120.3879,132.13,4.3,mb,,86,1.832,0.76,us,us60007hcg,2020-04-02T21:27:40.040Z,"3km NNE of Narang, Indonesia",earthquake,11,5.7,0.177,9,reviewed,us,us
+2020-01-14T00:06:44.752Z,5.1951,127.1069,81.31,4.5,mb,,101,2.403,0.95,us,us70006zg9,2020-04-02T21:28:28.040Z,"164km SE of Pondaguitan, Philippines",earthquake,8.2,6.9,0.085,41,reviewed,us,us
+2020-01-13T21:14:01.171Z,-1.3911,138.3462,10,4.1,mb,,86,2.607,1.33,us,us60007evr,2020-04-02T21:27:39.040Z,"284km WNW of Abepura, Indonesia",earthquake,8.8,1.9,0.151,12,reviewed,us,us
+2020-01-13T05:39:19.617Z,1.989,128.2703,126.08,4.2,mb,,119,1.509,0.62,us,us60007eut,2020-04-02T21:27:37.040Z,"40km NE of Tobelo, Indonesia",earthquake,12.2,9.4,0.115,21,reviewed,us,us
+2020-01-13T05:19:53.271Z,-7.1159,106.1728,63.35,4.4,mb,,130,1.505,0.95,us,us60007eus,2020-04-02T21:27:37.040Z,"20km SSW of Sindanglaut, Indonesia",earthquake,10.9,7.8,0.12,20,reviewed,us,us
+2020-01-12T23:13:12.026Z,-7.3984,128.8135,125.16,4.5,mb,,45,2.53,0.87,us,us60007eua,2020-04-02T21:27:35.040Z,"282km WNW of Saumlaki, Indonesia",earthquake,7.6,6.1,0.087,39,reviewed,us,us
+2020-01-12T23:11:26.925Z,-8.8779,134.7023,10,4.6,mb,,50,3.482,0.73,us,us60007eu1,2020-04-02T21:27:35.040Z,"Arafura Sea",earthquake,6.9,1.9,0.146,16,reviewed,us,us
+2020-01-12T16:03:21.911Z,1.5509,126.3357,40.46,4.4,mb,,98,1.289,0.8,us,us60007et8,2020-04-02T21:27:33.040Z,"128km E of Bitung, Indonesia",earthquake,7.9,11.5,0.139,15,reviewed,us,us
+2020-01-12T10:53:47.600Z,9.492,126.1804,50.16,5.1,mb,,46,2.479,0.93,us,us70006yps,2020-04-02T21:28:19.040Z,"23km ESE of Socorro, Philippines",earthquake,8.4,5.8,0.065,78,reviewed,us,us
+2020-01-12T10:45:17.756Z,2.0684,97.8435,62.48,4.9,mb,,113,0.805,0.5,us,us70006ypl,2020-04-02T21:28:19.040Z,"88km W of Onan Ganjang, Indonesia",earthquake,6.6,7.9,0.099,32,reviewed,us,us
+2020-01-12T08:18:28.592Z,-3.3391,102.4507,194.71,4,mb,,176,2.286,0.59,us,us60007esg,2020-04-02T21:27:31.040Z,"16km NNW of Curup, Indonesia",earthquake,10,8.8,0.172,9,reviewed,us,us
+2020-01-12T02:54:43.628Z,2.6649,128.2492,158.6,4.2,mb,,112,2.077,0.67,us,us60007es8,2020-04-02T21:27:31.040Z,"106km NNE of Tobelo, Indonesia",earthquake,11.4,9.8,0.176,9,reviewed,us,us
+2020-01-11T20:01:25.228Z,-4.3025,142.2129,102.58,4.6,mb,,45,2.328,0.76,us,us70006yia,2020-04-02T21:28:17.040Z,"70km W of Ambunti, Papua New Guinea",earthquake,6.7,5.1,0.066,70,reviewed,us,us
+2020-01-11T12:30:22.087Z,-0.0522,122.8892,146.17,4.5,mb,,51,0.99,0.75,us,us60007dva,2020-04-02T21:27:29.040Z,"60km SW of Bilungala, Indonesia",earthquake,3.7,6.2,0.089,37,reviewed,us,us
+2020-01-11T12:00:04.022Z,-8.5144,117.4878,35,4.2,mb,,123,3.299,0.74,us,us70007t24,2020-04-02T21:28:48.040Z,"3km W of Ngeru, Indonesia",earthquake,7.5,2,0.186,8,reviewed,us,us
+2020-01-11T04:31:01.012Z,-7.5117,127.8219,142.23,4.5,mb,,54,3.477,1.1,us,us70006y59,2020-04-02T21:28:14.040Z,"273km ENE of Dili, East Timor",earthquake,7.8,6.6,0.144,14,reviewed,us,us
+2020-01-10T22:06:32.716Z,-7.746,108.0142,62.77,4.4,mb,,64,0.457,0.85,us,us60007dqk,2020-04-02T21:27:29.040Z,"0km SW of Cipatujah Selatan, Indonesia",earthquake,7.9,3.6,0.123,19,reviewed,us,us
+2020-01-10T17:16:43.031Z,3.4845,128.0829,44.04,4.8,mb,,110,2.788,0.89,us,us70006xm2,2020-04-02T21:28:11.040Z,"194km N of Tobelo, Indonesia",earthquake,7.1,6.7,0.059,99,reviewed,us,us
+2020-01-10T15:06:32.157Z,-8.3441,128.8291,10,4.8,mww,,45,2.471,1.16,us,us70006xju,2020-04-02T21:28:10.040Z,"277km W of Saumlaki, Indonesia",earthquake,4.8,1.7,0.093,11,reviewed,us,us
+2020-01-10T14:59:42.219Z,-8.3968,128.9015,10,4.3,mb,,69,2.408,0.87,us,us60007dqa,2020-04-02T21:27:28.040Z,"270km W of Saumlaki, Indonesia",earthquake,7.7,1.7,0.154,12,reviewed,us,us
+2020-01-10T00:13:11.519Z,2.3599,127.5717,75.14,4.9,mww,,74,1.59,0.75,us,us70006xb3,2020-04-02T21:28:01.040Z,"85km NW of Tobelo, Indonesia",earthquake,6.4,4.8,0.098,10,reviewed,us,us
+2020-01-09T21:44:17.181Z,2.4586,128.883,35,4.4,mb,,115,2.259,0.78,us,us60007d1t,2020-04-02T21:27:27.040Z,"126km NE of Tobelo, Indonesia",earthquake,3.5,2,0.118,21,reviewed,us,us
+2020-01-09T15:31:39.785Z,2.5218,128.8493,35,4.6,mb,,79,2.284,0.89,us,us70006wye,2020-04-02T21:27:58.040Z,"128km NE of Tobelo, Indonesia",earthquake,7.9,2,0.088,45,reviewed,us,us
+2020-01-09T15:31:14.946Z,2.5843,128.8472,35,4.4,mb,,116,2.33,1.23,us,us70006wyd,2020-04-02T21:27:58.040Z,"132km NE of Tobelo, Indonesia",earthquake,9.1,2,0.111,27,reviewed,us,us
+2020-01-09T01:57:12.925Z,2.455,128.7542,44.45,4.6,mb,,117,2.172,0.77,us,us70006wq6,2020-04-02T21:27:54.040Z,"115km NE of Tobelo, Indonesia",earthquake,8.9,6.1,0.09,37,reviewed,us,us
+2020-01-08T22:22:16.542Z,-3.9425,136.7997,144.52,4,mb,,78,4.148,0.35,us,us60007ctz,2020-04-02T21:27:26.040Z,"50km E of Enarotali, Indonesia",earthquake,8.8,10.4,0.211,6,reviewed,us,us
+2020-01-08T22:05:33.881Z,-7.7621,107.9297,69.72,4.6,mb,,50,0.406,0.74,us,us70006wlt,2020-04-02T21:27:53.040Z,"4km SW of Ciheras, Indonesia",earthquake,7.7,5.3,0.086,40,reviewed,us,us
+2020-01-08T20:23:41.670Z,1.818,96.8266,24.27,4.4,mb,,158,0.906,0.76,us,us60007cty,2020-04-02T21:27:26.040Z,"88km SE of Sinabang, Indonesia",earthquake,5.2,4.8,0.169,10,reviewed,us,us
+2020-01-08T19:54:03.071Z,-6.0007,130.8653,105.69,4.4,mb,,100,2.015,0.81,us,us60007ctx,2020-04-02T21:27:26.040Z,"211km W of Tual, Indonesia",earthquake,6,8.6,0.149,13,reviewed,us,us
+2020-01-08T17:41:34.248Z,-9.351,119.258,84.97,4.4,mb,,79,3.028,0.84,us,us70006wer,2020-04-02T21:27:52.040Z,"8km N of Weepangali, Indonesia",earthquake,7.4,7.7,0.106,26,reviewed,us,us
+2020-01-08T13:43:35.680Z,5.6411,126.0558,101.69,4.5,mb,,111,1.496,0.77,us,us70006wbw,2020-04-02T21:27:51.040Z,"55km SE of Caburan, Philippines",earthquake,3,8,0.087,39,reviewed,us,us
+2020-01-08T09:47:06.441Z,-7.1657,129.4211,134.23,4.5,mb,,80,2.03,0.97,us,us70006w9z,2020-04-02T21:27:51.040Z,"226km WNW of Saumlaki, Indonesia",earthquake,5.7,8.7,0.108,25,reviewed,us,us
+2020-01-08T06:41:08.033Z,2.6669,128.4222,210.39,4.3,mb,,109,2.157,0.9,us,us60007cth,2020-04-02T21:27:26.040Z,"113km NNE of Tobelo, Indonesia",earthquake,12.5,9.4,0.148,13,reviewed,us,us
+2020-01-08T04:11:45.877Z,5.152,125.3401,39.02,4.8,mb,,61,1.919,0.89,us,us70006w6y,2020-04-02T21:27:48.040Z,"30km SSW of Sarangani, Philippines",earthquake,6.7,5.3,0.055,101,reviewed,us,us
+2020-01-08T01:58:27.605Z,-3.2375,138.0075,60.22,4.5,mb,,49,2.787,0.8,us,us70006w5h,2020-04-02T21:27:46.040Z,"198km ENE of Enarotali, Indonesia",earthquake,8.6,8.9,0.115,22,reviewed,us,us
+2020-01-08T01:37:21.579Z,1.9638,96.2216,10,4.1,mb,,140,1.503,0.46,us,us60007ctg,2020-04-02T21:27:25.040Z,"59km SSW of Sinabang, Indonesia",earthquake,7.4,1.9,0.175,9,reviewed,us,us
+2020-01-08T00:49:36.944Z,2.5358,128.8724,33.97,4.4,mb,,121,2.309,0.62,us,us60007ctd,2020-04-02T21:27:25.040Z,"131km NE of Tobelo, Indonesia",earthquake,9.8,6.8,0.155,12,reviewed,us,us
+2020-01-08T00:48:03.848Z,2.4739,128.8746,35,4.3,mb,,119,2.265,1.34,us,us60007cte,2020-04-02T21:27:25.040Z,"126km NE of Tobelo, Indonesia",earthquake,5.2,2,0.168,10,reviewed,us,us
+2020-01-07T22:48:03.787Z,-1.5516,99.4165,28.42,4.6,mb,,86,3.381,0.88,us,us70006w38,2020-03-21T17:13:43.040Z,"23km ENE of Muara Siberut, Indonesia",earthquake,9.1,5.4,0.102,29,reviewed,us,us
+2020-01-07T20:20:14.472Z,2.1799,124.1572,294.39,4.4,mb,,51,3.487,0.89,us,us70006vyd,2020-03-21T17:13:42.040Z,"108km NW of Manado, Indonesia",earthquake,6.9,6.5,0.059,89,reviewed,us,us
+2020-01-07T13:03:15.277Z,2.1236,96.2214,10,4.4,mb,,159,1.579,0.25,us,us60007c6d,2020-03-21T17:13:29.040Z,"43km SSW of Sinabang, Indonesia",earthquake,4.7,1.9,0.155,15,reviewed,us,us
+2020-01-07T11:40:35.388Z,-7.7411,128.0632,143.54,4.2,mb,,55,3.214,0.78,us,us60007c68,2020-03-21T17:13:28.040Z,"288km ENE of Dili, East Timor",earthquake,7.7,9.6,0.167,10,reviewed,us,us
+2020-01-07T09:39:10.926Z,-7.4196,129.36,157.62,4.1,mb,,73,2.001,1,us,us70006vn9,2020-03-21T17:13:41.040Z,"223km WNW of Saumlaki, Indonesia",earthquake,9.5,7.9,0.14,14,reviewed,us,us
+2020-01-07T09:00:39.852Z,6.9095,126.7415,77.23,4.4,mb,,107,1.164,0.36,us,us60007c62,2020-03-21T17:13:28.040Z,"35km ESE of Jovellar, Philippines",earthquake,10.5,7.1,0.126,18,reviewed,us,us
+2020-01-07T08:27:11.477Z,1.7831,127.317,108.28,4.8,mb,,112,1.005,0.95,us,us70006vlm,2020-03-21T17:13:41.040Z,"77km W of Tobelo, Indonesia",earthquake,9.1,7.5,0.101,30,reviewed,us,us
+2020-01-07T07:04:41.097Z,2.2388,96.254,10,4.3,mb,,205,1.614,0.39,us,us70006vl6,2020-03-21T17:13:21.040Z,"30km SSW of Sinabang, Indonesia",earthquake,5.2,1.9,0.161,11,reviewed,us,us
+2020-01-07T06:05:19.759Z,2.3481,96.3575,17,6.3,mww,,33,1.599,0.97,us,us70006vkq,2020-03-21T17:13:08.040Z,"14km S of Sinabang, Indonesia",earthquake,4.3,1.7,0.043,53,reviewed,us,us
+2020-01-07T03:23:40.898Z,-6.4825,128.9769,197.25,4.1,mb,,92,4.812,0.57,us,us60007c5v,2020-03-21T17:13:28.040Z,"Banda Sea",earthquake,5.1,10.8,0.213,6,reviewed,us,us
+2020-01-07T02:36:33.098Z,-11.4575,118.3983,10,4.2,mb,,90,5.128,0.77,us,us60007c5u,2020-03-21T17:13:28.040Z,"209km SSW of Kahale, Indonesia",earthquake,8,1.9,0.176,9,reviewed,us,us
+2020-01-06T22:31:53.408Z,-11.3061,118.4931,10,5.3,mww,,41,4.543,0.69,us,us70006vg3,2020-03-21T17:13:16.040Z,"190km SSW of Panenggoede, Indonesia",earthquake,7.6,1.8,0.052,35,reviewed,us,us
+2020-01-06T15:08:03.412Z,8.8585,93.5608,33.37,4.9,mb,,81,2.893,0.62,us,us60007bgv,2020-03-21T17:13:28.040Z,"102km NNE of Mohean, India",earthquake,8.7,4.9,0.099,41,reviewed,us,us
+2020-01-06T12:31:55.035Z,-8.1815,118.4968,27.85,4.2,mb,,79,3.384,0.83,us,us60007bgs,2020-03-21T17:13:28.040Z,"10km NNW of Sampungu, Indonesia",earthquake,7,3.8,0.132,16,reviewed,us,us
+2020-01-06T07:25:34.691Z,5.2285,125.357,32.31,4.9,mww,,53,1.842,1.08,us,us70006v6h,2020-03-21T17:13:19.040Z,"22km SSW of Sarangani, Philippines",earthquake,5.8,3.6,0.093,11,reviewed,us,us
+2020-01-06T03:35:46.867Z,2.1986,128.0661,34.44,4.3,mb,,106,1.58,0.63,us,us60007bgc,2020-03-21T17:13:27.040Z,"52km N of Tobelo, Indonesia",earthquake,7.9,3.3,0.154,12,reviewed,us,us
+2020-01-06T02:58:29.017Z,6.097,126.1604,83.32,4.6,mb,,91,1.125,0.77,us,us70006v4z,2020-03-21T17:13:38.040Z,"29km S of Pondaguitan, Philippines",earthquake,8.3,3.3,0.071,59,reviewed,us,us
+2020-01-05T23:12:24.295Z,-8.0046,107.4548,38.11,4.9,mww,,29,0.572,1.08,us,us70006v30,2020-03-21T17:13:23.040Z,"48km SW of Bunisari, Indonesia",earthquake,6.5,4.6,0.089,12,reviewed,us,us
+2020-01-05T21:05:02.937Z,-11.7611,116.3191,10,4.4,mb,,54,3.904,0.86,us,us600079bd,2020-03-21T17:13:27.040Z,"South of Lombok, Indonesia",earthquake,7.9,1.9,0.123,19,reviewed,us,us
+2020-01-05T20:28:14.418Z,-6.4039,103.9835,49.36,4.6,mb,,190,2.273,0.79,us,us600079bc,2020-03-21T17:13:27.040Z,"118km S of Biha, Indonesia",earthquake,11.7,10.8,0.172,10,reviewed,us,us
+2020-01-05T18:58:52.561Z,6.1322,126.1063,81.4,5.2,mww,,81,1.068,0.94,us,us70006v1l,2020-03-21T17:13:16.040Z,"26km SSW of Pondaguitan, Philippines",earthquake,3.7,4.9,0.062,25,reviewed,us,us
+2020-01-05T17:46:10.847Z,-3.5419,131.2852,10,4.6,mb,,82,1.143,0.94,us,us70006v18,2020-03-21T17:13:21.040Z,"264km E of Amahai, Indonesia",earthquake,7.8,1.9,0.086,40,reviewed,us,us
+2020-01-05T14:59:54.616Z,-9.7443,119.0236,35,4.4,mb,,101,3.359,0.66,us,us600079b1,2020-03-21T17:13:27.040Z,"8km SSW of Panenggoede, Indonesia",earthquake,4.1,2,0.149,13,reviewed,us,us
+2020-01-05T07:45:48.151Z,-6.4004,129.165,211.43,4.9,mb,,36,2.636,0.56,us,us70006uxt,2020-03-21T17:13:36.040Z,"292km NW of Saumlaki, Indonesia",earthquake,7.6,7.3,0.071,63,reviewed,us,us
+2020-01-05T07:40:53.264Z,3.8349,126.3892,70.48,4.3,mb,,108,3.195,0.49,us,us600079am,2020-03-21T17:13:23.040Z,"201km SSE of Sarangani, Philippines",earthquake,5.5,7.9,0.095,31,reviewed,us,us
+2020-01-05T02:33:46.115Z,1.0536,126.3806,35,4.4,mb,,99,1.024,0.9,us,us600079ah,2020-03-21T17:13:26.040Z,"113km WNW of Kota Ternate, Indonesia",earthquake,10.2,2,0.17,10,reviewed,us,us
+2020-01-04T23:42:47.210Z,-2.1953,95.7176,10,4.4,mb,,129,3.941,0.53,us,us70006uu7,2020-03-21T17:13:35.040Z,"Southwest of Sumatra, Indonesia",earthquake,8.4,1.9,0.134,16,reviewed,us,us
+2020-01-04T22:55:47.842Z,-8.5966,112.5814,84.15,4.7,mb,,41,1.558,0.9,us,us70006utn,2020-03-21T17:13:05.040Z,"25km SW of Krajan Tambakrejo, Indonesia",earthquake,7.4,5.8,0.065,71,reviewed,us,us
+2020-01-04T18:21:12.290Z,-4.4263,131.4627,10,4.2,mb,,81,1.69,1.12,us,us700071qd,2020-03-21T17:13:50.040Z,"197km NW of Tual, Indonesia",earthquake,7.2,1.9,0.14,17,reviewed,us,us
+2020-01-04T03:40:45.726Z,1.5762,126.461,20.62,4.4,mb,,108,1.207,1.25,us,us700071q2,2020-03-21T17:13:50.040Z,"133km NW of Kota Ternate, Indonesia",earthquake,9.9,6.5,0.179,9,reviewed,us,us
+2020-01-03T23:36:10.314Z,4.601,125.9609,104.05,4.5,mb,,105,2.481,0.8,us,us70006uhx,2020-03-21T17:13:34.040Z,"104km SSE of Sarangani, Philippines",earthquake,5.8,7.1,0.082,44,reviewed,us,us
+2020-01-03T12:38:03.013Z,4.7914,125.6604,118.43,4.2,mb,,111,2.264,0.73,us,us7000714n,2020-03-21T17:13:49.040Z,"71km SSE of Sarangani, Philippines",earthquake,9.3,8.6,0.105,25,reviewed,us,us
+2020-01-03T12:13:24.203Z,3.8262,126.2471,59,4.1,mb,,160,6.089,0.26,us,us7000714l,2020-03-21T17:13:17.040Z,"194km SSE of Sarangani, Philippines",earthquake,12.3,7.2,0.127,18,reviewed,us,us
+2020-01-03T03:09:31.110Z,-0.12,125.0153,60.44,4.4,mb,,52,2.423,1.16,us,us70006u2f,2020-03-21T17:13:34.040Z,"115km SE of Lolayan, Indonesia",earthquake,8.3,10.1,0.123,19,reviewed,us,us
+2020-01-02T23:59:14.853Z,2.7525,128.9434,12.21,4.4,mb,,121,2.52,0.71,us,us70007144,2020-03-21T17:13:49.040Z,"153km NE of Tobelo, Indonesia",earthquake,9.9,3.5,0.139,15,reviewed,us,us
+2020-01-02T21:13:03.251Z,3.2052,127.2082,35,4.4,mb,,111,2.422,0.97,us,us70007145,2020-03-21T17:13:49.040Z,"186km NNW of Tobelo, Indonesia",earthquake,10.3,2,0.086,39,reviewed,us,us
+2020-01-02T19:58:09.585Z,8.9848,127.2106,10,4.5,mb,,126,2.496,0.61,us,us7000713z,2020-03-21T17:13:49.040Z,"100km E of Aras-asan, Philippines",earthquake,12.3,1.9,0.156,12,reviewed,us,us
+2020-01-02T14:03:19.322Z,2.7644,128.7084,38.66,4.8,mb,,96,2.39,0.76,us,us70006tk2,2020-03-21T17:13:33.040Z,"138km NE of Tobelo, Indonesia",earthquake,9.5,8.2,0.073,58,reviewed,us,us
+2020-01-02T11:25:04.368Z,-5.7527,124.976,10,5.6,mww,,23,3.947,0.97,us,us70006thw,2020-03-21T17:13:03.040Z,"264km E of Baubau, Indonesia",earthquake,5.9,1.7,0.054,33,reviewed,us,us
+2020-01-02T10:37:07.655Z,-7.8197,122.8645,271.34,4.5,mb,,94,1.021,0.8,us,us70006thf,2020-03-21T17:13:33.040Z,"73km NNE of Palue, Indonesia",earthquake,8,6.5,0.118,21,reviewed,us,us
+2020-01-02T08:22:22.365Z,8.0784,94.0198,10,4.3,mb,,107,4.058,0.68,us,us7000713k,2020-03-21T17:13:18.040Z,"78km E of Mohean, India",earthquake,10.2,1.9,0.137,15,reviewed,us,us
+2020-01-02T05:37:34.843Z,-6.3339,130.1259,133.27,4.5,mb,,89,2.009,0.95,us,us70006tf3,2020-03-21T17:13:32.040Z,"221km NW of Saumlaki, Indonesia",earthquake,6.8,7.8,0.102,28,reviewed,us,us
+2020-01-02T05:28:59.795Z,9.5255,138.1431,45.83,5,mww,,56,7.728,0.84,us,us70006tf2,2020-03-21T17:13:05.040Z,"2km NE of Yap, Micronesia",earthquake,9.5,5.7,0.08,15,reviewed,us,us
+2020-01-01T23:50:04.863Z,-7.2438,133.6026,14.08,4.4,mb,,144,2.398,0.57,us,us70006tcs,2020-03-21T17:13:05.040Z,"176km SSW of Dobo, Indonesia",earthquake,7.9,5.5,0.204,7,reviewed,us,us
+2020-01-01T19:50:46.097Z,1.9266,126.5968,35,4.1,mb,,124,1.381,1,us,us700070tg,2020-03-21T17:13:48.040Z,"152km NW of Kota Ternate, Indonesia",earthquake,10.5,2,0.166,10,reviewed,us,us
+2020-01-01T14:36:23.685Z,2.1446,126.8206,39.39,4.4,mb,,79,1.468,0.69,us,us70006t5p,2020-03-21T17:13:31.040Z,"140km WNW of Tobelo, Indonesia",earthquake,4.7,9,0.102,31,reviewed,us,us
+2020-01-01T12:28:34.164Z,0.1936,121.5572,141.27,4.1,mb,,140,1.196,0.24,us,us700070t6,2020-03-21T17:13:48.040Z,"38km S of Lemito, Indonesia",earthquake,14.1,8.7,0.145,13,reviewed,us,us
+2020-01-01T06:01:14.184Z,-6.7009,129.7667,155.06,4.4,mb,,97,1.982,0.56,us,us70006t2q,2020-03-21T17:13:30.040Z,"219km NW of Saumlaki, Indonesia",earthquake,8.4,6.1,0.11,24,reviewed,us,us
+2020-01-01T04:38:07.864Z,2.0047,126.7211,50.97,4.4,mb,,74,1.384,0.6,us,us700070t0,2020-03-21T17:13:47.040Z,"146km WNW of Tobelo, Indonesia",earthquake,5.5,8.2,0.095,32,reviewed,us,us

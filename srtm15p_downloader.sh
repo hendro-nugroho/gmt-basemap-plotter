@@ -9,7 +9,6 @@
 # Author: Hendro Nugroho -- 2020/04/15
 #
 # -----------------------------------------------------------------------------
-
 #
 # Download gridfile from TOPEX.UCSD.EDU (Y/N?)
 #
@@ -33,18 +32,34 @@ select yn in "Yes" "No" "Exit"; do
             srtm15="SRTM15+V2.1.nc"
 
             if [ ! -f "$srtm15" ]; then
-                wget -c ftp://topex.ucsd.edu/pub/srtm15_plus/SRTM15+V2.1.nc
+
+                wwg=`which wget`
+                wcu=`which curl`
+
+                if [[ ! -x $wwg ]] && [[ ! -x $wcu ]]; then
+                    echo ""
+                    echo "You don't have WGET or CURL to download the file"
+                    echo "Please install one of them and rerun the script"
+                    echo "OR you can download the file manually from your browser"
+                    echo ""
+                fi
+
+                if [[ -x `which wget` ]]; then
+                    wget -c ftp://topex.ucsd.edu/pub/srtm15_plus/SRTM15+V2.1.nc
+                else
+                    curl -o SRTM15+V2.1.nc ftp://topex.ucsd.edu/pub/srtm15_plus/SRTM15+V2.1.nc
+                    # you can expand it if you want to have ftp/get option
+                fi
             fi
 
             popd
-
-            echo "Working inside $dir to cut the grid file"
-            echo "and to create illumination file"
 
             topo="grd/top15idn.grd"
             topoi="grd/top15idni.grd"
 
             if [ ! -f "$topo" ]; then
+                echo "Working inside $dir to cut the grid file"
+                echo "and to create illumination file"
                 gmt grdcut grd/$srtm15 -R93/143/-15/10 -G$topo
             fi
 

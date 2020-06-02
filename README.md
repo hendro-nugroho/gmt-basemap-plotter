@@ -24,20 +24,23 @@ Quickly plot multiple basemaps from inputted region of interests (ROIs) using [G
 |  2 -  >1   | Full                 |  0.5&deg;            |   25 km   |
 |  1 -  >0   | Full                 |  0.25&deg;           |   10 km   |
 
+   * Timor-Leste boundary is added to include Oecussi enclave.
    * **Seismicity** data downloaded from [IRIS Wilber3](http://ds.iris.edu/wilber3/find_event) website with the following criteria
       1. Covering Longitude from 93&deg; to 143&deg; East, Latitude from -15&deg; South to 10&deg; North,
       2. Events dated from 1971-01-01 to 2020-04-16
       3. Magnitude >3.0 with depth ranges from 0-300 km [shallow to medium earthquakes]. There are 167349 total events recorded.
       4. Earthquake events grouped into two categories: *Shallow Events (0-50 km depth)* and *Intermediate Events (>50-300 km depth)*,
-5. The features are activated by switches (**s1=1** and **s2=1** representing shallow and intermediate events, respectively).
+      5. The features are activated by switches (**s1=1** and **s2=1** representing shallow and intermediate events, respectively).
+* **Fetch_eq.sh** added to get earthquake data from NEIC-USGS. Included are earthquake data from 1970 to June, 2nd 2020. Earthquake data criteria are similar to those from IRIS.
 * **Volcanoes** data are downloaded from Global Volcanism Program ([Global Volcanism Program, 2013. Volcanoes of the World, v. 4.7.6. Venzke, E (ed.). Smithsonian Institution]( https://doi.org/10.5479/si.GVP.VOTW4-2013). Downloaded 25 Feb 2019). Plotting the feature require switch activation (**v=1**).
 * [**Global CMT**](https://www.globalcmt.org) data is available from 1976 to 2016 ( [Dziewonski et al., 1981](https://doi:10.1029/JB086iB04p02825); [Ekstrom et al., 2012](https://doi:10.1016/j.pepi.2012.04.002) ) and it is activated using **g1=1** and **g2=1** switches.
 * Option to use [**Scientific colour-maps.** Crameri, F. (2018)](http://doi.org/10.5281/zenodo.1243862) palette (pls. Look under **cpt/scm6** folder). User need to implement it in the codes manually.
-* Plate boundaries by [Bird (2003)](https://doi.org/10.1029/2001GC000252) can be activated using **p=1** switch.
+* Plate boundaries by [Bird (2003)](https://doi.org/10.1029/2001GC000252) can be activated using **p=1** switch. Alternatively, NUVEL plate boundaries are available for plotting by switching the plate variable.
+* Now you can plot slab2.0 model ([Hayes et al., 2018](https://doi.org/10.1126/science.aat4723)) using **slab2-plotter.sh** script provided.
 
 ## **Files and Folders:**
 
-Currently there are three main scripts: **_basemap_plotter.sh_**, **seismicity.sh** and **_srtm15p_downloader.sh_** in the main folder beside the **_README.md_** (This file). Seven folders are there to put cpt files (**cpt** folder), grid files (**grd** folder), various input data (**data** folder), global cmt data (**gcmt** folder), seismic event data (**seism** folder), postscript results (**outputs**), and images of this document (**images** folder). Grid files inside grd folder are  tracked and uploaded to GitHub LFS due to their sizes. 
+Currently there are five main scripts: **_basemap_plotter.sh_**, **seismicity.sh**,**_srtm15p_downloader.sh_**, **slab2-plotter.sh**, and **fetch_eq.sh** in the main folder beside the **_README.md_** (This file). Eight folders are there to put cpt files (**cpt** folder), grid files (**grd** folder), various input data (**data** folder), global cmt data (**gcmt** folder), seismic event data (**seism** folder), postscript results (**outputs**), slab 2.0 data (**slab2** folder), and images of this document (**images** folder). Grid files inside grd folder are  tracked and uploaded to GitHub LFS due to their sizes. 
 
 <div align="center"><img src="./images/ff.jpg" alt="files and folders" style="zoom:30%;" /></div>
 
@@ -57,7 +60,7 @@ Aceh.ps 94.88   98.32   1.28    6.21    0   BL  BR
 Sumut.ps   96.83   100.66  -1.00    4.33    0   TR  BL
 ```
 
-You should have two grid files when you clone this repository. But if you don't get/have SRTM15 plus grid file, **_srtm15p_downloader.sh_** will download and prepare the file in the grd directory. Please be patient **SRTM15+V2.1.nc** is a big file (~6Gb). After download process is completed, two new grid files will be created: **srtm15idn.grd** (DEM file covering Indonesia region) and **srtm15idni.grd** (for illumination).
+You should have two grid files when you clone this repository. But if you don't get/have SRTM15 plus grid file, **_srtm15p_downloader.sh_** will download and prepare the file in the grd directory. Please be patient **SRTM15+V2.1.nc** is a big file (~6Gb). After downloading process is completed, two new grid files will be created: **srtm15idn.grd** (DEM file covering Indonesia region) and **srtm15idni.grd** (for illumination).
 
 To run the script independently, simply type in the script name in the terminal windows (or otherwise script will automatically called from **basemap_plotter.sh**):
 
@@ -164,6 +167,8 @@ Crameri, F. (2018). Scientific colour-maps. Zenodo. http://doi.org/10.5281/zenod
 Dziewonski, A. M.,  Chou, T.‐A., and  Woodhouse, J. H. ( 1981),  Determination of earthquake source parameters from waveform data for studies of global and regional seismicity, *J. Geophys. Res.*,  86( B4),  2825– 2852, doi:[10.1029/JB086iB04p02825](https://doi.org/10.1029/JB086iB04p02825).
 
 Ekström, G., Nettles, M., & Dziewoński, A. M. (2012). The global CMT project 2004–2010: Centroid-moment tensors for 13,017 earthquakes. *Physics of the Earth and Planetary Interiors*, *200*, 1-9. doi: [10.1016/j.pepi.2012.04.002](https://doi.org/10.1016/j.pepi.2012.04.002)
+
+Hayes, G. P., Moore, G. L., Portner, D. E., Hearne, M., Flamme, H.,  Furtney, M., & Smoczyk, G. M. (2018). Slab2, a comprehensive  subduction zone geometry model. *Science*, *362*(6410), 58-61. doi: https://doi.org/10.1126/science.aat4723
 
 Wessel, P.,  Smith, W. H. F.,  Scharroo, R.,  Luis, J. and  Wobbe, F. ( 2013),  Generic Mapping Tools: Improved Version Released, *Eos Trans. AGU*,  94( 45),  409, https://doi.org/10.1002/2013EO450001
 

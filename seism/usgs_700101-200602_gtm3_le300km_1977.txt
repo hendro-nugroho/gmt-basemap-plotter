@@ -1,0 +1,620 @@
+time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+1977-12-31T19:57:50.900Z,-4.992,133.673,34,4.6,mb,,,,,us,usp0000sag,2014-11-06T23:21:46.193Z,"near the south coast of Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-12-31T15:43:01.400Z,8.492,126.06,63,5.1,mb,,,,,us,usp0000sad,2014-11-06T23:21:46.189Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-12-31T11:40:40.500Z,8.553,126.033,47,5.3,mb,,,,,us,usp0000sab,2015-05-13T18:53:14.000Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-12-31T00:56:33.600Z,8.507,126.058,46,5.2,mb,,,,,us,usp0000sa4,2014-11-06T23:21:46.181Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-12-30T22:44:36.700Z,8.436,125.777,55,4.6,mb,,,,,us,usp0000sa2,2014-11-06T23:21:46.179Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-12-29T11:55:35.900Z,8.523,126.009,53,5.3,mb,,,,,us,usp0000s9e,2015-05-13T18:53:14.000Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-12-29T08:23:43.900Z,-7.179,129.3,179,5.3,mb,,,,,us,usp0000s9b,2014-11-06T23:21:46.157Z,"Kepulauan Babar, Indonesia",earthquake,,,,,reviewed,us,us
+1977-12-29T01:36:54.000Z,8.543,126.037,52,5.3,mb,,,,,us,usp0000s98,2014-11-06T23:21:46.155Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-12-28T23:13:19.000Z,-6.18,130.425,150,5.3,mb,,,,,us,usp0000s96,2014-11-06T23:21:46.152Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-12-28T06:44:36.000Z,8.534,126.239,53,4.9,mb,,,,,us,usp0000s8x,2014-11-06T23:21:46.145Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-12-26T06:44:52.400Z,2.507,126.825,36,5.5,mb,,,,,us,usp0000s83,2016-11-10T00:17:42.093Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-12-25T08:23:22.800Z,-7.317,128.673,106,5.4,mb,,,,,us,usp0000s7u,2015-05-13T18:53:14.000Z,"Kepulauan Barat Daya, Indonesia",earthquake,,,,,reviewed,us,us
+1977-12-24T09:50:23.600Z,-5.422,129.677,232,5,mb,,,,,us,usp0000s7f,2014-11-06T23:21:46.099Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-12-23T10:56:25.900Z,6.581,123.855,53,5.4,mb,,,,,us,usp0000s72,2014-11-06T23:21:46.086Z,"Moro Gulf, Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-12-23T10:25:17.300Z,-10.726,117.608,33,4.9,mb,,,,,us,usp0000s70,2014-11-06T23:21:46.084Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-12-22T18:13:06.800Z,-8.343,117.622,33,5.1,mb,,,,,us,usp0000s6s,2014-11-06T23:21:46.077Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-12-22T12:24:14.600Z,-1.106,126.568,43,5.2,mb,,,,,us,usp0000s6j,2014-11-06T23:21:46.070Z,"Kepulauan Sula, Indonesia",earthquake,,,,,reviewed,us,us
+1977-12-21T21:15:01.700Z,-0.958,126.719,33,5.6,mb,,,,,us,usp0000s6c,2016-11-10T00:15:27.592Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-12-21T18:06:10.600Z,-0.956,126.77,20,5.4,mb,,,,,us,usp0000s6a,2015-05-13T18:53:14.000Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-12-21T16:52:54.500Z,-8.497,123.532,142,4.7,mb,,,,,us,usp0000s68,2014-11-06T23:21:46.060Z,"Flores region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-12-20T13:44:43.000Z,-9.026,125.071,33,4.6,mb,,,,,us,usp0000s5n,2014-11-06T23:21:46.042Z,"East Timor region",earthquake,,,,,reviewed,us,us
+1977-12-20T11:31:34.800Z,-7.838,117.685,33,5.6,mb,,,,,us,usp0000s5h,2020-03-27T19:09:10.806Z,"Bali Sea",earthquake,,,,,reviewed,us,us
+1977-12-20T09:53:35.600Z,-4.43,102.475,105,5.1,mb,,,,,us,usp0000s5g,2014-11-06T23:21:46.038Z,"southern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-12-19T07:39:49.100Z,-4.128,137.507,136,5.1,mb,,,,,us,usp0000s4v,2014-11-06T23:21:46.020Z,"Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-12-17T01:38:50.400Z,-11.047,119.349,33,5,mb,,,,,us,usp0000s40,2014-11-06T23:21:45.998Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-12-16T17:12:09.000Z,-6.213,130.065,152,4.5,mb,,,,,us,usp0000s3s,2014-11-06T23:21:45.991Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-12-15T10:53:04.700Z,0.516,98.638,50,4.9,mb,,,,,us,usp0000s31,2014-11-06T23:21:45.973Z,"Nias region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-12-14T17:42:43.200Z,5.236,125.774,45,5.2,mb,,,,,us,usp0000s2g,2014-11-06T23:21:45.958Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-12-13T15:42:10.200Z,-11.258,118.106,33,5,mb,,,,,us,usp0000s1x,2014-11-06T23:21:45.943Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-12-13T14:27:16.600Z,-0.135,124.094,56,5.7,mb,,,,,us,usp0000s1w,2016-11-10T00:11:38.706Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-12-13T08:47:25.700Z,8.064,137.03,44,5.2,mb,,,,,us,usp0000s1r,2014-11-06T23:21:45.939Z,"State of Yap, Federated States of Micronesia",earthquake,,,,,reviewed,us,us
+1977-12-10T20:16:14.800Z,-8.786,123.903,33,5.2,mb,,,,,us,usp0000s0m,2014-11-06T23:21:45.909Z,"Flores region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-12-09T18:46:33.200Z,-3.084,128.88,57,5.1,mb,,,,,us,usp0000s01,2014-11-06T23:21:45.893Z,"Seram, Indonesia",earthquake,,,,,reviewed,us,us
+1977-12-09T17:47:47.400Z,-4.89,139.208,35,5.2,mb,,,,,us,usp0000s00,2014-11-06T23:21:45.891Z,"Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-12-09T14:37:44.800Z,-7.175,129.341,141,5.6,mb,,,,,us,usp0000rzx,2016-11-10T00:09:52.662Z,"Kepulauan Babar, Indonesia",earthquake,,,,,reviewed,us,us
+1977-12-07T11:26:20.900Z,-6.717,128.782,33,5.2,mb,,,,,us,usp0000rz3,2014-11-06T23:21:45.862Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-12-06T17:52:35.200Z,-11.221,118.256,33,5.7,mb,,,,,us,usp0000ryk,2016-11-10T00:08:11.284Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-12-06T04:31:59.500Z,-8.905,123.344,107,5.2,mb,,,,,us,usp0000ry8,2014-11-06T23:21:45.802Z,"Flores region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-12-05T06:24:22.900Z,-8.351,112.64,119,4.6,mb,,,,,us,usp0000rxx,2014-11-06T23:21:45.795Z,"Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-12-04T19:36:12.100Z,-7.374,128.05,132,4.8,mb,,,,,us,usp0000rxs,2014-11-06T23:21:45.792Z,"Kepulauan Barat Daya, Indonesia",earthquake,,,,,reviewed,us,us
+1977-12-03T13:41:20.900Z,3.511,95.892,41,5.9,ms,,,,,us,usp0000rx5,2016-11-10T00:06:52.054Z,"off the west coast of northern Sumatra",earthquake,,,,,reviewed,us,us
+1977-12-03T12:50:22.500Z,-11.373,118.132,33,5.3,mb,,,,,us,usp0000rx4,2014-11-06T23:21:45.771Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-30T13:57:06.400Z,-11.671,116.205,33,5.1,mb,,,,,us,usp0000rvp,2014-11-06T23:21:45.690Z,"south of Lombok, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-29T18:23:02.400Z,-10.857,119.172,33,4.9,mb,,,,,us,usp0000rvc,2014-11-06T23:21:45.678Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-29T11:55:11.900Z,-11.788,116.929,33,4.9,mb,,,,,us,usp0000rva,2014-11-06T23:21:45.676Z,"south of Lombok, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-28T13:47:27.400Z,3.619,95.313,56,4.4,mb,,,,,us,usp0000ruy,2014-11-06T23:21:45.642Z,"off the west coast of northern Sumatra",earthquake,,,,,reviewed,us,us
+1977-11-28T12:52:47.400Z,2.584,128.368,173,4.5,mb,,,,,us,usp0000ruw,2014-11-06T23:21:45.631Z,"Halmahera, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-28T10:35:54.600Z,-7.584,108.642,114,4.7,mb,,,,,us,usp0000ruu,2014-11-06T23:21:45.620Z,"Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-28T06:12:55.500Z,-5.982,105.545,88,5,mb,,,,,us,usp0000rum,2014-11-06T23:21:45.581Z,"Sunda Strait, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-27T21:53:18.100Z,3.053,126.384,61,5.3,mb,,,,,us,usp0000ru2,2014-11-06T23:21:45.561Z,"Kepulauan Talaud, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-27T19:49:10.400Z,-10.977,121.328,33,5.3,mb,,,,,us,usp0000rtz,2014-11-06T23:21:45.558Z,"Savu Sea",earthquake,,,,,reviewed,us,us
+1977-11-27T09:33:47.100Z,-0.829,120.6,65,5.5,mb,,,,,us,usp0000rth,2020-04-17T22:20:58.053Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-25T11:09:53.300Z,0.673,125.188,79,3.7,mb,,,,,us,usp0000rs1,2014-11-06T23:21:45.475Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-11-23T16:11:16.100Z,-8.963,110.407,82,5.2,mb,,,,,us,usp0000rpm,2014-11-06T23:21:45.403Z,"Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-22T16:46:40.700Z,-6.513,129.442,33,5.6,mb,,,,,us,usp0000rnp,2014-11-06T23:21:45.373Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-11-19T17:33:28.400Z,-10.125,117.436,33,4.9,mb,,,,,us,usp0000rm5,2014-11-06T23:21:45.327Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-18T10:17:41.000Z,-4.353,102.022,33,5.9,ms,,,,,us,usp0000rka,2020-03-27T19:02:26.717Z,"southern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-18T04:55:05.000Z,6.82,126.638,89,4.9,mb,,,,,us,usp0000rk6,2014-11-06T23:21:45.295Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-11-17T22:36:34.000Z,-3.284,130.106,33,5.1,mb,,,,,us,usp0000rjx,2014-11-06T23:21:45.286Z,"Seram, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-17T19:16:05.500Z,7.822,126.095,182,4.6,mb,,,,,us,usp0000rjt,2014-11-06T23:21:45.283Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-11-17T17:18:29.000Z,-5.987,104.841,66,5.5,mb,,,,,us,usp0000rjp,2020-03-27T19:01:55.635Z,"southern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-16T15:51:03.600Z,0.025,123.208,153,5.2,mb,,,,,us,usp0000rj0,2014-11-06T23:21:45.257Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-16T15:37:21.500Z,-0.026,123.852,104,5.1,mb,,,,,us,usp0000rhz,2014-11-06T23:21:45.257Z,"Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-16T07:12:19.700Z,8.545,126.291,94,5.1,mb,,,,,us,usp0000rhs,2014-11-06T23:21:45.250Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-11-14T17:58:34.800Z,-11.451,116.965,33,5.3,mb,,,,,us,usp0000rgv,2014-11-06T23:21:45.223Z,"south of Lombok, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-14T16:45:12.600Z,0.524,98.722,33,4.8,mb,,,,,us,usp0000rgu,2014-11-06T23:21:45.221Z,"Nias region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-14T07:30:27.200Z,6.825,123.613,35,5.2,mb,,,,,us,usp0000rgg,2014-11-06T23:21:45.211Z,"Moro Gulf, Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-11-14T04:54:47.900Z,-2.097,138.504,33,5,mb,,,,,us,usp0000rg8,2014-11-06T23:21:45.205Z,"Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-12T22:54:28.000Z,4.138,95.739,81,4.7,mb,,,,,us,usp0000rfm,2014-11-06T23:21:45.180Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-12T13:24:23.100Z,-6.289,130.632,131,4.8,mb,,,,,us,usp0000rfc,2014-11-06T23:21:45.173Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-11-10T09:13:37.000Z,-9.519,123.262,37,5.4,ms,,,,,us,usp0000reu,2014-11-06T23:21:45.154Z,"Timor region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-09T05:25:24.500Z,-7.962,113.397,162,5,mb,,,,,us,usp0000re8,2014-11-06T23:21:45.136Z,"Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-07T05:33:08.800Z,-4.136,139.508,50,4.3,mb,,,,,us,usp0000rdj,2014-11-06T23:21:45.115Z,"Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-06T17:17:44.200Z,0.192,123.28,33,5.5,mb,,,,,us,usp0000rdc,2020-03-27T19:01:20.409Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-04T16:55:12.300Z,-10.229,117.369,33,4.9,mb,,,,,us,usp0000rcf,2014-11-06T23:21:45.081Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-04T16:02:34.600Z,-10.015,117.369,33,4.9,mb,,,,,us,usp0000rce,2014-11-06T23:21:45.080Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-02T16:16:30.400Z,-9.024,123.925,108,4.8,mb,,,,,us,usp0000rbh,2014-11-06T23:21:45.051Z,"Timor region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-01T20:28:29.200Z,-5.926,105.79,100,5.3,mb,,,,,us,usp0000rb7,2014-11-06T23:21:45.042Z,"Sunda Strait, Indonesia",earthquake,,,,,reviewed,us,us
+1977-11-01T04:11:54.900Z,-7.485,128.466,165,5,mb,,,,,us,usp0000rb2,2014-11-06T23:21:45.037Z,"Kepulauan Barat Daya, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-31T23:45:23.300Z,-10.238,118.033,33,5,mb,,,,,us,usp0000raz,2014-11-06T23:21:45.034Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-31T18:56:34.300Z,-10.447,117.526,39,5,mb,,,,,us,usp0000rau,2014-11-06T23:21:45.030Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-31T16:59:02.900Z,2.773,128.787,230,4.5,mb,,,,,us,usp0000rat,2014-11-06T23:21:45.029Z,"Halmahera, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-31T08:14:09.700Z,-11.437,118.225,33,6.3,mb,,,,,us,usp0000raj,2014-11-06T23:21:45.022Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-30T01:50:59.100Z,-10.213,118.729,33,5.7,mb,,,,,us,usp0000r9v,2016-11-09T23:50:48.291Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-29T16:25:23.100Z,0.204,124.36,69,5.4,mb,,,,,us,usp0000r9g,2014-11-06T23:21:44.990Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-28T10:11:03.500Z,-10.568,118.74,33,4.8,mb,,,,,us,usp0000r8t,2014-11-06T23:21:44.968Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-25T22:50:02.700Z,-10.216,118.875,33,5,mb,,,,,us,usp0000r7m,2014-11-06T23:21:44.917Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-25T20:52:37.700Z,-3.078,141.71,52,4.8,mb,,,,,us,usp0000r7h,2014-11-06T23:21:44.914Z,"New Guinea, Papua New Guinea",earthquake,,,,,reviewed,us,us
+1977-10-25T06:50:44.600Z,-9.693,117.221,33,5.6,mb,,,,,us,usp0000r79,2016-11-09T23:48:14.806Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-24T22:08:48.700Z,-7.104,129.159,167,5.3,mb,,,,,us,usp0000r76,2014-11-06T23:21:44.903Z,"Kepulauan Babar, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-24T13:43:45.300Z,-11.102,118.838,33,4.8,mb,,,,,us,usp0000r70,2014-11-06T23:21:44.898Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-23T00:25:02.300Z,1.131,121.469,88,4.2,mb,,,,,us,usp0000r6e,2014-11-06T23:21:44.863Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-21T11:48:34.200Z,-10.402,117.667,33,5.7,mb,,,,,us,usp0000r5q,2014-11-06T23:21:44.844Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-20T21:51:03.400Z,-2.885,139.044,37,5.3,mb,,,,,us,usp0000r5b,2014-11-06T23:21:44.830Z,"near the north coast of Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-20T13:16:17.400Z,2.429,128.419,76,5.5,mb,,,,,us,usp0000r55,2020-03-27T18:59:05.083Z,"Halmahera, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-20T11:35:23.500Z,-9.776,117.098,33,5.3,ms,,,,,us,usp0000r52,2014-11-06T23:21:44.823Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-20T07:38:30.400Z,-4.504,128.31,33,4.7,mb,,,,,us,usp0000r4u,2014-11-06T23:21:44.752Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-10-20T02:39:48.800Z,-7.808,127.453,177,5,mb,,,,,us,usp0000r4p,2014-11-06T23:21:44.736Z,"Kepulauan Barat Daya, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-19T11:29:12.000Z,-1.867,126.576,88,5,mb,,,,,us,usp0000r44,2014-11-06T23:21:44.720Z,"Kepulauan Sula, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-18T18:26:42.000Z,-7.51,128.291,152,5.3,mb,,,,,us,usp0000r3n,2014-11-06T23:21:44.705Z,"Kepulauan Barat Daya, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-18T08:31:06.200Z,-6.329,130.379,113,5.4,mb,,,,,us,usp0000r3e,2014-11-06T23:21:44.699Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-10-18T07:11:56.000Z,-10.232,118.183,33,5.3,mb,,,,,us,usp0000r3d,2014-11-06T23:21:44.699Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-18T06:07:21.800Z,2.012,132.66,33,5.1,mb,,,,,us,usp0000r3b,2014-11-06T23:21:44.696Z,"Palau region",earthquake,,,,,reviewed,us,us
+1977-10-17T14:57:47.800Z,-2.002,126.763,33,4.9,mb,,,,,us,usp0000r32,2014-11-06T23:21:44.688Z,"Ceram Sea, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-17T10:41:09.100Z,-0.949,126.892,70,5.6,mb,,,,,us,usp0000r2y,2016-11-09T23:44:17.763Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-10-17T10:33:16.700Z,-0.868,127.069,33,5,mb,,,,,us,usp0000r2x,2014-11-06T23:21:44.683Z,"Halmahera, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-17T09:53:35.400Z,-9.729,117.107,33,5,mb,,,,,us,usp0000r2w,2014-11-06T23:21:44.682Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-17T09:23:52.300Z,-9.75,118.32,33,3.6,ms,,,,,us,usp0000r2v,2014-11-06T23:21:44.681Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-16T23:13:01.800Z,-9.987,117.596,33,5,mb,,,,,us,usp0000r2r,2014-11-06T23:21:44.665Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-16T21:22:08.500Z,-9.752,117.155,33,5.5,mb,,,,,us,usp0000r2n,2014-11-06T23:21:44.662Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-16T21:09:17.700Z,-9.733,117.118,33,5.8,ms,,,,,us,usp0000r2m,2016-11-09T23:43:47.276Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-16T01:46:28.900Z,-11.457,118.055,33,5.2,mb,,,,,us,usp0000r22,2014-11-06T23:21:44.643Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-15T02:12:36.300Z,0.514,126.593,69,5.4,mb,,,,,us,usp0000r1v,2014-11-06T23:21:44.637Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-10-14T20:26:20.500Z,-11.661,120.973,33,5.2,mb,,,,,us,usp0000r1t,2014-11-06T23:21:44.635Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-14T04:24:50.900Z,-9.263,117.541,33,4.6,mb,,,,,us,usp0000r1f,2014-11-06T23:21:44.624Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-13T21:18:56.900Z,9.458,93.794,33,5.1,mb,,,,,us,usp0000r1b,2014-11-06T23:21:44.620Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,us
+1977-10-13T07:50:41.300Z,9.487,93.912,33,4.8,mb,,,,,us,usp0000r11,2014-11-06T23:21:44.610Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,us
+1977-10-13T06:57:27.500Z,9.5,93.929,33,5,mb,,,,,us,usp0000r10,2014-11-06T23:21:44.610Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,us
+1977-10-13T06:49:36.700Z,9.249,125.57,44,5.1,mb,,,,,us,usp0000r0z,2014-11-06T23:21:44.609Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-10-12T02:47:50.400Z,-4.278,102.728,33,5.4,mb,,,,,us,usp0000r09,2014-11-06T23:21:44.582Z,"southern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-12T01:22:09.200Z,-11.165,119.379,33,5.6,mb,,,,,us,usp0000r08,2016-11-09T23:42:14.738Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-11T04:55:39.800Z,-6.67,130.894,61,4.8,mb,,,,,us,usp0000qzt,2014-11-06T23:21:44.566Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-10-11T02:04:35.600Z,-9.992,117.465,33,5.1,mb,,,,,us,usp0000qzr,2014-11-06T23:21:44.563Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-09T16:57:04.000Z,-9.995,117.51,33,5.6,mb,,,,,us,usp0000qz8,2016-11-09T23:41:02.910Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-09T12:16:56.200Z,-10.162,117.376,33,5.3,mb,,,,,us,usp0000qz5,2014-11-06T23:21:44.546Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-09T10:03:21.900Z,-9.925,117.29,33,5.6,mb,,,,,us,usp0000qz2,2016-11-09T23:41:02.426Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-09T00:54:17.700Z,-9.945,117.493,33,4.9,mb,,,,,us,usp0000qyy,2014-11-06T23:21:44.538Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-08T19:30:01.800Z,-10.019,117.303,33,5.2,mb,,,,,us,usp0000qyv,2014-11-06T23:21:44.535Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-08T18:59:47.900Z,-9.963,117.428,33,5.2,mb,,,,,us,usp0000qyt,2014-11-06T23:21:44.534Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-08T18:08:23.400Z,-9.945,117.344,33,5.4,mb,,,,,us,usp0000qys,2014-11-06T23:21:44.532Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-08T10:52:32.600Z,-9.815,117.36,33,5.4,mb,,,,,us,usp0000qyq,2014-11-06T23:21:44.531Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-08T06:55:59.100Z,-10.321,117.599,33,5,mb,,,,,us,usp0000qym,2014-11-06T23:21:44.528Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-08T04:34:05.900Z,-9.995,117.5,33,5,mb,,,,,us,usp0000qyj,2014-11-06T23:21:44.527Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-08T01:58:54.200Z,-10.079,117.195,33,5.4,mb,,,,,us,usp0000qyg,2014-11-06T23:21:44.524Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-08T00:12:44.600Z,-10.942,119.092,33,5,mb,,,,,us,usp0000qye,2014-11-06T23:21:44.523Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-07T23:23:46.800Z,-9.998,117.146,33,5.5,mb,,,,,us,usp0000qyd,2014-11-06T23:21:44.522Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-07T22:47:03.900Z,-9.893,117.38,33,5.7,ms,,,,,us,usp0000qyb,2014-11-06T23:21:44.520Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-07T21:36:11.300Z,-9.916,117.29,33,5.8,mb,,,,,us,usp0000qya,2016-11-09T23:40:05.795Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-07T21:26:14.600Z,-10.014,117.514,33,5.1,mb,,,,,us,usp0000qy9,2014-11-06T23:21:44.518Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-07T19:10:04.000Z,-9.828,117.254,33,5.4,mb,,,,,us,usp0000qy8,2014-11-06T23:21:44.516Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-07T19:04:16.800Z,-10.008,117.158,33,5.7,mb,,,,,us,usp0000qy7,2016-11-09T23:40:05.232Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-07T17:58:21.300Z,-9.858,117.128,33,5.3,mb,,,,,us,usp0000qy5,2014-11-06T23:21:44.513Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-07T17:36:46.200Z,-9.845,117.262,33,5.8,ms,,,,,us,usp0000qy4,2016-11-09T23:40:04.699Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-07T17:01:13.200Z,-9.932,117.318,33,5.6,ms,,,,,us,usp0000qy3,2016-11-09T23:40:04.198Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-07T16:50:49.100Z,-9.844,117.311,33,5.2,mb,,,,,us,usp0000qy2,2014-11-06T23:21:44.511Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-07T16:05:13.800Z,-9.972,117.566,33,5,mb,,,,,us,usp0000qy1,2014-11-06T23:21:44.510Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-07T15:20:04.000Z,-11.156,119.34,33,5.2,mb,,,,,us,usp0000qy0,2014-11-06T23:21:44.508Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-07T14:38:36.600Z,-11.265,119.346,33,5.5,mb,,,,,us,usp0000qxz,2015-05-13T18:53:14.000Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-07T12:23:05.600Z,-9.875,117.292,33,5.2,mb,,,,,us,usp0000qxx,2014-11-06T23:21:44.505Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-07T12:10:43.700Z,-9.952,117.319,33,6.3,ms,,,,,us,usp0000qxw,2016-11-10T00:48:09.939Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-07T10:50:38.900Z,-10.09,117.379,33,5.1,mb,,,,,us,usp0000qxv,2014-11-06T23:21:44.503Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-07T08:30:56.600Z,-9.91,117.299,33,5.4,mb,,,,,us,usp0000qxt,2014-11-06T23:21:44.501Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-07T08:25:40.800Z,-5.104,133.9,33,4.6,mb,,,,,us,usp0000qxs,2014-11-06T23:21:44.499Z,"Kepulauan Kai, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-07T06:24:02.500Z,-9.828,117.417,33,5,mb,,,,,us,usp0000qxr,2014-11-06T23:21:44.498Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-07T05:39:36.500Z,-10.081,117.656,33,5.6,mb,,,,,us,usp0000qxq,2016-11-09T23:40:03.639Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-07T04:45:43.200Z,-9.965,117.327,33,5.7,mb,,,,,us,usp0000qxp,2016-11-09T23:40:03.131Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-06T22:13:27.000Z,-4.794,103.179,108,5.4,mb,,,,,us,usp0000qxn,2014-11-06T23:21:44.494Z,"southern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-06T02:04:09.200Z,9.982,126.056,74,5,mb,,,,,us,usp0000qxa,2014-11-06T23:21:44.483Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-10-05T18:51:10.100Z,-11.191,117.167,33,5.6,mb,,,,,us,usp0000qx6,2016-11-09T23:38:56.367Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-05T18:04:11.800Z,-11.483,117.383,33,5.5,mb,,,,,us,usp0000qx5,2016-11-09T23:38:55.659Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-03T22:44:52.300Z,0.482,98.733,13,5.5,mb,,,,,us,usp0000qwa,2015-05-13T18:53:14.000Z,"Nias region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-03T19:18:19.900Z,-8.235,125.119,63,5.3,mb,,,,,us,usp0000qw8,2014-11-06T23:21:44.448Z,"East Timor region",earthquake,,,,,reviewed,us,us
+1977-10-03T00:13:39.200Z,5.445,125.929,111,5.1,mb,,,,,us,usp0000qvw,2014-11-06T23:21:44.434Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-10-02T11:33:37.200Z,-7.543,128.062,153,4.7,mb,,,,,us,usp0000qvq,2014-11-06T23:21:44.428Z,"Kepulauan Barat Daya, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-01T20:02:40.400Z,-10.186,117.497,19,5.4,mb,,,,,us,usp0000qve,2014-11-06T23:21:44.420Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-01T13:37:25.100Z,-10.113,117.605,24,5.2,mb,,,,,us,usp0000qvb,2014-11-06T23:21:44.417Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-10-01T13:06:08.100Z,9.479,93.706,114,4.9,mb,,,,,us,usp0000qva,2014-11-06T23:21:44.416Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,us
+1977-10-01T12:52:31.100Z,-10.078,117.497,33,5.6,mb,,,,,us,usp0000qv9,2016-11-09T23:36:53.502Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-30T18:39:31.100Z,-11.386,119.934,33,5.3,mb,,,,,us,usp0000qv2,2014-11-06T23:21:44.407Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-29T22:20:06.700Z,-1.13,136.634,33,5.3,mb,,,,,us,usp0000quq,2014-11-06T23:21:44.395Z,"Biak region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-29T18:52:22.700Z,-11.311,118.22,33,5.3,mb,,,,,us,usp0000qup,2014-11-06T23:21:44.395Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-29T14:31:12.000Z,-6.263,130.254,172,4.9,mb,,,,,us,usp0000qum,2014-11-06T23:21:44.393Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-09-29T02:16:48.300Z,-11.425,118.295,33,5.4,mb,,,,,us,usp0000qug,2014-11-06T23:21:44.388Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-28T17:49:41.200Z,-11.336,118.021,33,5.5,mb,,,,,us,usp0000qud,2014-11-06T23:21:44.386Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-27T21:39:15.600Z,-11.234,117.744,33,4.7,mb,,,,,us,usp0000qtx,2014-11-06T23:21:44.370Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-26T18:40:26.800Z,-7.859,111.369,158,4.6,mb,,,,,us,usp0000qth,2014-11-06T23:21:44.356Z,"Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-25T21:56:01.300Z,2.064,126.759,117,5,mb,,,,,us,usp0000qt6,2014-11-06T23:21:44.345Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-09-25T18:31:39.100Z,-11.298,117.245,33,5.6,mb,,,,,us,usp0000qt4,2016-11-09T23:33:56.859Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-24T19:50:32.300Z,-7.317,128.547,155,5.3,mb,,,,,us,usp0000qss,2014-11-06T23:21:44.332Z,"Kepulauan Barat Daya, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-24T03:49:33.400Z,-10.352,117.231,33,4.9,mb,,,,,us,usp0000qsp,2014-11-06T23:21:44.329Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-23T05:57:55.600Z,-11.206,118.217,33,6,mb,,,,,us,usp0000qse,2016-11-09T23:32:57.276Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-22T15:42:25.100Z,-6.32,130.671,33,5.3,mb,,,,,us,usp0000qs3,2014-11-06T23:21:44.310Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-09-21T12:21:01.200Z,-6.139,130.279,137,5.1,mb,,,,,us,usp0000qrk,2014-11-06T23:21:44.293Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-09-20T21:55:42.500Z,-10.035,117.823,33,4.7,mb,,,,,us,usp0000qr8,2014-11-06T23:21:44.282Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-19T06:11:45.000Z,-1.712,126.507,33,4.8,mb,,,,,us,usp0000qqh,2014-11-06T23:21:44.261Z,"Kepulauan Sula, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-19T05:51:33.400Z,-1.77,126.706,33,5.4,mb,,,,,us,usp0000qqg,2015-05-13T18:53:14.000Z,"Kepulauan Sula, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-19T05:13:09.200Z,-1.984,126.627,33,5.9,ms,,,,,us,usp0000qqe,2016-11-09T23:31:14.593Z,"Kepulauan Sula, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-18T08:29:27.400Z,6.913,126.314,43,5.2,mb,,,,,us,usp0000qq4,2014-11-06T23:21:44.251Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-09-16T23:47:53.200Z,-11.426,119.396,33,5.1,mb,,,,,us,usp0000qpd,2014-11-06T23:21:44.231Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-16T18:11:34.000Z,-11.482,117.865,33,4.6,mb,,,,,us,usp0000qpa,2014-11-06T23:21:44.228Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-16T12:22:50.800Z,-10.468,117.643,33,5.2,mb,,,,,us,usp0000qp6,2014-11-06T23:21:44.225Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-16T06:30:12.300Z,-11.309,118.053,33,5.5,mb,,,,,us,usp0000qp4,2014-11-06T23:21:44.222Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-16T04:40:05.800Z,-10.162,118.234,33,5.2,mb,,,,,us,usp0000qp2,2014-11-06T23:21:44.220Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-15T18:33:29.300Z,-9.197,123.182,45,4.5,mb,,,,,us,usp0000qnw,2014-11-06T23:21:44.182Z,"Timor region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-15T15:39:08.200Z,-11.969,116.68,33,4.8,mb,,,,,us,usp0000qnr,2014-11-06T23:21:44.165Z,"south of Lombok, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-15T13:48:44.500Z,-11.274,119.233,33,5.1,mb,,,,,us,usp0000qnm,2014-11-06T23:21:44.160Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-15T11:13:24.900Z,-10.402,117.448,33,5.1,ms,,,,,us,usp0000qnk,2014-11-06T23:21:44.160Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-15T02:46:09.000Z,-9.771,119.095,33,5.2,mb,,,,,us,usp0000qnh,2014-11-06T23:21:44.158Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-14T13:33:48.000Z,-10.982,113.483,24,5.3,mb,,,,,us,usp0000qna,2014-11-06T23:21:44.151Z,"south of Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-14T05:43:24.400Z,-11.338,119.591,33,4.7,mb,,,,,us,usp0000qn5,2014-11-06T23:21:44.147Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-14T00:59:07.200Z,-11.077,113.516,33,4.9,mb,,,,,us,usp0000qn2,2014-11-06T23:21:44.145Z,"south of Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-13T13:30:18.200Z,-11.254,119.364,33,5.4,mb,,,,,us,usp0000qmq,2014-11-06T23:21:44.133Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-13T07:14:06.200Z,2.879,129.019,198,4.9,mb,,,,,us,usp0000qmj,2014-11-06T23:21:44.129Z,"Halmahera, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-13T03:01:41.500Z,-9.233,112.282,40,5.2,mb,,,,,us,usp0000qmc,2014-11-06T23:21:44.123Z,"south of Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-13T00:03:30.100Z,-11.302,120.112,33,4.6,mb,,,,,us,usp0000qm9,2014-11-06T23:21:44.120Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-12T23:25:28.400Z,-11.342,119.809,33,4.6,mb,,,,,us,usp0000qm7,2014-11-06T23:21:44.118Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-12T19:32:59.700Z,-4.392,129.522,124,4.6,mb,,,,,us,usp0000qm1,2014-11-06T23:21:44.113Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-09-12T18:00:42.900Z,-8.473,121.765,33,5,mb,,,,,us,usp0000qm0,2014-11-06T23:21:44.112Z,"Flores region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-12T13:57:50.500Z,-8.471,121.662,33,4.8,mb,,,,,us,usp0000qkw,2014-11-06T23:21:44.109Z,"Flores region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-12T09:45:34.600Z,-11.468,117.971,33,5.2,mb,,,,,us,usp0000qkr,2014-11-06T23:21:44.104Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-11T22:55:12.300Z,-8.872,112.472,33,4.7,mb,,,,,us,usp0000qkb,2014-11-06T23:21:44.092Z,"Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-11T14:16:03.500Z,-9.143,112.31,49,5,mb,,,,,us,usp0000qka,2014-11-06T23:21:44.090Z,"south of Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-10T22:54:54.000Z,-11.173,119.506,33,5,mb,,,,,us,usp0000qk3,2014-11-06T23:21:44.083Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-10T22:22:16.800Z,-11.709,116.85,33,4.5,ms,,,,,us,usp0000qk2,2014-11-06T23:21:44.082Z,"south of Lombok, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-10T13:39:01.700Z,-6.572,107.088,105,5.9,mb,,,,,us,usp0000qjy,2020-03-27T18:56:11.161Z,"Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-09T05:34:28.200Z,-11.223,119.356,33,5.5,mb,,,,,us,usp0000qjj,2014-11-06T23:21:44.016Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-08T23:18:34.500Z,-11.009,119.792,33,5.2,mb,,,,,us,usp0000qjf,2014-11-06T23:21:44.013Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-07T11:39:11.600Z,-11.298,116.863,33,5.1,mb,,,,,us,usp0000qj4,2014-11-06T23:21:43.999Z,"south of Lombok, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-07T05:38:40.800Z,-2.556,121.932,61,5,mb,,,,,us,usp0000qj1,2014-11-06T23:21:43.996Z,"Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-07T04:53:00.500Z,-1.6,127.504,59,5.6,mb,,,,,us,usp0000qj0,2020-03-27T18:55:48.278Z,"Kepulauan Obi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-07T02:44:26.000Z,-10.07,115.516,33,5.1,mb,,,,,us,usp0000qhx,2014-11-06T23:21:43.992Z,"south of Bali, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-07T01:19:23.500Z,-11.102,119.508,33,5.5,mb,,,,,us,usp0000qhw,2016-11-09T23:25:37.637Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-07T00:43:31.700Z,-3.231,142.314,19,5.2,mb,,,,,us,usp0000qhv,2014-11-06T23:21:43.990Z,"near the north coast of New Guinea, Papua New Guinea",earthquake,,,,,reviewed,us,us
+1977-09-06T21:59:21.200Z,-9.571,118.218,33,5.2,mb,,,,,us,usp0000qht,2014-11-06T23:21:43.988Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-06T18:12:10.200Z,-11.208,119.433,33,5,mb,,,,,us,usp0000qhs,2014-11-06T23:21:43.987Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-06T17:26:06.100Z,-11.167,119.679,33,4.8,mb,,,,,us,usp0000qhp,2014-11-06T23:21:43.985Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-06T17:12:58.900Z,-11.154,119.611,33,5.3,mb,,,,,us,usp0000qhn,2014-11-06T23:21:43.984Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-06T15:30:33.400Z,-11.223,119.465,33,4.9,mb,,,,,us,usp0000qhm,2014-11-06T23:21:43.983Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-06T05:00:39.200Z,1.589,126.447,64,5.5,mb,,,,,us,usp0000qhe,2016-11-09T23:25:14.369Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-09-05T18:57:22.800Z,-11.208,119.511,33,4.8,mb,,,,,us,usp0000qh9,2014-11-06T23:21:43.973Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-05T15:13:05.600Z,-3.916,103.706,162,5.2,mb,,,,,us,usp0000qh4,2014-11-06T23:21:43.969Z,"southern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-05T14:14:05.200Z,-11.187,119.531,33,4.9,mb,,,,,us,usp0000qh3,2014-11-06T23:21:43.968Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-05T11:16:59.700Z,-11.127,118.256,33,5.7,mb,,,,,us,usp0000qh0,2016-11-09T23:24:43.746Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-05T10:05:20.300Z,3.125,128.009,62,5.5,mb,,,,,us,usp0000qgy,2014-11-06T23:21:43.964Z,"north of Halmahera, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-05T02:49:31.700Z,-11.236,119.471,33,4.8,mb,,,,,us,usp0000qgt,2014-11-06T23:21:43.959Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-05T02:44:06.700Z,-11.213,119.618,33,4.9,mb,,,,,us,usp0000qgs,2014-11-06T23:21:43.959Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-04T03:44:00.400Z,-11.255,119.468,33,5.3,mb,,,,,us,usp0000qfw,2014-11-06T23:21:43.907Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-03T20:06:34.000Z,-11.305,119.52,33,5,mb,,,,,us,usp0000qfq,2014-11-06T23:21:43.901Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-03T13:33:05.200Z,-10.032,117.895,33,4.8,mb,,,,,us,usp0000qfm,2014-11-06T23:21:43.898Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-02T10:36:28.300Z,-11.04,119.149,33,6,mb,,,,,us,usp0000qf8,2016-11-09T23:23:11.919Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-02T08:20:03.300Z,-11.093,118.912,33,5.2,mb,,,,,us,usp0000qf5,2014-11-06T23:21:43.884Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-02T04:18:46.500Z,-7.434,129.756,33,4.9,mb,,,,,us,usp0000qf2,2014-11-06T23:21:43.881Z,"Kepulauan Babar, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-02T03:56:14.900Z,-10.777,119.664,33,4.5,mb,,,,,us,usp0000qf1,2014-11-06T23:21:43.880Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-01T13:59:51.700Z,-10.049,118.513,33,4.7,mb,,,,,us,usp0000qes,2014-11-06T23:21:43.872Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-01T13:51:12.000Z,-11.2,118.858,33,5.2,mb,,,,,us,usp0000qer,2014-11-06T23:21:43.871Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-01T13:13:43.500Z,-11.739,117.467,33,5.6,mb,,,,,us,usp0000qeq,2016-11-09T23:22:43.206Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-01T11:25:42.100Z,-11.233,117.933,33,5.3,mb,,,,,us,usp0000qep,2014-11-06T23:21:43.870Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-09-01T00:18:56.100Z,-7.751,111.363,68,4.8,mb,,,,,us,usp0000qej,2014-11-06T23:21:43.867Z,"Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-31T23:58:15.000Z,-8.72,125.641,43,4.8,mb,,,,,us,usp0000qeh,2014-11-06T23:21:43.865Z,"East Timor region",earthquake,,,,,reviewed,us,us
+1977-08-31T14:23:24.500Z,9.451,93.245,27,4.9,mb,,,,,us,usp0000qe7,2014-11-06T23:21:43.855Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,us
+1977-08-31T10:03:43.200Z,-3.841,103.202,205,5,mb,,,,,us,usp0000qe4,2014-11-06T23:21:43.852Z,"southern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-30T22:54:39.700Z,-11.138,119.565,33,4.6,mb,,,,,us,usp0000qdt,2014-11-06T23:21:43.842Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-30T21:10:53.500Z,-10.976,119.123,33,5.5,mb,,,,,us,usp0000qdr,2014-11-06T23:21:43.840Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-30T18:29:01.400Z,-11.15,119.435,33,5,mb,,,,,us,usp0000qdj,2014-11-06T23:21:43.834Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-30T14:14:02.900Z,-11.31,118.305,33,4.5,mb,,,,,us,usp0000qdd,2014-11-06T23:21:43.830Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-30T12:58:56.000Z,-9.913,117.717,33,5,mb,,,,,us,usp0000qdc,2014-11-06T23:21:43.829Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-29T19:00:50.700Z,-11.787,121.43,33,4.9,mb,,,,,us,usp0000qd0,2014-11-06T23:21:43.817Z,"south of Timor",earthquake,,,,,reviewed,us,us
+1977-08-29T10:36:29.200Z,-8.342,125.252,33,4.6,mb,,,,,us,usp0000qct,2014-11-06T23:21:43.810Z,"East Timor region",earthquake,,,,,reviewed,us,us
+1977-08-29T09:52:53.200Z,-10.343,118.17,33,4.9,mb,,,,,us,usp0000qcs,2014-11-06T23:21:43.810Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-29T06:39:58.600Z,-11.167,119.04,33,5.1,mb,,,,,us,usp0000qcq,2014-11-06T23:21:43.808Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-29T00:12:57.100Z,-8.054,125.551,33,4.7,mb,,,,,us,usp0000qcn,2014-11-06T23:21:43.806Z,"East Timor region",earthquake,,,,,reviewed,us,us
+1977-08-28T11:24:46.800Z,-3.29,135.475,38,4.9,mb,,,,,us,usp0000qca,2014-11-06T23:21:43.796Z,"Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-28T11:14:17.800Z,-9.705,107.543,33,4.4,mb,,,,,us,usp0000qc9,2014-11-06T23:21:43.795Z,"south of Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-28T09:54:27.000Z,-1.107,120.194,58,5.1,mb,,,,,us,usp0000qc8,2014-11-06T23:21:43.794Z,"Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-28T07:40:19.500Z,-6.847,112.236,222,5.1,mb,,,,,us,usp0000qc6,2014-11-06T23:21:43.792Z,"Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-28T05:02:19.300Z,-8.156,125.701,33,4.3,mb,,,,,us,usp0000qc4,2014-11-06T23:21:43.790Z,"East Timor region",earthquake,,,,,reviewed,us,us
+1977-08-28T03:57:17.700Z,-11.064,119.124,33,4.8,mb,,,,,us,usp0000qc3,2014-11-06T23:21:43.789Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-27T17:27:09.300Z,-11.122,118.259,33,5.3,mb,,,,,us,usp0000qby,2014-11-06T23:21:43.785Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-27T14:03:43.000Z,-4.323,139.491,46,5.4,mb,,,,,us,usp0000qbx,2014-11-06T23:21:43.784Z,"Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-27T13:21:44.700Z,-8.196,125.235,33,5.1,mb,,,,,us,usp0000qbw,2014-11-06T23:21:43.783Z,"East Timor region",earthquake,,,,,reviewed,us,us
+1977-08-27T12:48:31.700Z,-7.988,125.42,33,5.1,mb,,,,,us,usp0000qbv,2014-11-06T23:21:43.782Z,"Kepulauan Barat Daya, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-27T10:42:32.200Z,-8.289,125.1,33,5.5,mb,,,,,us,usp0000qbu,2020-03-27T18:54:11.525Z,"East Timor region",earthquake,,,,,reviewed,us,us
+1977-08-27T10:12:23.800Z,-8.208,125.155,33,5.3,ms,,,,,us,usp0000qbt,2014-11-06T23:21:43.780Z,"East Timor region",earthquake,,,,,reviewed,us,us
+1977-08-27T09:16:12.800Z,-8.02,125.277,33,5,mb,,,,,us,usp0000qbs,2014-11-06T23:21:43.779Z,"East Timor region",earthquake,,,,,reviewed,us,us
+1977-08-27T07:58:36.200Z,-8.095,125.675,33,5,mb,,,,,us,usp0000qbr,2014-11-06T23:21:43.778Z,"East Timor region",earthquake,,,,,reviewed,us,us
+1977-08-27T07:52:16.800Z,-8.061,125.366,33,5.1,mb,,,,,us,usp0000qbq,2014-11-06T23:21:43.776Z,"East Timor region",earthquake,,,,,reviewed,us,us
+1977-08-27T07:35:27.100Z,-8.277,125.047,33,5.5,mb,,,,,us,usp0000qbp,2020-03-27T18:54:00.134Z,"East Timor region",earthquake,,,,,reviewed,us,us
+1977-08-27T07:12:22.500Z,-8.062,125.3,25,6.8,ms,,,,,us,usp0000qbn,2020-04-17T22:20:04.389Z,"East Timor region",earthquake,,,,,reviewed,us,us
+1977-08-26T22:54:44.100Z,0.152,123.067,140,5.6,mb,,,,,us,usp0000qbf,2020-03-27T18:53:33.569Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-26T08:26:37.500Z,-10.667,119.301,33,5.7,ms,,,,,us,usp0000qba,2016-11-09T23:20:12.779Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-26T01:41:40.900Z,-11.433,117.869,33,5.3,mb,,,,,us,usp0000qb6,2014-11-06T23:21:43.759Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-25T23:11:59.000Z,-10.057,118.355,33,5.5,mb,,,,,us,usp0000qb3,2014-11-06T23:21:43.757Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-25T22:20:36.800Z,-11.495,117.599,33,4.6,mb,,,,,us,usp0000qb0,2014-11-06T23:21:43.753Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-25T21:40:12.200Z,-10.808,119.284,33,5.5,ms,,,,,us,usp0000qaz,2014-11-06T23:21:43.753Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-25T20:08:12.400Z,-10.92,119.344,33,4.8,mb,,,,,us,usp0000qax,2014-11-06T23:21:43.751Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-25T19:08:16.700Z,-10.89,119.215,33,5.4,mb,,,,,us,usp0000qav,2014-11-06T23:21:43.750Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-25T18:09:10.100Z,-10.443,119.072,33,6.1,mb,,,,,us,usp0000qau,2014-11-06T23:21:43.749Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-25T18:05:10.800Z,-10.743,119.268,33,6.1,mb,,,,,us,usp0000qat,2016-11-10T00:43:56.397Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-25T06:20:48.000Z,-11.243,118.649,33,5,mb,,,,,us,usp0000qaj,2014-11-06T23:21:43.740Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-24T23:31:07.100Z,-6.448,129.951,33,5.1,mb,,,,,us,usp0000qac,2014-11-06T23:21:43.734Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-08-24T22:17:40.500Z,-11.128,118.095,33,5.2,mb,,,,,us,usp0000qab,2014-11-06T23:21:43.733Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-24T19:01:12.800Z,-6.75,131.647,33,5.1,mb,,,,,us,usp0000qaa,2014-11-06T23:21:43.733Z,"Kepulauan Tanimbar, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-24T19:00:14.800Z,-10.112,118.107,33,5,mb,,,,,us,usp0000qa9,2014-11-06T23:21:43.732Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-24T09:42:01.200Z,-11.298,118.137,33,5.6,mb,,,,,us,usp0000qa2,2014-11-06T23:21:43.725Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-24T02:21:41.300Z,-11.16,119.12,33,4.9,mb,,,,,us,usp0000q9x,2014-11-06T23:21:43.721Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-24T02:08:19.500Z,-10.196,117.96,33,5.4,mb,,,,,us,usp0000q9w,2014-11-06T23:21:43.720Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-23T23:06:13.500Z,-11.334,118.224,33,5.4,mb,,,,,us,usp0000q9u,2016-11-09T23:18:50.539Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-23T15:42:59.600Z,-10.984,119.455,33,5.4,mb,,,,,us,usp0000q9r,2014-11-06T23:21:43.715Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-23T10:24:12.100Z,-11.394,117.664,33,5.7,mb,,,,,us,usp0000q9k,2016-11-09T23:18:49.939Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-23T06:04:09.900Z,8.974,126.177,82,5.3,mb,,,,,us,usp0000q9g,2014-11-06T23:21:43.708Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-08-23T03:03:33.200Z,-11.281,119.271,33,4.6,mb,,,,,us,usp0000q9c,2014-11-06T23:21:43.706Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-23T01:14:04.700Z,-10.12,117.799,33,4.6,mb,,,,,us,usp0000q9b,2014-11-06T23:21:43.705Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-22T22:26:26.900Z,-9.046,118.537,33,4.8,mb,,,,,us,usp0000q99,2014-11-06T23:21:43.703Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-22T20:55:15.400Z,-11.259,116.457,33,4.9,mb,,,,,us,usp0000q96,2014-11-06T23:21:43.700Z,"south of Lombok, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-22T17:44:19.200Z,-11.324,116.32,33,5.2,mb,,,,,us,usp0000q94,2014-11-06T23:21:43.698Z,"south of Lombok, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-22T07:10:53.700Z,-11.014,119.175,33,5.1,mb,,,,,us,usp0000q8z,2014-11-06T23:21:43.693Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-21T20:37:46.300Z,-10.734,119.142,33,5.5,mb,,,,,us,usp0000q8s,2015-05-13T18:53:13.000Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-21T20:29:41.500Z,-10.858,119.221,33,5.6,mb,,,,,us,usp0000q8r,2016-11-09T23:17:40.840Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-21T15:36:48.500Z,-11.186,119.144,33,5.7,mb,,,,,us,usp0000q8j,2015-07-13T17:02:24.000Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-21T12:28:44.200Z,-11.585,117.858,33,5.1,mb,,,,,us,usp0000q8d,2014-11-06T23:21:43.676Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-21T10:39:56.000Z,-10.969,119.162,33,5.2,mb,,,,,us,usp0000q8b,2014-11-06T23:21:43.674Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-21T09:29:35.200Z,-11.278,119.331,33,5.3,mb,,,,,us,usp0000q8a,2014-11-06T23:21:43.673Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-21T09:16:43.800Z,-11.297,119.471,33,5.1,mb,,,,,us,usp0000q89,2014-11-06T23:21:43.672Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-21T07:51:37.000Z,-11.107,119.336,33,5.2,mb,,,,,us,usp0000q88,2014-11-06T23:21:43.671Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-21T06:50:33.100Z,-11.156,118.828,33,5.4,mb,,,,,us,usp0000q87,2014-11-06T23:21:43.670Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-21T06:29:09.500Z,-11.268,118.939,33,5,mb,,,,,us,usp0000q86,2014-11-06T23:21:43.670Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-21T02:21:31.900Z,-10.947,119.067,33,5.4,mb,,,,,us,usp0000q80,2014-11-06T23:21:43.664Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-21T02:12:25.500Z,-11.156,119.005,33,5.4,mb,,,,,us,usp0000q7z,2016-11-09T23:17:39.250Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-21T01:49:45.300Z,-11.045,119.214,33,5.1,mb,,,,,us,usp0000q7y,2014-11-06T23:21:43.663Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-20T21:31:33.400Z,-11.327,118.844,33,4.9,mb,,,,,us,usp0000q7s,2014-11-06T23:21:43.657Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-20T19:44:00.400Z,-10.686,119.135,33,5.2,mb,,,,,us,usp0000q7r,2014-11-06T23:21:43.655Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-20T19:16:32.700Z,-11.039,119.135,33,6.1,ms,,,,,us,usp0000q7q,2016-11-10T00:43:24.608Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-20T15:39:17.700Z,-11.671,117.901,33,4.6,mb,,,,,us,usp0000q7k,2014-11-06T23:21:43.650Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-20T12:36:05.900Z,-11.154,119.305,33,4.8,mb,,,,,us,usp0000q7h,2014-11-06T23:21:43.647Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-20T11:17:24.000Z,-11.108,119.174,33,5.1,mb,,,,,us,usp0000q7e,2014-11-06T23:21:43.644Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-20T09:21:50.300Z,-11.108,119.127,33,5.8,ms,,,,,us,usp0000q7d,2016-11-09T23:17:11.722Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-20T07:12:03.100Z,-11.016,119.074,33,5,mb,,,,,us,usp0000q7a,2014-11-06T23:21:43.640Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-20T05:03:53.700Z,-10.981,119.106,33,4.5,mb,,,,,us,usp0000q79,2014-11-06T23:21:43.639Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-20T04:20:30.700Z,-11.099,118.24,33,6,ms,,,,,us,usp0000q77,2015-05-13T18:53:13.000Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-20T03:58:41.100Z,-10.913,119.053,33,5.8,mb,,,,,us,usp0000q76,2015-05-13T18:53:13.000Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-19T22:22:52.500Z,-11.939,117.078,33,4.9,mb,,,,,us,usp0000q70,2014-11-06T23:21:43.629Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-19T21:35:03.300Z,-10.885,119.229,33,5.8,mb,,,,,us,usp0000q6z,2016-11-09T23:16:49.782Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-19T20:51:16.600Z,-11.243,118.875,33,5.3,mb,,,,,us,usp0000q6y,2014-11-06T23:21:43.628Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-19T20:20:18.600Z,-10.926,119.148,33,5.8,mb,,,,,us,usp0000q6x,2016-11-09T23:16:49.266Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-19T19:38:59.700Z,-10.803,119.142,33,5.8,mb,,,,,us,usp0000q6w,2015-05-13T18:53:13.000Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-19T17:40:45.500Z,-11.352,118.014,33,5.3,mb,,,,,us,usp0000q6t,2014-11-06T23:21:43.622Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-19T16:22:31.000Z,-10.908,119.104,33,5,mb,,,,,us,usp0000q6r,2014-11-06T23:21:43.620Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-19T16:04:44.700Z,-10.942,119.093,33,5.1,mb,,,,,us,usp0000q6q,2014-11-06T23:21:43.619Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-19T15:51:24.000Z,-10.945,119.091,33,5.3,mb,,,,,us,usp0000q6p,2014-11-06T23:21:43.618Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-19T15:28:05.600Z,-11.347,118.262,33,5.3,mb,,,,,us,usp0000q6n,2014-11-06T23:21:43.617Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-19T15:12:12.500Z,-11.042,119.319,33,5.1,mb,,,,,us,usp0000q6m,2014-11-06T23:21:43.617Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-19T14:54:00.800Z,-10.866,119.174,33,5,mb,,,,,us,usp0000q6k,2014-11-06T23:21:43.615Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-19T14:22:38.300Z,-10.749,119.294,33,5.4,mb,,,,,us,usp0000q6j,2014-11-06T23:21:43.614Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-19T13:32:11.900Z,-10.658,119.328,33,5.2,mb,,,,,us,usp0000q6h,2014-11-06T23:21:43.612Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-19T13:23:37.000Z,-10.803,119.174,33,5.8,mb,,,,,us,usp0000q6g,2015-05-13T18:53:13.000Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-19T12:21:11.300Z,-11.458,117.721,33,5,mb,,,,,us,usp0000q6f,2014-11-06T23:21:43.610Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-19T11:33:27.800Z,-11.018,118.728,33,5.6,mb,,,,,us,usp0000q6d,2015-05-13T18:53:13.000Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-19T11:08:52.900Z,-10.954,119.099,33,5.1,mb,,,,,us,usp0000q6b,2014-11-06T23:21:43.606Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-19T10:50:34.700Z,-10.844,119.232,33,5.4,mb,,,,,us,usp0000q6a,2014-11-06T23:21:43.604Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-19T10:27:47.200Z,-10.671,119.044,33,5.2,mb,,,,,us,usp0000q69,2014-11-06T23:21:43.604Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-19T08:57:09.500Z,-10.748,119.688,33,5.1,mb,,,,,us,usp0000q67,2014-11-06T23:21:43.601Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-19T07:38:05.400Z,-10.192,117.412,33,5.5,mb,,,,,us,usp0000q66,2014-11-06T23:21:43.601Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-19T07:35:58.900Z,-11.052,119.064,33,5,mb,,,,,us,usp0000q65,2014-11-06T23:21:43.599Z,"south of Sumba, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-19T06:43:30.600Z,-10.566,118.386,33,6.1,mb,,,,,us,usp0000q64,2014-11-06T23:21:43.599Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-19T06:08:55.000Z,-11.164,118.378,25,8.3,mw,,,,,iscgem,iscgem694739,2020-04-17T21:21:21.822Z,"south of Sumbawa, Indonesia",earthquake,,,,,automatic,iscgem,iscgem
+1977-08-19T05:08:41.600Z,-11.145,118.388,33,6.1,mb,,,,,us,usp0000q61,2016-11-09T23:16:48.784Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-17T23:17:44.200Z,8.588,127.422,33,5.2,mb,,,,,us,usp0000q5b,2014-11-06T23:21:43.572Z,"Philippine Islands region",earthquake,,,,,reviewed,us,us
+1977-08-17T18:10:18.900Z,-7.716,128.223,102,4.7,mb,,,,,us,usp0000q58,2014-11-06T23:21:43.569Z,"Kepulauan Barat Daya, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-16T12:32:50.000Z,-4.934,133.93,33,4.8,mb,,,,,us,usp0000q4f,2014-11-06T23:21:43.541Z,"near the south coast of Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-15T16:41:05.000Z,-2.995,101.711,88,5.2,mb,,,,,us,usp0000q3x,2014-11-06T23:21:43.523Z,"southern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-14T21:38:51.500Z,-7.763,107.567,33,5.7,ms,,,,,us,usp0000q3f,2020-03-27T18:53:05.183Z,"Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-14T09:54:34.900Z,-7.4,113.824,246,4.7,mb,,,,,us,usp0000q36,2014-11-06T23:21:43.499Z,"Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-14T06:03:44.600Z,-2.819,138.784,48,5.2,mb,,,,,us,usp0000q35,2014-11-06T23:21:43.498Z,"Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-12T22:08:25.000Z,-7.377,128.998,198,5.1,mb,,,,,us,usp0000q2f,2014-11-06T23:21:43.472Z,"Kepulauan Barat Daya, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-10T09:33:29.200Z,7.081,123.565,54,5.3,mb,,,,,us,usp0000q1n,2014-11-06T23:21:43.448Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-08-10T07:07:26.900Z,-8.172,107.644,52,5.7,mb,,,,,us,usp0000q1k,2020-03-27T18:52:29.747Z,"Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-08T23:25:18.500Z,3.564,98.053,112,4.7,mb,,,,,us,usp0000q19,2014-11-06T23:21:43.433Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-08T01:42:55.600Z,-7.775,109.198,113,5.2,mb,,,,,us,usp0000q0t,2014-11-06T23:21:43.391Z,"Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-06T16:55:08.400Z,-5.102,102.453,113,4.4,mb,,,,,us,usp0000q06,2014-11-06T23:21:43.373Z,"southern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-03T19:54:07.200Z,-7.318,107.169,99,5,mb,,,,,us,usp0000pz7,2014-11-06T23:21:43.341Z,"Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-02T21:07:54.900Z,4.562,125.611,188,4.7,mb,,,,,us,usp0000pyu,2014-11-06T23:21:43.329Z,"Kepulauan Sangihe, Indonesia",earthquake,,,,,reviewed,us,us
+1977-08-01T05:56:11.000Z,6.537,123.769,36,5.6,mb,,,,,us,usp0000pya,2020-03-27T18:51:41.038Z,"Moro Gulf, Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-08-01T01:01:22.200Z,4.061,126.937,58,5.2,mb,,,,,us,usp0000py6,2014-11-06T23:21:43.224Z,"Kepulauan Talaud, Indonesia",earthquake,,,,,reviewed,us,us
+1977-07-29T21:05:59.500Z,-2.362,99.984,33,5.3,mb,,,,,us,usp0000pxd,2014-11-06T23:21:43.191Z,"Kepulauan Mentawai region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-07-28T06:37:54.300Z,-1.866,138.845,53,5.1,mb,,,,,us,usp0000pwv,2014-11-06T23:21:43.175Z,"near the north coast of Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-07-27T13:31:38.300Z,-5.94,130.528,102,4.9,mb,,,,,us,usp0000pwc,2014-11-06T23:21:43.157Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-07-22T06:40:31.300Z,9.342,93.137,47,5.4,mb,,,,,us,usp0000pu9,2014-11-06T23:21:43.069Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,us
+1977-07-21T19:22:39.200Z,6.238,126.411,84,5,mb,,,,,us,usp0000pty,2014-11-06T23:21:43.058Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-07-21T09:31:42.500Z,7.063,94.394,33,4.7,mb,,,,,us,usp0000ptp,2014-11-06T23:21:43.050Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,us
+1977-07-21T08:53:56.300Z,-7.824,122.523,283,5,mb,,,,,us,usp0000ptn,2014-11-06T23:21:43.050Z,"Flores Sea",earthquake,,,,,reviewed,us,us
+1977-07-21T02:36:02.100Z,3.321,96.315,68,4.8,mb,,,,,us,usp0000pth,2014-11-06T23:21:43.046Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-07-19T10:14:25.300Z,1.389,126.429,33,5.2,mb,,,,,us,usp0000psz,2014-11-06T23:21:43.030Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-07-18T18:11:41.100Z,-8.614,110.328,74,5.3,mb,,,,,us,usp0000psj,2015-05-13T18:53:13.000Z,"Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-07-17T10:41:03.700Z,-0.807,135.422,33,5,mb,,,,,us,usp0000ps4,2014-11-06T23:21:43.005Z,"Biak region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-07-16T07:11:03.900Z,-5.822,133.661,33,5.3,mb,,,,,us,usp0000pre,2014-11-06T23:21:42.985Z,"Kepulauan Kai, Indonesia",earthquake,,,,,reviewed,us,us
+1977-07-15T03:23:08.600Z,-0.861,120.591,58,5.2,mb,,,,,us,usp0000pr4,2014-11-06T23:21:42.976Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-07-14T13:48:22.300Z,1.059,126.675,45,5.2,mb,,,,,us,usp0000pqs,2014-11-06T23:21:42.964Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-07-13T23:08:07.800Z,7.804,122,46,5.2,mb,,,,,us,usp0000pqg,2014-11-06T23:21:42.956Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-07-11T22:39:52.200Z,0.505,134.96,33,5.6,mb,,,,,us,usp0000ppm,2016-11-09T22:57:39.349Z,"Papua region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-07-10T19:49:45.000Z,-6.3,131.05,33,5.7,mb,,,,,us,usp0000pp7,2016-11-09T22:57:13.377Z,"Kepulauan Tanimbar, Indonesia",earthquake,,,,,reviewed,us,us
+1977-07-10T09:17:56.800Z,2.519,127.047,63,5.1,mb,,,,,us,usp0000pp2,2014-11-06T23:21:42.914Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-07-09T17:30:03.400Z,8.987,126.467,59,5.4,mb,,,,,us,usp0000pnm,2015-05-13T18:53:13.000Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-07-09T13:29:24.300Z,5.064,127.334,128,5.5,mb,,,,,us,usp0000pnh,2015-05-13T18:53:13.000Z,"Philippine Islands region",earthquake,,,,,reviewed,us,us
+1977-07-09T13:28:32.800Z,-7.41,129.737,167,5.6,mb,,,,,us,usp0000png,2014-11-06T23:21:42.898Z,"Kepulauan Babar, Indonesia",earthquake,,,,,reviewed,us,us
+1977-07-09T11:28:32.500Z,-0.316,125.306,37,4.8,mb,,,,,us,usp0000pne,2014-11-06T23:21:42.896Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-07-03T18:19:43.200Z,5.694,127.009,73,5.1,mb,,,,,us,usp0000pkk,2014-11-06T23:21:42.838Z,"Philippine Islands region",earthquake,,,,,reviewed,us,us
+1977-07-03T14:39:14.100Z,1.435,126.435,51,5.9,mb,,,,,us,usp0000pkg,2016-11-09T22:54:00.637Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-07-01T09:47:29.700Z,1.967,98.063,70,5,mb,,,,,us,usp0000pjm,2014-11-06T23:21:42.802Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-06-30T00:12:20.300Z,9.871,125.826,33,5.2,mb,,,,,us,usp0000pj2,2014-11-06T23:21:42.785Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-06-29T07:24:24.800Z,-7.599,127.654,58,6,mb,,,,,us,usp0000pht,2020-03-27T18:50:06.407Z,"Kepulauan Barat Daya, Indonesia",earthquake,,,,,reviewed,us,us
+1977-06-28T23:47:54.200Z,-9.006,109.138,33,4.5,mb,,,,,us,usp0000php,2014-11-06T23:21:42.774Z,"south of Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-06-28T22:02:42.500Z,-0.061,125.058,33,5.6,mb,,,,,us,usp0000phn,2015-05-13T18:53:13.000Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-06-28T03:53:11.400Z,0.79,123.591,268,4.9,mb,,,,,us,usp0000ph1,2014-11-06T23:21:42.755Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-06-27T03:04:39.100Z,-11.251,114.82,51,5.2,mb,,,,,us,usp0000pge,2014-11-06T23:21:42.737Z,"south of Bali, Indonesia",earthquake,,,,,reviewed,us,us
+1977-06-25T06:39:18.300Z,-4.6,102.234,47,5.5,mb,,,,,us,usp0000pfa,2016-11-09T22:50:19.816Z,"southern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-06-24T16:20:30.300Z,-2.268,100.833,53,5.5,mb,,,,,us,usp0000pf3,2020-03-27T18:49:54.422Z,"Kepulauan Mentawai region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-06-24T11:40:15.800Z,-8.092,127.864,184,5.1,mb,,,,,us,usp0000pey,2014-11-06T23:21:42.681Z,"East Timor region",earthquake,,,,,reviewed,us,us
+1977-06-24T00:30:23.300Z,-3.396,100.738,57,5,mb,,,,,us,usp0000pep,2014-11-06T23:21:42.674Z,"Kepulauan Mentawai region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-06-23T12:35:21.100Z,6.358,126.181,88,5.2,mb,,,,,us,usp0000pec,2014-11-06T23:21:42.666Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-06-19T07:32:13.800Z,4.652,124.933,271,5.7,mb,,,,,us,usp0000pcc,2016-11-09T22:47:35.282Z,"Celebes Sea",earthquake,,,,,reviewed,us,us
+1977-06-18T20:04:44.200Z,-4.012,127.839,13,5.3,mb,,,,,us,usp0000pc5,2015-05-13T18:53:13.000Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-06-17T13:37:25.000Z,-1.881,128.598,33,4.5,mb,,,,,us,usp0000pb7,2014-11-06T23:21:42.510Z,"Kepulauan Obi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-06-16T15:36:08.600Z,-5.184,102.641,72,4.8,mb,,,,,us,usp0000paw,2014-11-06T23:21:42.454Z,"southern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-06-15T13:17:49.700Z,-2.811,138.783,33,5.2,mb,,,,,us,usp0000pac,2014-11-06T23:21:42.439Z,"Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-06-12T07:26:00.500Z,-0.114,123.986,78,5,mb,,,,,us,usp0000p8n,2014-11-06T23:21:42.355Z,"Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-06-12T07:19:14.500Z,-2.96,139.36,33,4.2,mb,,,,,us,usp0000p8m,2014-11-06T23:21:42.355Z,"near the north coast of Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-06-11T16:46:48.200Z,-2.607,127.778,27,4.5,mb,,,,,us,usp0000p8f,2014-11-06T23:21:42.350Z,"Ceram Sea, Indonesia",earthquake,,,,,reviewed,us,us
+1977-06-11T02:11:34.500Z,-3.195,130.701,12,5.5,mb,,,,,us,usp0000p88,2020-03-27T18:49:21.477Z,"Seram, Indonesia",earthquake,,,,,reviewed,us,us
+1977-06-10T23:43:31.900Z,-3.185,130.528,39,5.3,mb,,,,,us,usp0000p87,2014-11-06T23:21:42.342Z,"Seram, Indonesia",earthquake,,,,,reviewed,us,us
+1977-06-10T14:48:15.900Z,-4.95,130.095,33,5.5,mb,,,,,us,usp0000p83,2014-11-06T23:21:42.315Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-06-10T08:24:32.400Z,-10.083,111.997,52,4.8,mb,,,,,us,usp0000p80,2014-11-06T23:21:42.312Z,"south of Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-06-10T02:35:14.000Z,-3.102,101.486,33,5.4,mb,,,,,us,usp0000p7v,2016-11-09T22:43:27.632Z,"southern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-06-09T09:59:10.600Z,4.174,95.76,43,5,mb,,,,,us,usp0000p7h,2014-11-06T23:21:42.298Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-06-09T06:41:09.600Z,-6.055,123.69,24,5.1,mb,,,,,us,usp0000p7e,2014-11-06T23:21:42.296Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-06-09T03:34:37.900Z,-5.982,123.645,43,5,mb,,,,,us,usp0000p7c,2014-11-06T23:21:42.294Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-06-06T20:35:54.400Z,-5.857,130.136,172,4.8,mb,,,,,us,usp0000p6j,2014-11-06T23:21:42.269Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-06-01T16:09:52.000Z,-3.689,140.072,33,5.4,mb,,,,,us,usp0000p47,2014-11-06T23:21:42.196Z,"Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-31T21:56:11.600Z,-3.292,138.685,166,4.5,mb,,,,,us,usp0000p3z,2014-11-06T23:21:42.190Z,"Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-29T07:39:43.700Z,-0.995,127.923,33,4.5,mb,,,,,us,usp0000p2u,2014-11-06T23:21:42.151Z,"Halmahera, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-29T06:59:22.800Z,-1.016,127.97,33,5,mb,,,,,us,usp0000p2r,2014-11-06T23:21:42.148Z,"Kepulauan Obi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-28T07:45:57.400Z,-1.944,120.459,89,5.1,mb,,,,,us,usp0000p2d,2014-11-06T23:21:42.136Z,"Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-28T06:26:55.800Z,-1.817,120.594,67,4.9,mb,,,,,us,usp0000p2b,2014-11-06T23:21:42.134Z,"Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-28T05:51:48.100Z,-1.732,120.52,54,5.9,mb,,,,,us,usp0000p2a,2020-04-17T22:19:41.892Z,"Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-28T02:50:49.000Z,0.28,123.446,144,5,mb,,,,,us,usp0000p29,2014-11-06T23:21:42.132Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-28T02:41:32.900Z,6.337,123.96,48,5.1,mb,,,,,us,usp0000p28,2014-11-06T23:21:42.131Z,"Moro Gulf, Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-05-27T20:33:36.700Z,-6.823,131.402,62,5.1,mb,,,,,us,usp0000p22,2014-11-06T23:21:42.125Z,"Kepulauan Tanimbar, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-27T20:30:05.100Z,-8.749,119.737,134,4.4,mb,,,,,us,usp0000p21,2014-11-06T23:21:42.125Z,"Flores region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-25T14:55:45.000Z,4.237,95.774,56,5.9,mb,,,,,us,usp0000p11,2020-04-17T22:19:39.637Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-24T18:03:03.800Z,-4.663,140.073,39,3.5,mb,,,,,us,usp0000p0q,2014-11-06T23:21:42.083Z,"Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-23T21:55:54.100Z,0.665,98.676,40,5.5,mb,,,,,us,usp0000p0b,2020-03-27T18:46:51.106Z,"Nias region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-23T18:35:27.900Z,-9.449,123.976,133,4.9,mb,,,,,us,usp0000p09,2014-11-06T23:21:42.070Z,"Timor region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-22T09:43:02.000Z,-8.394,127.428,33,4.4,mb,,,,,us,usp0000nzq,2014-11-06T23:21:42.053Z,"East Timor region",earthquake,,,,,reviewed,us,us
+1977-05-20T22:51:13.900Z,-4.444,101.975,37,5.7,mb,,,,,us,usp0000nz3,2016-11-09T22:33:49.430Z,"southern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-20T18:02:45.500Z,0.482,134.924,33,5.6,mb,,,,,us,usp0000nyx,2014-11-06T23:21:42.030Z,"Papua region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-19T19:33:11.900Z,2.967,128.479,71,4.3,mb,,,,,us,usp0000nyf,2014-11-06T23:21:42.018Z,"Halmahera, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-19T16:38:31.400Z,-8.375,123.893,33,4.5,mb,,,,,us,usp0000nya,2014-11-06T23:21:41.996Z,"Flores region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-19T11:21:41.100Z,-0.332,134.654,33,4.9,mb,,,,,us,usp0000ny9,2014-11-06T23:21:41.995Z,"near the north coast of Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-18T22:48:40.200Z,5.674,124.35,33,5.2,mb,,,,,us,usp0000ny4,2014-11-06T23:21:41.992Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-05-17T03:32:15.000Z,-3.006,133.16,168,4.3,mb,,,,,us,usp0000nxb,2014-11-06T23:21:41.920Z,"Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-15T17:26:26.000Z,-1.04,98.07,33,4.4,mb,,,,,us,usp0000nwk,2014-11-06T23:21:41.901Z,"Kepulauan Mentawai region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-14T20:35:15.600Z,-2.342,138.852,13,5.1,mb,,,,,us,usp0000nw8,2014-11-06T23:21:41.892Z,"Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-11T18:10:26.700Z,0.001,123.103,151,5.3,mb,,,,,us,usp0000nuf,2014-11-06T23:21:41.840Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-11T03:22:25.200Z,2,126.882,77,5.7,mb,,,,,us,usp0000nu8,2016-11-09T22:29:46.773Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-05-10T22:32:08.900Z,-1.111,127.389,12,5.2,mb,,,,,us,usp0000nu3,2014-11-06T23:21:41.787Z,"Kepulauan Obi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-10T22:28:31.900Z,-0.979,127.347,20,5.6,mb,,,,,us,usp0000nu2,2020-03-27T18:45:31.693Z,"Halmahera, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-09T10:52:04.400Z,1.134,118.991,113,4.2,mb,,,,,us,usp0000ntn,2014-11-06T23:21:41.733Z,"Kalimantan, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-06T19:46:02.300Z,9.136,126.688,62,5.2,mb,,,,,us,usp0000nsa,2014-11-06T23:21:41.694Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-05-06T18:12:31.800Z,-9.551,118.336,76,5.1,mb,,,,,us,usp0000ns9,2014-11-06T23:21:41.693Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-06T08:40:49.000Z,0.207,124.146,157,5,mb,,,,,us,usp0000ns5,2014-11-06T23:21:41.690Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-03T20:36:45.700Z,1.784,127.204,120,5.3,mb,,,,,us,usp0000nr9,2014-11-06T23:21:41.649Z,"Halmahera, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-03T13:22:38.600Z,-10.265,112.152,45,5,mb,,,,,us,usp0000nr5,2014-11-06T23:21:41.646Z,"south of Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-02T21:53:56.500Z,7.186,123.258,24,5.7,mb,,,,,us,usp0000nr0,2020-03-27T18:45:05.897Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-05-01T03:26:23.700Z,2.104,97.182,52,4.9,mb,,,,,us,usp0000nqc,2014-11-06T23:21:41.625Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-01T01:05:09.500Z,-10.116,112.19,51,4.7,mb,,,,,us,usp0000nq7,2014-11-06T23:21:41.620Z,"south of Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-05-01T00:57:11.600Z,2.126,97.199,68,4.8,mb,,,,,us,usp0000nq6,2014-11-06T23:21:41.619Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-04-30T18:40:17.200Z,8.54,127.27,77,5.2,mb,,,,,us,usp0000npz,2014-11-06T23:21:41.614Z,"Philippine Islands region",earthquake,,,,,reviewed,us,us
+1977-04-29T04:37:30.200Z,0.982,124.053,283,4.7,mb,,,,,us,usp0000np3,2014-11-06T23:21:41.469Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-04-29T00:32:40.200Z,-4.404,134.936,37,4.7,mb,,,,,us,usp0000np1,2014-11-06T23:21:41.468Z,"near the south coast of Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-04-28T04:23:40.600Z,8.364,126.685,73,4.5,mb,,,,,us,usp0000nnt,2014-11-06T23:21:41.461Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-04-25T17:45:08.000Z,-7.215,129.794,136,4.4,mb,,,,,us,usp0000nmr,2014-11-06T23:21:41.431Z,"Kepulauan Babar, Indonesia",earthquake,,,,,reviewed,us,us
+1977-04-25T03:32:52.900Z,-7.581,128.748,135,4.5,mb,,,,,us,usp0000nmd,2014-11-06T23:21:41.421Z,"Kepulauan Barat Daya, Indonesia",earthquake,,,,,reviewed,us,us
+1977-04-24T22:18:37.700Z,-7.916,107.213,91,4.9,mb,,,,,us,usp0000nm8,2014-11-06T23:21:41.417Z,"Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-04-24T16:10:05.900Z,-5.211,102.927,33,5.2,mb,,,,,us,usp0000nm3,2014-11-06T23:21:41.414Z,"southern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-04-24T13:52:14.100Z,-11.234,125.317,33,4.5,mb,,,,,us,usp0000nm0,2014-11-06T23:21:41.411Z,"Timor Sea",earthquake,,,,,reviewed,us,us
+1977-04-23T23:38:06.500Z,-5.569,130.889,33,5.2,mb,,,,,us,usp0000nkp,2014-11-06T23:21:41.403Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-04-23T10:33:38.600Z,-0.034,124.487,82,4.4,mb,,,,,us,usp0000nkb,2014-11-06T23:21:41.393Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-04-23T07:44:04.800Z,-0.311,125.173,46,4.6,mb,,,,,us,usp0000nk7,2014-11-06T23:21:41.390Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-04-22T05:26:36.000Z,-7.613,119.013,35,5.6,mb,,,,,us,usp0000njd,2016-11-09T22:21:22.485Z,"Flores Sea",earthquake,,,,,reviewed,us,us
+1977-04-21T12:49:09.300Z,8.496,126.41,33,5.4,mb,,,,,us,usp0000nhv,2014-11-06T23:21:41.304Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-04-19T19:58:45.100Z,2.822,96.236,33,4.4,mb,,,,,us,usp0000nfr,2014-11-06T23:21:41.180Z,"Simeulue, Indonesia",earthquake,,,,,reviewed,us,us
+1977-04-18T23:30:52.700Z,-7.242,129.662,118,4.6,mb,,,,,us,usp0000nfe,2014-11-06T23:21:41.171Z,"Kepulauan Babar, Indonesia",earthquake,,,,,reviewed,us,us
+1977-04-17T16:00:37.800Z,-7.683,130.287,215,5,mb,,,,,us,usp0000nev,2014-11-06T23:21:41.115Z,"Kepulauan Tanimbar, Indonesia",earthquake,,,,,reviewed,us,us
+1977-04-17T13:43:31.200Z,5.78,126.287,94,5.3,mb,,,,,us,usp0000net,2014-11-06T23:21:41.104Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-04-17T10:14:15.300Z,-8.092,129.879,33,4.2,mb,,,,,us,usp0000neq,2014-11-06T23:21:41.083Z,"Kepulauan Babar, Indonesia",earthquake,,,,,reviewed,us,us
+1977-04-16T11:51:20.600Z,3.157,96.197,33,4.6,mb,,,,,us,usp0000nec,2014-11-06T23:21:41.066Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-04-16T04:01:40.900Z,8.861,123.387,33,5.5,mb,,,,,us,usp0000ne4,2020-03-27T18:41:06.406Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-04-14T16:40:01.500Z,-6.049,129.737,142,5,mb,,,,,us,usp0000ndr,2014-11-06T23:21:40.979Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-04-14T14:44:09.500Z,-6.633,130.465,38,5.3,mb,,,,,us,usp0000ndp,2014-11-06T23:21:40.970Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-04-13T18:47:42.600Z,-7.167,128.968,176,5,mb,,,,,us,usp0000nda,2014-11-06T23:21:40.864Z,"Kepulauan Barat Daya, Indonesia",earthquake,,,,,reviewed,us,us
+1977-04-13T12:45:42.000Z,3.778,126.756,43,5.7,mb,,,,,us,usp0000nd5,2016-11-09T22:17:21.189Z,"Kepulauan Talaud, Indonesia",earthquake,,,,,reviewed,us,us
+1977-04-13T07:56:38.300Z,-2.736,138.891,33,4.9,mb,,,,,us,usp0000ncx,2014-11-06T23:21:40.854Z,"Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-04-13T05:28:58.700Z,7.279,126.79,58,5.4,mb,,,,,us,usp0000ncu,2014-11-06T23:21:40.851Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-04-13T04:03:10.400Z,5.342,96.637,37,4.6,mb,,,,,us,usp0000ncs,2014-11-06T23:21:40.849Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-04-12T23:08:02.000Z,3.112,128.19,64,5.3,mb,,,,,us,usp0000ncj,2014-11-06T23:21:40.843Z,"north of Halmahera, Indonesia",earthquake,,,,,reviewed,us,us
+1977-04-12T00:47:29.300Z,-6.472,130.009,130,4.9,mb,,,,,us,usp0000nc8,2014-11-06T23:21:40.836Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-04-09T21:20:16.900Z,-9.228,111.683,67,5.1,mb,,,,,us,usp0000nau,2014-11-06T23:21:40.755Z,"south of Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-04-09T08:10:49.100Z,-4.926,130.046,33,4.9,mb,,,,,us,usp0000nah,2014-11-06T23:21:40.748Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-04-09T01:39:17.500Z,-2.807,127.272,47,4.9,mb,,,,,us,usp0000nad,2014-11-06T23:21:40.744Z,"Ceram Sea, Indonesia",earthquake,,,,,reviewed,us,us
+1977-04-08T12:20:23.800Z,-7.01,127.674,269,4.8,mb,,,,,us,usp0000na7,2014-11-06T23:21:40.739Z,"Kepulauan Barat Daya, Indonesia",earthquake,,,,,reviewed,us,us
+1977-04-07T22:15:10.300Z,-6.407,130.011,118,5.5,mb,,,,,us,usp0000na2,2015-05-13T18:53:13.000Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-04-05T11:23:20.200Z,-9.362,111.687,61,5,mb,,,,,us,usp0000n95,2014-11-06T23:21:40.710Z,"south of Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-04-05T04:29:47.800Z,6.642,126.871,67,5.2,mb,,,,,us,usp0000n90,2014-11-06T23:21:40.706Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-04-04T19:06:35.500Z,-2.766,102.277,133,5.1,mb,,,,,us,usp0000n8w,2014-11-06T23:21:40.704Z,"southern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-04-02T06:46:17.400Z,-2.285,125.231,33,5.8,mb,,,,,us,usp0000n80,2015-05-13T18:53:13.000Z,"Kepulauan Sula, Indonesia",earthquake,,,,,reviewed,us,us
+1977-04-01T11:58:21.800Z,-2.026,121.064,75,4.1,mb,,,,,us,usp0000n7m,2014-11-06T23:21:40.618Z,"Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-03-31T20:25:12.100Z,0.168,125.595,56,4.5,mb,,,,,us,usp0000n7b,2014-11-06T23:21:40.610Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-03-31T08:42:40.100Z,-7.252,127.553,258,4.8,mb,,,,,us,usp0000n6z,2014-11-06T23:21:40.600Z,"Kepulauan Barat Daya, Indonesia",earthquake,,,,,reviewed,us,us
+1977-03-30T10:02:57.000Z,9.353,126.086,112,4.9,mb,,,,,us,usp0000n6b,2014-11-06T23:21:40.548Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-03-29T05:59:07.600Z,9.853,125.921,103,4.7,mb,,,,,us,usp0000n60,2014-11-06T23:21:40.540Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-03-26T07:11:30.900Z,2.649,128.437,33,4.9,mb,,,,,us,usp0000n4j,2014-11-06T23:21:40.481Z,"Halmahera, Indonesia",earthquake,,,,,reviewed,us,us
+1977-03-24T14:17:32.600Z,5.654,126.131,157,4.9,mb,,,,,us,usp0000n3u,2014-11-06T23:21:40.456Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-03-24T07:01:58.300Z,-6.761,129.993,35,5.5,mb,,,,,us,usp0000n3g,2015-05-13T18:53:13.000Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-03-24T06:11:57.800Z,4.947,127.507,33,5.1,mb,,,,,us,usp0000n3e,2014-11-06T23:21:40.424Z,"Kepulauan Talaud, Indonesia",earthquake,,,,,reviewed,us,us
+1977-03-21T14:13:16.000Z,0.404,126.391,33,5.1,mb,,,,,us,usp0000n18,2014-11-06T23:21:40.306Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-03-21T11:33:57.800Z,-4.437,102.748,118,4.5,mb,,,,,us,usp0000n17,2014-11-06T23:21:40.305Z,"southern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-03-21T04:22:26.400Z,-9.524,109.993,33,4.3,mb,,,,,us,usp0000n0u,2014-11-06T23:21:40.294Z,"south of Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-03-21T01:44:53.100Z,-2.196,125.003,33,5,mb,,,,,us,usp0000n0r,2014-11-06T23:21:40.292Z,"Kepulauan Sula, Indonesia",earthquake,,,,,reviewed,us,us
+1977-03-20T19:08:27.700Z,-11.041,116.799,33,4.6,mb,,,,,us,usp0000n0m,2014-11-06T23:21:40.289Z,"south of Lombok, Indonesia",earthquake,,,,,reviewed,us,us
+1977-03-18T06:34:17.400Z,-4.667,103.123,33,5.3,mb,,,,,us,usp0000myn,2014-11-06T23:21:40.202Z,"southern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-03-16T03:26:48.000Z,1.867,126.697,33,4.9,mb,,,,,us,usp0000mxs,2014-11-06T23:21:40.178Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-03-16T00:59:45.100Z,-6.241,130.244,167,5.1,mb,,,,,us,usp0000mxr,2014-11-06T23:21:40.177Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-03-15T08:54:58.800Z,-4.953,131.007,41,5.8,mb,,,,,us,usp0000mxe,2016-11-09T22:05:05.374Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-03-14T23:52:52.800Z,9.755,125.668,33,4.7,mb,,,,,us,usp0000mx8,2014-11-06T23:21:40.164Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-03-14T20:07:35.000Z,-5.54,140.302,33,4.3,mb,,,,,us,usp0000mx3,2014-11-06T23:21:40.160Z,"Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-03-13T15:20:02.500Z,4.938,127.457,87,5.3,mb,,,,,us,usp0000mwe,2014-11-06T23:21:40.142Z,"Kepulauan Talaud, Indonesia",earthquake,,,,,reviewed,us,us
+1977-03-13T05:24:07.400Z,-8.303,117.176,161,5.3,mb,,,,,us,usp0000mwc,2014-11-06T23:21:40.140Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-03-12T06:02:44.700Z,6.855,124.082,95,4.8,mb,,,,,us,usp0000mw1,2014-11-06T23:21:40.132Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-03-11T23:17:30.100Z,0.285,125.607,33,5.3,mb,,,,,us,usp0000mvy,2014-11-06T23:21:40.129Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-03-11T18:06:39.800Z,0.254,125.59,87,5.1,mb,,,,,us,usp0000mvw,2014-11-06T23:21:40.128Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-03-09T23:01:15.900Z,2.594,127.173,59,5.5,mb,,,,,us,usp0000mvc,2016-11-09T22:02:27.415Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-03-08T23:17:28.000Z,0.451,100.021,22,6,ms,,,,,us,usp0000mux,2020-04-17T22:18:54.364Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-03-08T05:08:07.800Z,-2.157,121.035,57,5,mb,,,,,us,usp0000muk,2014-11-06T23:21:40.092Z,"Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-03-07T13:47:31.000Z,1.992,123.052,58,5.4,mb,,,,,us,usp0000mud,2015-05-13T18:53:13.000Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-03-06T23:08:14.100Z,-8.564,124.156,85,4.6,mb,,,,,us,usp0000mu1,2014-11-06T23:21:40.078Z,"Kepulauan Alor, Indonesia",earthquake,,,,,reviewed,us,us
+1977-03-06T12:47:18.300Z,-8.295,123.601,39,5.7,ms,,,,,us,usp0000mty,2020-03-27T18:35:21.430Z,"Flores region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-03-04T23:22:51.700Z,-1.68,138.705,33,5.5,mb,,,,,us,usp0000mth,2020-03-27T18:34:58.926Z,"near the north coast of Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-03-02T14:35:17.000Z,8.903,126.356,84,5.2,mb,,,,,us,usp0000msf,2014-11-06T23:21:40.033Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-03-02T09:53:23.200Z,6.772,123.74,52,6.1,ms,,,,,us,usp0000mse,2020-04-17T22:18:47.598Z,"Moro Gulf, Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-03-02T09:45:30.300Z,4.268,95.422,33,5,mb,,,,,us,usp0000msd,2014-11-06T23:21:40.032Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-03-01T20:13:48.800Z,-1.154,101.081,116,4.6,mb,,,,,us,usp0000ms6,2014-11-06T23:21:40.027Z,"southern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-03-01T09:10:47.400Z,8.621,126.508,121,4.9,mb,,,,,us,usp0000ms4,2014-11-06T23:21:40.025Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-03-01T00:35:00.800Z,6.867,123.976,45,5.5,mb,,,,,us,usp0000ms1,2020-03-27T18:34:35.884Z,"Moro Gulf, Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-02-28T14:55:48.600Z,1.348,126.237,73,5.1,mb,,,,,us,usp0000mrv,2014-11-06T23:21:40.018Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-02-28T01:50:31.900Z,9.215,126.12,64,5.7,mb,,,,,us,usp0000mrq,2020-03-27T18:34:24.719Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-02-27T10:24:56.800Z,-7.358,128.485,175,4.8,mb,,,,,us,usp0000mrd,2014-11-06T23:21:40.007Z,"Kepulauan Barat Daya, Indonesia",earthquake,,,,,reviewed,us,us
+1977-02-27T08:30:00.600Z,-6.337,104.866,59,5.4,mb,,,,,us,usp0000mrb,2015-05-13T18:53:13.000Z,"Sunda Strait, Indonesia",earthquake,,,,,reviewed,us,us
+1977-02-27T02:50:07.800Z,-7.014,128.377,286,4.6,mb,,,,,us,usp0000mr9,2014-11-06T23:21:40.003Z,"Kepulauan Barat Daya, Indonesia",earthquake,,,,,reviewed,us,us
+1977-02-26T15:00:31.600Z,-9.546,119.085,27,5.3,mb,,,,,us,usp0000mr2,2014-11-06T23:21:39.998Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-02-24T17:11:51.400Z,-4.459,135.183,33,4.3,mb,,,,,us,usp0000mqc,2014-11-06T23:21:39.978Z,"near the south coast of Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-02-23T09:38:55.400Z,-4.233,138.918,42,4.3,mb,,,,,us,usp0000mpk,2014-11-06T23:21:39.957Z,"Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-02-22T17:38:51.900Z,3.306,126.742,55,5.2,mb,,,,,us,usp0000mp7,2014-11-06T23:21:39.948Z,"Kepulauan Talaud, Indonesia",earthquake,,,,,reviewed,us,us
+1977-02-22T17:06:57.600Z,-11.986,117.482,61,4.5,mb,,,,,us,usp0000mp6,2014-11-06T23:21:39.948Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-02-22T09:12:43.000Z,-4.429,135.275,38,5.2,mb,,,,,us,usp0000mp2,2014-11-06T23:21:39.944Z,"near the south coast of Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-02-20T22:26:47.400Z,6.02,124.874,116,5,mb,,,,,us,usp0000mnf,2014-11-06T23:21:39.931Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-02-20T06:45:46.900Z,-7.112,129.097,186,5.4,mb,,,,,us,usp0000mn8,2014-11-06T23:21:39.925Z,"Kepulauan Babar, Indonesia",earthquake,,,,,reviewed,us,us
+1977-02-20T01:30:35.900Z,5.906,127.1,33,4.7,mb,,,,,us,usp0000mn2,2014-11-06T23:21:39.921Z,"Philippine Islands region",earthquake,,,,,reviewed,us,us
+1977-02-19T10:34:22.300Z,8.361,93.766,33,5.1,mb,,,,,us,usp0000mmq,2014-11-06T23:21:39.912Z,"Nicobar Islands, India region",earthquake,,,,,reviewed,us,us
+1977-02-19T10:05:51.400Z,-3.006,139.719,33,4.6,mb,,,,,us,usp0000mmp,2014-11-06T23:21:39.910Z,"Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-02-17T13:16:54.400Z,-9.547,120.673,90,5,mb,,,,,us,usp0000mkk,2014-11-06T23:21:39.881Z,"Sumba region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-02-16T10:40:20.900Z,0.496,125.983,33,6.1,mb,,,,,us,usp0000mk9,2016-11-09T21:53:30.450Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-02-15T21:47:08.800Z,7.991,126.512,74,5.3,mb,,,,,us,usp0000mk1,2014-11-06T23:21:39.867Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-02-14T11:44:33.800Z,-8.717,113.697,109,4.4,mb,,,,,us,usp0000mjq,2014-11-06T23:21:39.859Z,"Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-02-13T13:06:51.300Z,-0.117,125.063,33,5.8,mb,,,,,us,usp0000mj7,2016-11-09T21:52:09.108Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-02-12T15:55:31.800Z,-4.394,129.235,20,5.1,mb,,,,,us,usp0000mhu,2014-11-06T23:21:39.836Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-02-11T20:19:45.400Z,-0.266,125.093,68,5.2,mb,,,,,us,usp0000mhf,2014-11-06T23:21:39.827Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-02-08T23:35:58.900Z,1.579,124.598,50,5.1,mb,,,,,us,usp0000mgr,2014-11-06T23:21:39.805Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-02-07T19:16:49.800Z,-10.96,112.381,55,4.9,mb,,,,,us,usp0000mgf,2014-11-06T23:21:39.798Z,"south of Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-02-07T02:24:59.400Z,-2.24,120.779,33,5.2,mb,,,,,us,usp0000mga,2014-11-06T23:21:39.794Z,"Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-02-04T07:01:45.100Z,-1.978,134.384,16,5.3,mb,,,,,us,usp0000mf9,2014-11-06T23:21:39.748Z,"near the north coast of Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-02-02T09:11:34.800Z,-6.183,131.732,33,4.8,mb,,,,,us,usp0000mep,2014-11-06T23:21:39.687Z,"Kepulauan Tanimbar, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-31T23:53:03.700Z,5.976,125.303,142,5.1,mb,,,,,us,usp0000me8,2014-11-06T23:21:39.661Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-01-31T17:59:02.200Z,2.071,126.603,37,5.3,mb,,,,,us,usp0000me6,2014-11-06T23:21:39.659Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-01-31T01:33:08.000Z,-5.31,104.611,119,4.2,mb,,,,,us,usp0000mdx,2014-11-06T23:21:39.652Z,"southern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-30T19:37:14.700Z,-6.256,130.162,122,5,mb,,,,,us,usp0000mdr,2014-11-06T23:21:39.625Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-01-30T19:32:26.300Z,-5.475,131.184,33,4.8,mb,,,,,us,usp0000mdq,2014-11-06T23:21:39.614Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-01-29T13:40:32.200Z,-9.207,111.243,33,5.1,mb,,,,,us,usp0000md7,2014-11-06T23:21:39.549Z,"south of Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-28T20:55:24.700Z,1.663,126.521,33,4.4,mb,,,,,us,usp0000mct,2014-11-06T23:21:39.538Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-01-27T17:25:46.500Z,-0.23,124.024,85,5,mb,,,,,us,usp0000mcf,2014-11-06T23:21:39.531Z,"Molucca Sea",earthquake,,,,,reviewed,us,us
+1977-01-27T09:13:38.700Z,-9.364,118.96,33,4.8,mb,,,,,us,usp0000mca,2014-11-06T23:21:39.527Z,"Sumbawa region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-26T13:11:29.800Z,-8.219,115.193,33,5.2,mb,,,,,us,usp0000mc1,2020-03-27T18:32:28.964Z,"Bali region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-26T08:30:08.900Z,-6.905,128.862,188,4.6,mb,,,,,us,usp0000mbz,2014-11-06T23:21:39.519Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-01-25T20:18:33.800Z,-8.346,119.984,209,4.7,mb,,,,,us,usp0000mbu,2014-11-06T23:21:39.516Z,"Flores region, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-25T14:19:47.900Z,-5.744,139.012,39,4.4,mb,,,,,us,usp0000mbn,2014-11-06T23:21:39.511Z,"Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-25T11:24:25.100Z,1.595,124.704,238,4.5,mb,,,,,us,usp0000mbm,2014-11-06T23:21:39.510Z,"Minahasa, Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-25T02:37:41.600Z,-1.891,134.36,33,5.4,ms,,,,,us,usp0000mbb,2016-11-09T21:44:43.626Z,"near the north coast of Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-23T12:23:46.700Z,2.119,97.864,66,3.8,mb,,,,,us,usp0000mag,2014-11-06T23:21:39.450Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-22T04:18:36.500Z,-3.469,127.138,66,5.3,mb,,,,,us,usp0000m9z,2015-05-13T18:53:13.000Z,"Seram, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-22T01:15:16.600Z,-3.455,141.301,33,5.2,mb,,,,,us,usp0000m9x,2014-11-06T23:21:39.434Z,"New Guinea, Papua New Guinea",earthquake,,,,,reviewed,us,us
+1977-01-20T20:51:14.900Z,8.39,123.026,37,5.4,mb,,,,,us,usp0000m9e,2016-11-09T21:42:37.107Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-01-19T22:06:57.000Z,-3.248,135.994,33,4.5,mb,,,,,us,usp0000m8x,2014-11-06T23:21:39.407Z,"Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-19T19:36:51.100Z,4.993,126.473,33,4.7,mb,,,,,us,usp0000m8v,2014-11-06T23:21:39.406Z,"Kepulauan Talaud, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-19T17:09:46.600Z,8.473,127.084,94,5.2,mb,,,,,us,usp0000m8r,2014-11-06T23:21:39.402Z,"Philippine Islands region",earthquake,,,,,reviewed,us,us
+1977-01-19T16:18:41.800Z,-4.664,140.005,33,4.9,mb,,,,,us,usp0000m8q,2014-11-06T23:21:39.402Z,"Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-19T15:58:32.700Z,-10.52,125.747,33,4.7,mb,,,,,us,usp0000m8n,2014-11-06T23:21:39.400Z,"Timor Sea",earthquake,,,,,reviewed,us,us
+1977-01-19T15:12:27.000Z,-4.754,140.258,33,5.2,mb,,,,,us,usp0000m8m,2014-11-06T23:21:39.400Z,"Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-19T13:54:04.500Z,5.036,126.553,50,5.9,ms,,,,,us,usp0000m8j,2016-11-09T21:42:11.260Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-01-18T13:48:12.500Z,-4.455,138.462,147,4.4,mb,,,,,us,usp0000m7y,2014-11-06T23:21:39.379Z,"Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-18T11:17:20.800Z,-4.644,132.703,57,5.1,mb,,,,,us,usp0000m7v,2014-11-06T23:21:39.377Z,"near the south coast of Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-17T22:12:56.700Z,-5.775,133.679,33,5.2,mb,,,,,us,usp0000m7n,2014-11-06T23:21:39.371Z,"Kepulauan Kai, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-17T03:11:43.500Z,6.21,126.274,86,5,mb,,,,,us,usp0000m75,2014-11-06T23:21:39.359Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-01-13T14:27:38.400Z,2.051,125.082,156,5.1,mb,,,,,us,usp0000m5n,2014-11-06T23:21:39.316Z,"Kepulauan Sangihe, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-12T23:35:19.100Z,1.577,99.856,178,5.6,mb,,,,,us,usp0000m5c,2020-03-27T18:30:51.828Z,"northern Sumatra, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-11T21:41:26.300Z,-5.356,133.869,33,5.1,mb,,,,,us,usp0000m52,2014-11-06T23:21:39.300Z,"Kepulauan Kai, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-10T08:18:59.900Z,8.347,125.187,38,5.4,mb,,,,,us,usp0000m4s,2014-11-06T23:21:39.292Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-01-08T10:55:19.000Z,-3.579,140.099,26,5.1,mb,,,,,us,usp0000m41,2014-11-06T23:21:39.271Z,"Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-07T19:09:33.200Z,5.323,126.163,53,4.7,mb,,,,,us,usp0000m3j,2014-11-06T23:21:39.258Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-01-07T10:37:18.700Z,-7.484,129.07,143,4.4,mb,,,,,us,usp0000m3c,2014-11-06T23:21:39.254Z,"Kepulauan Babar, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-06T11:16:41.200Z,-3.153,129.102,48,5,mb,,,,,us,usp0000m32,2014-11-06T23:21:39.246Z,"Seram, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-06T09:29:06.200Z,-7.042,129.519,56,4.3,mb,,,,,us,usp0000m30,2014-11-06T23:21:39.245Z,"Kepulauan Babar, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-04T11:47:08.600Z,-1.478,126.799,33,4.9,mb,,,,,us,usp0000m25,2014-11-06T23:21:39.221Z,"Kepulauan Sula, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-03T00:21:36.900Z,-0.009,123.902,131,5.1,mb,,,,,us,usp0000m1n,2014-11-06T23:21:39.206Z,"Sulawesi, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-02T09:55:28.400Z,-10.17,118.987,19,6.3,ms,,,,,us,usp0000m1d,2020-04-17T22:18:36.323Z,"south of Sumbawa, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-02T00:55:08.800Z,-6.955,129.511,171,5,mb,,,,,us,usp0000m18,2014-11-06T23:21:39.194Z,"Banda Sea",earthquake,,,,,reviewed,us,us
+1977-01-01T21:03:41.600Z,-0.859,134.335,33,4.9,mb,,,,,us,usp0000m13,2014-11-06T23:21:39.190Z,"near the north coast of Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-01T20:45:32.600Z,-1.137,134.744,64,4.9,mb,,,,,us,usp0000m12,2014-11-06T23:21:39.189Z,"near the north coast of Papua, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-01T19:01:39.600Z,-2.532,126.582,33,6.1,ms,,,,,us,usp0000m11,2016-11-09T21:34:34.858Z,"Ceram Sea, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-01T17:35:54.900Z,-7.885,109.014,113,5.7,mb,,,,,us,usp0000m10,2020-03-27T18:29:17.440Z,"Java, Indonesia",earthquake,,,,,reviewed,us,us
+1977-01-01T10:52:34.100Z,8.414,126.409,53,5,mb,,,,,us,usp0000m0s,2014-11-06T23:21:39.178Z,"Mindanao, Philippines",earthquake,,,,,reviewed,us,us
+1977-01-01T02:18:20.100Z,-7.833,107.866,90,4.7,mb,,,,,us,usp0000m0k,2014-11-06T23:21:39.174Z,"Java, Indonesia",earthquake,,,,,reviewed,us,us
