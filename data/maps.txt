@@ -10,4 +10,5 @@ Lombok.ps  115.25 117 -9.2 -7.9   1   TL  BR
 Lombok2.ps   115.75  117 -9  -8.15   0   TL  BR
 Lombok_subd2.ps  112 120 -12 -4   0   TR  BR
 Lombok_final.ps  115.4 117 -9.25 -7.8   0   TL  BR
-Ambon3.ps 125   135   -10    0    0   BL  BR
+Ambon.ps 125   135   -10    0    0   BL  BR
+Backthrust.ps 114  128 -12 -6  0   TL  BR

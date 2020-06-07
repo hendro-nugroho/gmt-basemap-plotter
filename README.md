@@ -40,7 +40,7 @@ Quickly plot multiple basemaps from inputted region of interests (ROIs) using [G
 
 ## **Files and Folders:**
 
-Currently there are five main scripts: **_basemap_plotter.sh_**, **seismicity.sh**,**_srtm15p_downloader.sh_**, **slab2-plotter.sh**, and **fetch_eq.sh** in the main folder beside the **_README.md_** (This file). Eight folders are there to put cpt files (**cpt** folder), grid files (**grd** folder), various input data (**data** folder), global cmt data (**gcmt** folder), seismic event data (**seism** folder), postscript results (**outputs**), slab 2.0 data (**slab2** folder), and images of this document (**images** folder). Grid files inside grd folder are  tracked and uploaded to GitHub LFS due to their sizes. 
+Currently there are five main scripts: **_basemap_plotter.sh_**, **seismicity.sh**,**_srtm15p_downloader.sh_**, **slab2-plotter.sh**, and **fetch_eq.sh** in the main folder beside the **_README.md_** (This file). Eight folders are there to put cpt files (**cpt** folder), grid files (**grd** folder), various input data (**data** folder), global cmt data (**gcmt** folder), seismic event data (**seism** folder), postscript results (**outputs**), slab 2.0 data (**slab2** folder), and images of this document (**images** folder). Grid files inside grd folder are  tracked and uploaded to GitHub LFS due to their sizes.
 
 <div align="center"><img src="./images/ff.jpg" alt="files and folders" style="zoom:30%;" /></div>
 
@@ -112,49 +112,49 @@ $
 
 Following are the results:
 
-<img src="./images/Bali_and_Lombok.jpg" alt="Bali_and_Lombok" style="zoom:50%;" />
+<img src="./outputs/basic-maps-asym/Bali_and_Lombok.jpg" alt="Bali_and_Lombok" style="zoom:50%;" />
 
 <div align="center"><b>Figure 2.</b> Basemap of Bali and Lombok Island with plain map frames.</div>
 
-<img src="./images/basic-maps-asym/Bali.jpg" alt="Bali" style="zoom:50%;" />
+<img src="./outputs/basic-maps-asym/Bali.jpg" alt="Bali" style="zoom:50%;" />
 
 <div align="center"><b>Figure 3.</b> Basemap of Bali Island in fancy map frames.</div>
 
-<img src="./images/basic-maps-asym/Lombok.jpg" alt="Lombok Island" style="zoom:32%;" />
+<img src="./outputs/basic-maps-asym/Lombok.jpg" alt="Lombok Island" style="zoom:32%;" />
 
 <div align="center"><b>Figure 4.</b> Basemap of Lombok Island plotted in landscape mode inside fancy frames.</div>
 
-<img src="./images/basic-maps-asym/Singapore.jpg" alt="Singapore" style="zoom:50%;" />
+<img src="./outputs/basic-maps-asym/Singapore.jpg" alt="Singapore" style="zoom:50%;" />
 
 <div align="center"><b>Figure 5.</b> Basemap of Singapore region plotted automatically in portrait mode using plain map frames.</div>
 
-<img src="./images/basic-maps-asym/Indo.jpg" alt="Indonesia" style="zoom:70%;" />
+<img src="./outputs/basic-maps-asym/Indo.jpg" alt="Indonesia" style="zoom:70%;" />
 
 <div align="center"><b>Figure 6.</b> Basemap of Indonesia region plotted automatically in landscape mode using plain map frames.</div>
 
-<img src="./images/basic-maps-asym/Aceh.jpg" alt="Aceh Province" style="zoom:50%;" />
+<img src="./outputs/basic-maps-asym/Aceh.jpg" alt="Aceh Province" style="zoom:50%;" />
 
 <div align="center"><b>Figure 7.</b> Basemap of Aceh Province plotted automatically in portrait mode using plain map frames.</div>
 
-<img src="./images/basic-maps-asym/Sumut.jpg" alt="North Sumatra Province" style="zoom:50%;" />
+<img src="./outputs/basic-maps-asym/Sumut.jpg" alt="North Sumatra Province" style="zoom:50%;" />
 
 <div align="center"><b>Figure 8.</b> Basemap of North Sumatra Province (Propinsi Sumatera Utara) plotted automatically in portrait mode using plain map frames.</div>
 
 ## **Other Features:**
 
-<img src="./images/Indo.jpg" alt="Indonesia" style="zoom:70%;" />
+<img src="./outputs/Indo.jpg" alt="Indonesia" style="zoom:70%;" />
 
 <div align="center"><b>Figure 9.</b> Basemap of Indonesia region plotted automatically in lanscape mode without DEM using plain map frames. Major cities Indonesia are plotted.</div>
 
-<img src="./images/seismicity/Indo-eq15to20.jpg" alt="Indonesia" style="zoom:70%;" />
+<img src="./outputs/seismicity/Indo-eq15to20.jpg" alt="Indonesia" style="zoom:70%;" />
 
 <div align="center"><b>Figure 9.</b> Basemap of Indonesia region plotted automatically in lanscape mode without DEM using plain map frames. Shallow crustal event (depth of < 50km) in 5 year periods (2015-2020) are plotted on the map.</div>
 
-<img src="./images/seismicity/Indo-gcmt.jpg" alt="Indonesia" style="zoom:70%;" />
+<img src="./outputs/seismicity/Indo-gcmt.jpg" alt="Indonesia" style="zoom:70%;" />
 
 <div align="center"><b>Figure 10.</b> Basemap of Indonesia region plotted automatically in lanscape mode without DEM using plain map frames. GCMT data, volcanoes and plate boundaries are plotted on the map.</div>
 
-<img src="./images/basic-maps-gray10/Indo.jpg" alt="Indonesia" style="zoom:70%;" />
+<img src="./outputs/basic-maps-gray10/Indo.jpg" alt="Indonesia" style="zoom:70%;" />
 
 <div align="center"><b>Figure 11.</b> Basemap of Indonesia region plotted automatically in lanscape mode in plain map frames. Gray10 color palette is implemented.</div>
 

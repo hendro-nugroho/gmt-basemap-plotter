@@ -73,7 +73,7 @@ fi
 # Grid files; Topo15
 # If you want to plot a basemap without DEM, simply rename the files below
 #
-topo="grd/top15idn.grd"
+topo="grd/top15idnx.grd"
 topoi="grd/top15idni.grd"
 
 if [ ! -f "$topo" ] || [ ! -f "$topoi" ]; then
@@ -149,11 +149,11 @@ mcity="data/idn-36-cities.gmt"
 v=0
 p=0
 # Seismicity and GCMT
-s1=1; s2=0; iris=0; usgs=1
+s1=0; s2=0; iris=0; usgs=0
 g1=0; g2=0
 
 # If s == 1; start - end yr of seismicity data to be plotted
-# available data: 1971-2020
+# available data: IRIS: 1971-2020/04/06 USGS: 1970-2020/06/02
 yr1=1970
 yr2=2020
 
@@ -454,6 +454,21 @@ fi
 
 ################### YOUR PLOT ON TOP OF BASEMAP ####################
 # source lombok.sh
+#datadir="/Users/hendro/gmt_data/plate_boundaries/utexas"
+#datadir2="/Users/hendro/Downloads/dr_s"
+#$datadir2/trench_balik.gmt
+#gmt psxy $ditto $open $datadir/transform.gmt -W0.5p,black >> $ps
+#gmt psxy $ditto $open $datadir2/trench.gmt -W0.5p,black -Sf0.4i/0.04i+l+t -Gblack >> $ps
+#gmt psxy $ditto $open  -W0.5p,black -Sf0.4i/0.04i+r+t -Gblack << EOF >> $ps
+#EOF
+
+##gmt psxy $ditto $open ~/Downloads/dr_s/2016_JAVA-FaultModel_v1_2.gmt -W0.5p,black >> $ps
+#gmt psxy $ditto $open ~/Downloads/dr_s/2016_KalimantanfaultMod_v1_2.gmt -W0.5p,black >>! $ps
+#gmt psxy $ditto $open ~/Downloads/dr_s/2016-NMaluccuFaults-latlong_v1_2.gmt -W0.5p,black >> $ps
+#gmt psxy $ditto $open ~/Downloads/dr_s/2016_NT-Banda-Fault_v1.2_simplified.gmt -W0.5p,black >> $ps
+#gmt psxy $ditto $open ~/Downloads/dr_s/2016_SulawesiFaultMod_v1_2.gmt -W0.5p,black >> $ps
+#gmt psxy $ditto $open ~/Downloads/dr_s/2016_SUM_FaultModel_v1_2.gmt -W0.5p,black >>! $ps
+
 ####################################################################
 # DCW option for TL boundary
 #
