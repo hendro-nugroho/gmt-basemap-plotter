@@ -58,7 +58,7 @@ echo "+------------------------------------------------------------------------+
 ###
 # --------------------------------------------------------------------------------
 
-input="data/map_test.txt"
+input="data/maps.txt"
 #input="data/maps.txt"
 
 if [ ! -f "$input" ]; then
@@ -73,7 +73,7 @@ fi
 # Grid files; Topo15
 # If you want to plot a basemap without DEM, simply rename the files below
 #
-topo="grd/top15idnx.grd"
+topo="grd/top15idn.grd"
 topoi="grd/top15idni.grd"
 
 if [ ! -f "$topo" ] || [ ! -f "$topoi" ]; then
@@ -166,7 +166,7 @@ slb=0
 # Cities
 ct=0
 # Inset [On/Off]; default inset=1 [On]
-inset=0
+inset=1
 
 ### INSET CPTs
 #iLandC=olivedrab
@@ -453,21 +453,7 @@ if [ $s1 == 1 ] || [ $s2 == 1 ] || [ $g1 == 1 ] || [ $g2 == 1 ]; then
 fi
 
 ################### YOUR PLOT ON TOP OF BASEMAP ####################
-# source lombok.sh
-#datadir="/Users/hendro/gmt_data/plate_boundaries/utexas"
-#datadir2="/Users/hendro/Downloads/dr_s"
-#$datadir2/trench_balik.gmt
-#gmt psxy $ditto $open $datadir/transform.gmt -W0.5p,black >> $ps
-#gmt psxy $ditto $open $datadir2/trench.gmt -W0.5p,black -Sf0.4i/0.04i+l+t -Gblack >> $ps
-#gmt psxy $ditto $open  -W0.5p,black -Sf0.4i/0.04i+r+t -Gblack << EOF >> $ps
-#EOF
 
-##gmt psxy $ditto $open ~/Downloads/dr_s/2016_JAVA-FaultModel_v1_2.gmt -W0.5p,black >> $ps
-#gmt psxy $ditto $open ~/Downloads/dr_s/2016_KalimantanfaultMod_v1_2.gmt -W0.5p,black >>! $ps
-#gmt psxy $ditto $open ~/Downloads/dr_s/2016-NMaluccuFaults-latlong_v1_2.gmt -W0.5p,black >> $ps
-#gmt psxy $ditto $open ~/Downloads/dr_s/2016_NT-Banda-Fault_v1.2_simplified.gmt -W0.5p,black >> $ps
-#gmt psxy $ditto $open ~/Downloads/dr_s/2016_SulawesiFaultMod_v1_2.gmt -W0.5p,black >> $ps
-#gmt psxy $ditto $open ~/Downloads/dr_s/2016_SUM_FaultModel_v1_2.gmt -W0.5p,black >>! $ps
 
 ####################################################################
 # DCW option for TL boundary
